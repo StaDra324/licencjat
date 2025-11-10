@@ -1,0 +1,61 @@
+PYTANIA:
+
+Czy fhv służą głownie młodym, bogatszym i lepiej wyedukowanym?
+
+Czy fhv są popularne w innych grupach?
+
+Skąd wynika różnica w czasie oczekiwania między fhv a taxi? (technologia, podaż)?
+
+Czy fhv są bardziej komplementarne czy substytucyjne dla transportu publicznego?
+
+Jak fhv wpływa na ogólne użycie aut (VMT)?
+
+Jak wygląda wskaźnik wykorzystania dla taxi i fhv w zależności od pory dnia i obszaru (gęstości zaludnienia)?
+
+Jak zmienia się struktura przestrzenna popytu po pojawieniu się ridesourcingu (czy np. popyt na taxi na obrzeżach spada bardziej)?
+
+Co wpływa na wskaźnik wykorzystania?
+
+Jak wygląda wskaźnik wykorzystania obecnie?
+
+Czy wraz ze wzrostem liczby kierowców Ubera wskaźnik wykorzystania spada (efekt nasycenia rynku)?
+
+Jak kształtuje się popyt na hvfhv i taxi w zależności od strefy i od czego to zależy?
+
+HIPOTEZY:
+
+Determinanty wskaźnika wykorzystania:
+	podaż / liczba kierowców, obszar - gęstość zaludnienia, struktura demograficzna, status ekonomiczny
+	
+Czy struktura przestrzenna zmienia się wraz ze zmianą wskaźnika wykorzystania?:
+	rośnie dopasowanie podaży do popytu, na obrzeżach fhv wypierają taxi, w centrum więcej taxi, ich wskaźnik rośnie
+	
+Czas oczekiwania na fhv zależy od podaży, ale tylko do pewnego stopnia, do nasycenia - a jest to jedna z głównych przewag fhv nad taxi
+
+Od czego zależy liczba przejazdów w dzielnicy?
+
+Jak różnią się liczby przejazdów między dzielnicami?
+
+Czy czas oczekiwania zależy od liczby kierowców / przejazdów?
+
+Jak zachowują się kierowcy - czy funkcja podaży jest raczej neoklasyczna czy z progiem?
+
+Jak na liczbę przejazdów wpływają warunki pogodowe? Jak to się różni między dzielnicami?  Co na to wpływa?
+
+Jak na czas oczekiwania wpływają warunki pogodowe (jako że jest to jeden z głównych obszarów w którym fhv mają przewagę nad taxi)?
+
+Jak zachowują się ceny w zależności od pogody (dynamiczne dopasowanie podaży do popytu)?
+
+Czy kierowcy pracują więcej w dni kiedy pada w skali miesiąca / roku? (ale skąd mieliby to wiedzieć?)
+
+Jak pogoda wpływa na przejazdy taxi i fhv?
+
+Jak popularność Ubera wpływa na popularność taxi? Czy zależy to od godzin - w godzinach szczytu taxi tracą mniej?
+
+Czy wpływ Ubera na taxi różni się przestrzennie – np. między Manhattanem, Brooklynem a Bronxem?
+
+Czy efekty Ubera są silniejsze przy złej pogodzie lub w okresach zwiększonego popytu (np. noc, weekendy)?
+
+Jak godzina, dzień i temperatura wpływają na liczbę przejazdów?
+
+Jak to się różni między dzielnicami?

@@ -1,0 +1,1092 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0167268118301598">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:01672681"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brodeur</foaf:surname>
+                        <foaf:givenName>Abel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nield</foaf:surname>
+                        <foaf:givenName>Kerry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_30"/>
+        <link:link rdf:resource="#item_1"/>
+        <dc:title>An empirical analysis of taxi, Lyft and Uber rides: Evidence from weather shocks in NYC</dc:title>
+        <dcterms:abstract>Using all taxi, Lyft and Uber rides in New York City, we show that the number of Uber and Lyft rides is signiﬁcantly correlated with whether it rained. The number of Uber (Lyft) rides per hour is about 22 (19)% higher when it is raining, while the number of taxi rides per hour increases by only 5% in rainy hours-suggesting that surge pricing (prime time) encourages an increase in supply. We show that while the number of taxi rides, passengers and fare income all signiﬁcantly decreased after Uber entered the market in May 2011, taxis do not respond differently to increased demand in rainy hours than non-rainy hours since the entrance of Uber. Last, we test whether Lyft’s entry in the market affected Uber. Our estimates suggest that Uber was still growing after Lyft entered the market, but that Uber rides during rainy hours decreased by about 9%. Our ﬁndings suggest that dynamic pricing make Lyft and Uber drivers compete for rides when demand suddenly increases, i.e., during rainy hours.</dcterms:abstract>
+        <dc:date>08/2018</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>An empirical analysis of taxi, Lyft and Uber rides</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0167268118301598</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-07 16:57:47</dcterms:dateSubmitted>
+        <bib:pages>1-16</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:01672681">
+        <prism:volume>152</prism:volume>
+        <dc:title>Journal of Economic Behavior &amp; Organization</dc:title>
+        <dc:identifier>DOI 10.1016/j.jebo.2018.06.004</dc:identifier>
+        <dcterms:alternative>Journal of Economic Behavior &amp; Organization</dcterms:alternative>
+        <dc:identifier>ISSN 01672681</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_30">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;57; model&lt;/p&gt;
+&lt;p&gt;Liczba przejazdów na godzinę silnie skorelowana z tym czy pada - może to być spowodowane elastycznymi cenami, bo jak pada to rośnie popyt, więc ceny też rosną. &lt;br&gt;Jest to widoczne bardziej w przypadku fhv niż taxi , bo fhv mają dynamicznie dostosowujące się ceny. To może sugerować, że &amp;nbsp;kierowcy mają neoklasyczną funkcję podaży, czyli reagują pozytywnie na zmianę płac, a nie mają ustalonego poziomu, po osiągnięciu którego przestają pracować (tak też wyszło Faberowi w 2015).&lt;/p&gt;
+&lt;p&gt;Po wejściu Lyfta przejazdy Ubera w deszczu spadły, co sugeruje, ale taxi się nie zmieniły, co sugeruje że dynamicznie dostosowujące się firmy konkurują o klienta w okresach zwiększonego popytu.&lt;/p&gt;
+&lt;p&gt;Ograniczenia i niepewności wskazane w artykule:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+brak możliwości rozróżnienia intensywnego i ekstensywnego marginesu podaży (czy w deszczu pracuje więcej godzin ci sami kierowcy, czy więcej kierowców w ogóle wychodzi na ulice),
+&lt;/li&gt;
+&lt;li&gt;
+brak danych o indywidualnych kierowcach
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(255, 119, 0)&quot;&gt;brak danych o faktycznych cenach / surge multiplierach&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+możliwe różnice w awersji do ryzyka i WTP między klientami taxi a FHV, które też mogą tłumaczyć efekty
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(255, 119, 0)&quot;&gt;niemożność przetestowania hipotezy o tygodniowych lub miesięcznych celach dochodowych zamiast dziennych&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(255, 119, 0)&quot;&gt;ograniczenia danych pogodowych (jedna stacja – Central Park, więc nie ma przestrzennej zmienności w deszczu)&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(255, 119, 0)&quot;&gt;PYTANIA:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jak zachowują się kierowcy - czy funkcja podaży jest raczej neoklasyczna czy z progiem?&lt;/p&gt;
+&lt;p&gt;Jak na liczbę przejazdów wpływają warunki pogodowe? Jak to się różni między dzielnicami?&lt;br&gt;Co na to wpływa?&lt;/p&gt;
+&lt;p&gt;Jak na czas oczekiwania wpływają warunki pogodowe (jako że jest to jeden z głównych obszarów w którym fhv mają przewagę nad taxi)?&lt;/p&gt;
+&lt;p&gt;Jak zachowują się ceny w zależności od pogody (dynamiczne dopasowanie podaży do popytu)?&lt;/p&gt;
+&lt;p&gt;Czy kierowcy pracują więcej w dni kiedy pada w skali miesiąca / roku? (ale skąd mieliby to wiedzieć?)&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_1">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallsten</foaf:surname>
+                        <foaf:givenName>Scott</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3"/>
+        <dc:title>The Competitive Effects of the Sharing Economy: How is Uber Changing Taxis?</dc:title>
+        <dcterms:abstract>The rise of the so-called “sharing economy” has created new competition across a number of industries, most notably hotels, through Airbnb, and taxis, through ride-sharing services like Uber, Lyft, and Sidecar. This paper explores the competitive effects of ride-sharing on the taxi industry using a detailed dataset from the New York City Taxi and Limousine Commission of over a billion NYC taxi rides, taxi complaints from New York and Chicago, and information from Google Trends on the popularity of the largest ride-sharing service, Uber. I find that controlling for underlying trends and weather conditions that might affect taxi service, Uber’s increasing popularity is associated with a decline in consumer complaints per trip about taxis in New York. In Chicago, Uber’s growth is associated with a decline in particular types of complaints about taxis, including broken credit card machines, air conditioning and heating, rudeness, and talking on cell phones.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.researchgate.net/doi/10.13140/RG.2.2.17588.12167/1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.13140/RG.2.2.17588.12167/1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mensah</foaf:surname>
+                        <foaf:givenName>Manuel Nii Martey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4"/>
+        <dc:title>THE ECONOMIC IMPACTS OF UBER SERVICES ON TRADITIONAL TAXI OPERATORS IN THE ACCRA METROPOLIS</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/doi/10.13140/RG.2.2.17588.12167/1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-07 16:58:09</dcterms:dateSubmitted>
+        <dc:description>Publisher: Unpublished
+Version Number: 1</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doisrpska.nub.rs/index.php/actaeconomica/article/view/5325">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1512-858X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pepić</foaf:surname>
+                        <foaf:givenName>Lana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_5"/>
+        <dc:title>The sharing economy: Uber and its effect on taxi companies</dc:title>
+        <dcterms:abstract>The popular ride sharing service Uber has undoubtedly affected the taxi industry by offering lower prices, faster and more quality service, as well as a higher degree of transparency in terms of choosing drivers and determining fares. A question arises inevitably: does Uber present loyal or unloyal price competition to taxi companies by offering significantly lower prices, cutting fixed costs and bypassing middlemen? Is there a tax loophole at play? The hypothesis this paper aims to examine is whether Uber is a new way of providing transportation services, thus bringing more transparency and fair competition to the industry, or it is a disruptor on a previously fair market. If the second case is correct, not all hope should be lost - perhaps with the right amount of regulation, Uber could become a new standard in service transportation.</dcterms:abstract>
+        <dc:date>2018-12-24</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The sharing economy</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doisrpska.nub.rs/index.php/actaeconomica/article/view/5325</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-07 16:58:10</dcterms:dateSubmitted>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1512-858X">
+        <prism:volume>16</prism:volume>
+        <dc:title>ACTA ECONOMICA</dc:title>
+        <dc:identifier>DOI 10.7251/ACE1828123P</dc:identifier>
+        <prism:number>28</prism:number>
+        <dcterms:alternative>ACE</dcterms:alternative>
+        <dc:identifier>ISSN 1512-858X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>labor_market_american_cities</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0014292118300849">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00142921"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berger</foaf:surname>
+                        <foaf:givenName>Thor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Chinchih</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Frey</foaf:surname>
+                        <foaf:givenName>Carl Benedikt</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_27"/>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>Drivers of disruption? Estimating the Uber effect</dc:title>
+        <dcterms:abstract>A frequent belief is that the rise of so-called “gig work” has led to the displacement of workers in a wide range of traditional jobs. This paper examines the impacts of the ﬂagship of the gig economy—Uber—on workers employed in conventional taxi services. Our analysis exploits newly collected data on the staggered rollout of Uber across metropolitan areas in the United States and a difference-in-differences design to document that incumbent taxi drivers experienced a relative earnings decline of about 10 percent subsequent to Uber’s entry into a new market, while there are no signiﬁcant effects on their labor supply. Additional evidence from a battery of placebo tests, event study estimates, and speciﬁcations using Google Trends data to capture differences in treatment intensity underlines these ﬁndings. A triple-differences design that compares changes among taxi drivers relative to bus, tractor, and truck drivers that were unaffected by the arrival of Uber, provides further supporting evidence that the diffusion of Uber has reduced the earnings potential of incumbent drivers in conventional taxi services in the United States.</dcterms:abstract>
+        <dc:date>11/2018</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Drivers of disruption?</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0014292118300849</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-07 16:58:32</dcterms:dateSubmitted>
+        <bib:pages>197-210</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00142921">
+        <prism:volume>110</prism:volume>
+        <dc:title>European Economic Review</dc:title>
+        <dc:identifier>DOI 10.1016/j.euroecorev.2018.05.006</dc:identifier>
+        <dcterms:alternative>European Economic Review</dcterms:alternative>
+        <dc:identifier>ISSN 00142921</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_27">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;122&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_15">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_10"/>
+        <dc:title>Driving the Gig Economy</dc:title>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://knepublishing.com/index.php/KnE-Social/article/view/16529">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2518-668X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Setiawan</foaf:surname>
+                        <foaf:givenName>Andy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maulana</foaf:surname>
+                        <foaf:givenName>Agus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11"/>
+        <dc:title>Impact of Transportation Network Companies on Conventional Taxi Companies in Indonesia</dc:title>
+        <dcterms:abstract>This research was conducted to determine the impact of disruptive innovations with the emergence of online-based transportation on conventional taxi companies in Indonesia. The method used is descriptive research with case studies on two taxi companies, namely PT. Blue Bird Tbk (BIRD) and PT. Express Transindo Utama Tbk (TAXI) during the period 2014-2022. The variables studied were operating income, operating profit/loss, stock prices, and bankruptcy predictions using the Springate model. The results show that the emergence of online-based transportation affects decreasing operating income, operating profit, and stock prices in both companies. The potential for bankruptcy also increases with decrease in income and operating profit. Nevertheless, BIRD can endure in the era of disruption by innovating in services and collaborating with online transportation companies. On the other hand, TAXI’s efforts to innovate have not yielded results, leading to a lack of significant improvement signals in the company’s performance. Adaptability, innovation strategies, and collaboration are identified as key factors for the success of conventional taxi companies in surviving the era of disruption.</dcterms:abstract>
+        <dc:date>2024-07-04</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://knepublishing.com/index.php/KnE-Social/article/view/16529</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-07 16:58:35</dcterms:dateSubmitted>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2518-668X">
+        <dc:title>KnE Social Sciences</dc:title>
+        <dc:identifier>DOI 10.18502/kss.v9i20.16529</dc:identifier>
+        <dcterms:alternative>KSS</dcterms:alternative>
+        <dc:identifier>ISSN 2518-668X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_17">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>NBER</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cramer</foaf:surname>
+                        <foaf:givenName>Judd</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krueger</foaf:surname>
+                        <foaf:givenName>Alan B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_29"/>
+        <link:link rdf:resource="#item_13"/>
+        <dc:title>Disruptive Change in the Taxi Business: The Case of Uber</dc:title>
+        <dcterms:abstract>In most cities, the taxi industry is highly regulated and utilizes technology developed in the 1940s. Ride sharing services such as Uber and Lyft, which use modern internet-based mobile technology to connect passengers and drivers, have begun to compete with traditional taxis. This paper examines the efficiency of ride sharing services vis-à-vis taxis by comparing the capacity utilization rate of UberX drivers with that of traditional taxi drivers in five cities. The capacity utilization rate is measured by the fraction of time a driver has a fare-paying passenger in the car while he or she is working, and by the share of total miles that drivers log in which a passenger is in their car. The main conclusion is that, in most cities with data available, UberX drivers spend a significantly higher fraction of their time, and drive a substantially higher share of miles, with a passenger in their car than do taxi drivers. Four factors likely contribute to the higher capacity utilization rate of UberX drivers: 1) Uber’s more efficient driver-passenger matching technology; 2) the larger scale of Uber than taxi companies; 3) inefficient taxi regulations; and 4) Uber’s flexible labor supply model and surge pricing more closely match supply with demand throughout the day.</dcterms:abstract>
+        <dc:date>2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_29">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;534&lt;/p&gt;
+&lt;p&gt;Wskaźnik wykorzystania - czasowy albo dystansowy, ogólnie chodzi o efektywność - jaki procent czasu lub dystansu kierowca jedzie z pasażerem&lt;/p&gt;
+&lt;p&gt;Uber ma ogólnie wyższy wskaźnik niż taxi (50% do 30-50%)&lt;/p&gt;
+&lt;p&gt;Różnice w tym wskaźniku sugerują, że kierowcy Ubera mogliby wykonywać tą samą pracę, którą wykonują kierowcy taxi efektywniej, co mogłoby się przyczynić do zmniejszenia korków, zanieczyszczeń itp.&lt;/p&gt;
+&lt;p&gt;Wpływ na przewagę Ubera mogą mieć:&lt;br&gt;- technologia -&amp;gt; lepsze dopasowania itd.&lt;br&gt;- większa podaż (Uber ma więcej kierowców niż firmy taxi)&lt;br&gt;- złe regulacje taxi, np. że nie mogą wziąć pasażera z innej strefy nawet jeśli akurat kogoś tam odstawiają&lt;br&gt;- elastyczność Ubera - kierowcy mogą wchodzić kiedy chcą a ceny się dostosowują, dzięki czemu można lepiej dopasować się do popytu - to jest wspierane przez fakt, że Uber ma taki sam wskaźnik niezaleźnie od czasu pracy kierowców&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(255, 119, 0)&quot;&gt;PYTANIA:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Co wpływa na wskaźnik wykorzystania?&lt;/p&gt;
+&lt;p&gt;Jak wygląda wskaźnik wykorzystania obecnie?&lt;/p&gt;
+&lt;p&gt;Czy wraz ze wzrostem liczby kierowców Ubera wskaźnik wykorzystania spada (efekt nasycenia rynku)?&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_19">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Willis</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tranos</foaf:surname>
+                        <foaf:givenName>Emmanouil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_28"/>
+        <link:link rdf:resource="#item_18"/>
+        <dc:title>Using `Big Data' to understand the impacts of Uber on taxis in New York City</dc:title>
+        <dcterms:abstract>Uber has coupled their ability to dodge regulation with their ride-haling app, to grow from a Silicon Valley start-up, to a global powerhouse challenging established taxis in over 700 Metropolitan areas. Through the lens of Schumpter’s ‘Creative Destruction’ and Roger’s ‘Diﬀusion of Innovation’, this paper aims to investigate how Uber challenges the established taxis, focusing on yellow taxis in New York City. To capture Uber’s popularity we employ innovative new data from the New York Times API. We couple these data with data about taxi usage and quality of service from the New York City Taxi &amp; Limousine Commission. We then employ well established time-series modelling techniques in order to test if and how Uber aﬀected the well established taxi market in New York City. Our results illustrate the disruptive nature of Uber in terms of leading to a decrease in traditional taxi rides, but also to a behavioural change of customers raising more complaints about taxi services.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_28">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;24; model&lt;/p&gt;
+&lt;p&gt;Dane zostały zagregowane tygodniowo (medianą), popularność Ubera mierzono za pomocą natężenia artykułów na jego temat (proxy)&lt;/p&gt;
+&lt;p&gt;Ilość przejazdów taxi jest mniejsza w grudniu i styczniu, prawdopodobnie ze względu na złą pogodę - mniejszy popyt na mobilność&lt;/p&gt;
+&lt;p&gt;Zła pogoda - śnieg, niska temperatura - mają negatywny wpływ na liczbę przejazdów taxi - brane pod uwagę są również inne zmienne, takie jak dostępność metra czy dochód (proxy)&lt;/p&gt;
+&lt;p&gt;Popularność Ubera wpływa na popularność taxi jest obustronna&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(255, 119, 0)&quot;&gt;PYTANIA:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jak pogoda wpływa na przejazdy taxi i fhv?&lt;/p&gt;
+&lt;p&gt;Jak popularność Ubera wpływa na popularność taxi?&lt;br&gt;Czy zależy to od godzin - w godzinach szczytu taxi tracą mniej?&lt;/p&gt;
+&lt;p&gt;Czy wpływ Ubera na taxi różni się przestrzennie – np. między Manhattanem, Brooklynem a Bronxem?&lt;/p&gt;
+&lt;p&gt;Czy efekty Ubera są silniejsze przy złej pogodzie lub w okresach zwiększonego popytu (np. noc, weekendy)?&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_20">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Taxi-Commission-policy-brief-2.9.23</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Taxi-Commission-policy-brief-2.9.23</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_23">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_22"/>
+        <dc:title>Driving the Gig Economy</dc:title>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_22">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_24">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Taxi-Commission-policy-brief-2.9.23</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_26">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_25"/>
+        <dc:title>Driving the Gig Economy</dc:title>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0967070X15300627">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0967070X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rayle</foaf:surname>
+                        <foaf:givenName>Lisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dai</foaf:surname>
+                        <foaf:givenName>Danielle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chan</foaf:surname>
+                        <foaf:givenName>Nelson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cervero</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shaheen</foaf:surname>
+                        <foaf:givenName>Susan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_33"/>
+        <link:link rdf:resource="#item_31"/>
+        <dc:title>Just a better taxi? A survey-based comparison of taxis, transit, and ridesourcing services in San Francisco</dc:title>
+        <dcterms:abstract>In this study, we present exploratory evidence of how “ridesourcing” services (app-based, ondemand ride services like Uber and Lyft) are used in San Francisco. We explore who uses ridesourcing and for what reasons, how the ridesourcing market compares to that of traditional taxis, and how ridesourcing impacts the use of public transit and overall vehicle travel. In spring 2014, 380 completed intercept surveys were collected from three ridesourcing “hot spots” in San Francisco. We compare survey results with matched-pair taxi trip data and results of a previous taxi user survey. We also compare travel times for ridesourcing and taxis with those for public transit. The findings indicate that, despite many similarities, taxis and ridesourcing differ in user characteristics, wait times, and trips served. While ridesourcing replaces taxi trips, at least half of ridesourcing trips replaced modes other than taxi, including public transit and driving. Impacts on overall vehicle travel are unclear. We conclude with suggestions for future research.</dcterms:abstract>
+        <dc:date>01/2016</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Just a better taxi?</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0967070X15300627</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-07 18:27:27</dcterms:dateSubmitted>
+        <bib:pages>168-178</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0967070X">
+        <prism:volume>45</prism:volume>
+        <dc:title>Transport Policy</dc:title>
+        <dc:identifier>DOI 10.1016/j.tranpol.2015.10.004</dc:identifier>
+        <dcterms:alternative>Transport Policy</dcterms:alternative>
+        <dc:identifier>ISSN 0967070X</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_33">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;828&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Ankiety wśród klientów w wybranych rejonach z wysokim wskaźnikiem akceptacji, przeprowadzane w godzinach wieczornych i szczytu (prób ankietowana w dzień, w godzinach dojazdu do pracy nieefektywne). &lt;br&gt;Próbka nie do końca reprezentatywna, przewaga młodszych i lepiej wykształconych&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Porównywano dane z ankiet z randomowymi danymi z ankiet taxi z tych samych godzin, ale nie jest to idealne bo taxi używało innych metod&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Taxi jest mniej aktywne na obrzeżach, służy głównie osobom starszym, osobom bogatszym i osobom biedniejszym bez samochodu&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Taxi pełni rolę substytucyjną i komplementarną względem transportu publicznego, wypełnia kluczową lukę gdzie nie ma innej opcji transportu&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Taxi musiało być regulowane bo zbyt duża konkurencja prowadziła do niebezpiecznych zachowań, a brak informacji sprawiał, że klienci byli narażeni na niebezpieczeństwo&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Zwolennicy fhv - jest szybko, elastycznie, mobilnie, może zmniejszać korki i użycie samochodów&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Krytycy fhv - zwiększa korki, negatywnie wpływa na transport publiczny, jest niebezpieczne (brak regulacji kierowców)&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Fhv jest wybierane głównie ze względu na szybkość (szczególnie czas oczekiwania) i wygodę (m. in. płacenie). Czas oczekiwania na fhv jest znacznie krótszy niż na taxi niezależnie od strefy. &lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;&lt;strong&gt;PODSUMOWANIE:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Fhv zastępują zarówno taxi, jak i transport publiczny, ale dla transportu pełnią także rolę komplementarną. Główne czynniki skłaniające ludzi do wybierania fhv to szybkość i wygoda&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff7700&quot;&gt;PYTANIA:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Czy fhv służą głownie młodym, bogatszym i lepiej wyedukowanym?&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Czy fhv są popularne w innych grupach?&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Skąd wynika różnica w czasie oczekiwania między fhv a taxi? (technologia, podaż)?&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Czy fhv są bardziej komplementarne czy substytucyjne dla transportu publicznego?&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;Jak fhv wpływa na ogólne użycie aut (VMT)?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0968090X17301018">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0968090X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nie</foaf:surname>
+                        <foaf:givenName>Yu (Marco)</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_36"/>
+        <link:link rdf:resource="#item_34"/>
+        <dc:title>How can the taxi industry survive the tide of ridesourcing? Evidence from Shenzhen, China</dc:title>
+        <dcterms:abstract>This paper aims to examine the impact of ridesourcing on the taxi industry and explore where, when and how taxis can compete more effectively. To this end a large taxi GPS trajectory data set collected in Shenzhen, China is mined and more than 2,700 taxis (or about 18% of all registered in the city) are tracked in a period of three years, from January 2013 to November 2015, when both e-hailing and ridesourcing were rapidly spreading in the city. The long sequence of GPS data points is ﬁrst broken into separate ‘‘trips”, each corresponding to a unique passenger state, an origin/destination zone, and a starting/ending time. By examining the trip statistics, we found that: (1) the taxi industry in Shenzhen has experienced a signiﬁcant loss in its ridership that can be indisputably credited to the competition from ridesourcing. Yet, the evidence is also strong that the shock was relatively short and that the loss of the taxi industry had begun to stabilize since the second half of 2015; (2) taxis are found to compete more effectively with ridesourcing in peak period (6–10 AM, 5–8 PM) and in areas with high population density. (3) e-hailing helps lift the capacity utilization rate of taxis. Yet, the gains are generally modest except for the off-peak period, and excessive competition can lead to severely under-utilized capacities; and (4) ridesourcing worsens congestion for taxis in the city, but the impact was relatively mild. We conclude that a dedicated service ﬂeet with exclusive street-hailing access will continue to co-exist with ridesourcing and that regulations are needed to ensure this market operate properly. Ó 2017 Elsevier Ltd. All rights reserved.</dcterms:abstract>
+        <dc:date>06/2017</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>How can the taxi industry survive the tide of ridesourcing?</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0968090X17301018</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-07 19:05:52</dcterms:dateSubmitted>
+        <bib:pages>242-256</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0968090X">
+        <prism:volume>79</prism:volume>
+        <dc:title>Transportation Research Part C: Emerging Technologies</dc:title>
+        <dc:identifier>DOI 10.1016/j.trc.2017.03.017</dc:identifier>
+        <dcterms:alternative>Transportation Research Part C: Emerging Technologies</dcterms:alternative>
+        <dc:identifier>ISSN 0968090X</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_36">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;226&lt;/p&gt;
+&lt;p&gt;Taxi w Shenzen straciły klientów ale sytuacja szybko się ustabilizowała, być może dlatego, że kierowcy już wcześniej używali aplikacji&lt;/p&gt;
+&lt;p&gt;Taxi konkuruje lepiej w godzinach szczytu i w obszarach gęściej zaludnionych&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff7700&quot;&gt;PYTANIA:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jak wygląda wskaźnik wykorzystania dla taxi i fhv w zależności od pory dnia i obszaru (gęstości zaludnienia)?&lt;/p&gt;
+&lt;p&gt;Jak zmienia się struktura przestrzenna popytu po pojawieniu się ridesourcingu (czy np. popyt na taxi na obrzeżach spada bardziej)?&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pnas.org/doi/full/10.1073/pnas.1611675114">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0027-8424,%201091-6490"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alonso-Mora</foaf:surname>
+                        <foaf:givenName>Javier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Samaranayake</foaf:surname>
+                        <foaf:givenName>Samitha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallar</foaf:surname>
+                        <foaf:givenName>Alex</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Frazzoli</foaf:surname>
+                        <foaf:givenName>Emilio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rus</foaf:surname>
+                        <foaf:givenName>Daniela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_39"/>
+        <link:link rdf:resource="#item_37"/>
+        <dc:title>On-demand high-capacity ride-sharing via dynamic trip-vehicle assignment</dc:title>
+        <dcterms:abstract>Significance
+            Ride-sharing services can provide not only a very personalized mobility experience but also ensure efficiency and sustainability via large-scale ride pooling. Large-scale ride-sharing requires mathematical models and algorithms that can match large groups of riders to a fleet of shared vehicles in real time, a task not fully addressed by current solutions. We present a highly scalable anytime optimal algorithm and experimentally validate its performance using New York City taxi data and a shared vehicle fleet with passenger capacities of up to ten. Our results show that 2,000 vehicles (15% of the taxi fleet) of capacity 10 or 3,000 of capacity 4 can serve 98% of the demand within a mean waiting time of 2.8 min and mean trip delay of 3.5 min.
+          , 
+            
+              Ride-sharing services are transforming urban mobility by providing timely and convenient transportation to anybody, anywhere, and anytime. These services present enormous potential for positive societal impacts with respect to pollution, energy consumption, congestion, etc. Current mathematical models, however, do not fully address the potential of ride-sharing. Recently, a large-scale study highlighted some of the benefits of car pooling but was limited to static routes with two riders per vehicle (optimally) or three (with heuristics). We present a more general mathematical model for real-time high-capacity ride-sharing that (
+              i
+              ) scales to large numbers of passengers and trips and (
+              ii
+              ) dynamically generates optimal routes with respect to online demand and vehicle locations. The algorithm starts from a greedy assignment and improves it through a constrained optimization, quickly returning solutions of good quality and converging to the optimal assignment over time. We quantify experimentally the tradeoff between fleet size, capacity, waiting time, travel delay, and operational costs for low- to medium-capacity vehicles, such as taxis and van shuttles. The algorithm is validated with ∼3 million rides extracted from the New York City taxicab public dataset. Our experimental study considers ride-sharing with rider capacity of up to 10 simultaneous passengers per vehicle. The algorithm applies to fleets of autonomous vehicles and also incorporates rebalancing of idling vehicles to areas of high demand. This framework is general and can be used for many real-time multivehicle, multitask assignment problems.</dcterms:abstract>
+        <dc:date>2017-01-17</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pnas.org/doi/full/10.1073/pnas.1611675114</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-07 19:08:50</dcterms:dateSubmitted>
+        <bib:pages>462-467</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0027-8424,%201091-6490">
+        <prism:volume>114</prism:volume>
+        <dc:title>Proceedings of the National Academy of Sciences</dc:title>
+        <dc:identifier>DOI 10.1073/pnas.1611675114</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Proc. Natl. Acad. Sci. U.S.A.</dcterms:alternative>
+        <dc:identifier>ISSN 0027-8424, 1091-6490</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_39">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;799&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://hdl.handle.net/10125/49970">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.24251/HICSS.2018.083</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Yunseok</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Jiyong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Byungtae</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_42"/>
+        <link:link rdf:resource="#item_40"/>
+        <dc:title>Battle of Sharing Economy: The Contingent Effects of Ride-Sharing on Taxi Industry</dc:title>
+        <dcterms:abstract>With the rapid growth of sharing economy, there has been a bitter controversy on the disruptive nature of sharing economy to threaten traditional industry. This study examines the impact of ride-sharing services, which is one of the most successful business models in sharing economy, on taxi industry. Using comprehensive data on Uber and taxi transactions in New York City from April to September 2014, we find that ride-sharing is negatively associated with the demand for taxis. Interestingly, this effect is contingent upon market- and customer-segments. The negative effect of Uber on taxis is mostly driven in Manhattan and high-income areas, where most taxis are concentrated. Furthermore, our analyses reveal that ride-sharing services take more demand of taxi customers who pay by cash and who are price-sensitive, by providing relative advantages of ride-sharing platforms. In addition, taxi customers in groups appear to more switch to ride-sharing services. Relevant implications for both research and practice are discussed.</dcterms:abstract>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Battle of Sharing Economy</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://hdl.handle.net/10125/49970</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-07 19:18:46</dcterms:dateSubmitted>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Hawaii International Conference on System Sciences</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_42">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;3; model&lt;/p&gt;
+&lt;p&gt;Raport PwC przewidywał, że sharing economy osiągnie poziom tradycyjnej w 2025 r., więc lekko niedoszacowali&lt;/p&gt;
+&lt;p&gt;Wpływ popularności Ubera na taxi zależy od regionu i statusu ekonomicznego&lt;/p&gt;
+&lt;p&gt;Wpływ popularności Ubera jest wyższy w obszarach gdzie jest większa kumulacja taxi&lt;/p&gt;
+&lt;p&gt;Fhv rozwijają się najszybciej na obrzeżach i w biednych regionach&lt;/p&gt;
+&lt;p&gt;Wnioski Cramera i Kruegera z 2016 odnośnie wskaźnika wykorzystania są prawdziwe tylko dla Manhattanu, bo tam jest 90% taxi&lt;/p&gt;
+&lt;p&gt;Wpływ fhv na taxi można porównać do wpływu systemów informatycznych na tradycyjne&lt;/p&gt;
+&lt;p&gt;Taxi i fhv mogą targetować konkretne regiony i segmenty klientów&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(255, 119, 0)&quot;&gt;PYTANIA:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jak wpływ fhv na taxi zależy od regionu? Co na to wpływa?&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_40">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_44">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Journal of Applied Research and Technology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Correa</foaf:surname>
+                        <foaf:givenName>D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moyano</foaf:surname>
+                        <foaf:givenName>C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_45"/>
+        <link:link rdf:resource="#item_43"/>
+        <dc:title>Analysis and prediction of New York City taxi and Uber demands</dc:title>
+        <dcterms:abstract>Taxi and Uber are imperative transportation modes in New York City (NYC). This paper investigates the spatiotemporal distribution of pick-ups of medallion taxis (yellow), Street Hail Livery Service taxis (green), and Uber services in NYC, within the five boroughs: Brooklyn, the Bronx, Manhattan, Queens, and Staten Island. Regression models and machine learning algorithms such as XGboost and random forest are used to predict the ridership of taxis and Uber dataset combined in NYC, given a time window of one-hour and locations within zip-code areas. The dataset consists of over 90 million trips within the period April-September 2014, yellow with 86% the most used in the city, followed by green with 9%, and Uber with 5%. In the outer boroughs, the number of pick-ups is 12.9 million (14%), while 77.9 million (86%) were made in Manhattan only. Yellow is the predominant option in Manhattan and Queens, while green is preferred in Brooklyn and Bronx. In Staten Island, the market is shared between the three services. However, Uber presents a highly rising trend of 81% in Manhattan and 145% in outer boroughs during the analysis period. The regression model XGboost performed best because of its exceptional capacity to catch complex feature dependencies. The XGboost model accomplished an estimation of 38.51 for RMSE and 0.97 for R^2. This model could present valuable insights to taxi companies, decision-makers, and city planners in responding to questions, e.g., how to situate taxis where they are required, understand how ridership shifts over time, and the total number of taxis needed to dispatch to meet de the demand.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_45">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;3 scopus; niejawne modele machine learning&lt;/p&gt;
+&lt;p&gt;Autorzy narzekają na brak danych dla fhv, ale mogli wziąć dane od 2019 zamiast 2014&lt;/p&gt;
+&lt;p&gt;Gdy temperatura rośnie powyżej 20 stopni C liczba przejazdów wzrasta, gdy spada poniżej 10 efekt jest niejednoznaczny&lt;/p&gt;
+&lt;p&gt;Efekt deszczu jest niejednoznaczny, w modelu wychodzi ze jest nieistotny&lt;/p&gt;
+&lt;p&gt;Liczba przejazdów zależy najbardziej od godziny w ciągu dnia, a także od dnia tygodnia i temperatury&lt;/p&gt;
+&lt;p&gt;Podany został w miarę dokładny proces obróbki danych&lt;/p&gt;
+&lt;p&gt;Brak Table 1a&lt;/p&gt;
+&lt;p&gt;Uber jest bardziej równo używany w całym mieście&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff7700&quot;&gt;PYTANIA:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jak godzina, dzień i temperatura wpływają na liczbę przejazdów?&lt;/p&gt;
+&lt;p&gt;Jak to się różni między dzielnicami?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_43">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>automobility</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_48">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>NBER</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Farber</foaf:surname>
+                        <foaf:givenName>Henry S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_47"/>
+        <dc:title>Why You Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers</dc:title>
+        <dcterms:abstract>In a seminal paper, Camerer, Babcock, Loewenstein, and Thaler (1997) find that the wage elasticity of daily hours of work New York City (NYC) taxi drivers is negative and conclude that their labor supply behavior is consistent with target earning (having reference dependent preferences). I replicate and extend the CBLT analysis using data from all trips taken in all taxi cabs in NYC for the five years from 2009-2013. The overall pattern in my data is clear: drivers tend to respond positively to unanticipated as well as anticipated increases in earnings opportunities. This is consistent with the neoclassical optimizing model of labor supply and does not support the reference dependent preferences model.</dcterms:abstract>
+        <dc:date>2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_47">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_50">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>NBER</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hall</foaf:surname>
+                        <foaf:givenName>Jonathan V</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krueger</foaf:surname>
+                        <foaf:givenName>Alan B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_49"/>
+        <dc:title>An analysis of the labor market for uber's driver-parthners in the United States</dc:title>
+        <dcterms:abstract>Uber, the ride-sharing company launched in 2010, has grown at an exponential rate. This paper provides the first comprehensive analysis of the labor market for Uber’s driver-partners, based on both survey and administrative data. Drivers who partner with Uber appear to be attracted to the platform largely because of the flexibility it offers, the level of compensation, and the fact that earnings per hour do not vary much with the number of hours worked. Uber’s driver-partners are more similar in terms of their age and education to the general workforce than to taxi drivers and chauffeurs. Most of Uber’s driver-partners had full- or part-time employment prior to joining Uber, and many continued in those positions after starting to drive with the Uber platform, which makes the flexibility to set their own hours all the more valuable. Uber’s driver-partners also often cited the desire to smooth fluctuations in their income as a reason for partnering with Uber.</dcterms:abstract>
+        <dc:date>2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_49">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0968090X21002485">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>129</prism:volume>
+                <dc:title>Transportation Research Part C: Emerging Technologies</dc:title>
+                <dc:identifier>DOI 10.1016/j.trc.2021.103235</dc:identifier>
+                <dcterms:alternative>Transportation Research Part C: Emerging Technologies</dcterms:alternative>
+                <dc:identifier>ISSN 0968090X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dey</foaf:surname>
+                        <foaf:givenName>Bibhas Kumar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tirtha</foaf:surname>
+                        <foaf:givenName>Sudipta Dey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eluru</foaf:surname>
+                        <foaf:givenName>Naveen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Konduri</foaf:surname>
+                        <foaf:givenName>Karthik C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_51"/>
+        <dc:title>Transformation of ridehailing in New York City: A quantitative assessment</dc:title>
+        <dcterms:abstract>The proposed study contributes to our understanding of the ongoing transformation of ridehailing market by examining the New York City Taxi &amp; Limousine Commission data from a fine spatial and temporal resolution. We examine taxi zone based demand data from NYC for each month and explore the reasons contributing to (a) the increase in ridehailing demand and (b) the shift from traditional taxi services to Transportation Networking Company (TNC) services. The first component – taxi zone ridehailing demand - is analyzed adopting a negative binomial count model. The second component - share of traditional and TNC services demand - is analyzed using a multinomial fractional split model. The two model components are stitched together in a joint framework that allows for the influence of repeated observations as well as for the presence of common unobserved factors affecting the two components. The model estimation considered a comprehensive set of independent variables including transportation infrastructure variables, land use and built environment variables, weather attributes, and temporal attributes. Several performance measures were generated using the joint model for estimation and validation datasets. A prediction exercise is conducted to illustrate how the proposed model system can be utilized for predicting future ridehailing trends. Finally, an elasticity exercise is conducted to estimate the influence of independent variables on the ridehailing market.</dcterms:abstract>
+        <dc:date>08/2021</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Transformation of ridehailing in New York City</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0968090X21002485</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-10 14:27:53</dcterms:dateSubmitted>
+        <bib:pages>103235</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_51">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1361920925000604">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:13619209"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gebresselassie</foaf:surname>
+                        <foaf:givenName>Mahtot</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Michalek</foaf:surname>
+                        <foaf:givenName>Jeremy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nock</foaf:surname>
+                        <foaf:givenName>Destenie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harper</foaf:surname>
+                        <foaf:givenName>Corey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_53"/>
+        <dc:title>Analyzing disparities in app-hailed travel during extreme heat in New York City</dc:title>
+        <dcterms:abstract>To understand extreme weather effects on travel behavior, we examine changes in New York City app-hailed travel during extreme-heat days and estimate whether such changes vary across lowand high-income neighborhoods. We use trip records for July 2019, when several heat-related messages were issued by the National Weather Services, and find that daily ridership was six to nine percent higher on days when heat messages were issued than on matching weekdays in the same month. Our fixed effects regression models estimate that for median income neighborhoods afternoon peak-hour ridership was 1.7 to 3.2 rides higher per 1,000 people during the heat events than on matching weekdays in the same month. This effect increased by an additional 0.5 to 0.6 rides per 1,000 people for every $10,000 increase in average neighborhood per capita income, suggesting that higher income travelers increased trip frequency at a higher rate than lower-income travelers.</dcterms:abstract>
+        <dc:date>05/2025</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1361920925000604</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-10 14:56:04</dcterms:dateSubmitted>
+        <bib:pages>104650</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:13619209">
+        <prism:volume>142</prism:volume>
+        <dc:title>Transportation Research Part D: Transport and Environment</dc:title>
+        <dc:identifier>DOI 10.1016/j.trd.2025.104650</dc:identifier>
+        <dcterms:alternative>Transportation Research Part D: Transport and Environment</dcterms:alternative>
+        <dc:identifier>ISSN 13619209</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_53">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_56">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miao</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deng</foaf:surname>
+                        <foaf:givenName>Yiting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Yongdong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>Christopher S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_55"/>
+        <dc:title>The Eﬀects of Surge Pricing on Driver Behavior in the Ride-Sharing Market: Evidence from a Quasi-Experiment</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_55">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2673-7590/1/2/16">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2673-7590"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khavarian-Garmsir</foaf:surname>
+                        <foaf:givenName>Amir Reza</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sharifi</foaf:surname>
+                        <foaf:givenName>Ayyoob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hajian Hossein Abadi</foaf:surname>
+                        <foaf:givenName>Mohammad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_57"/>
+        <dc:title>The Social, Economic, and Environmental Impacts of Ridesourcing Services: A Literature Review</dc:title>
+        <dcterms:abstract>The proliferation of ridesourcing services has raised both hopes and concerns about their role in cities. The impacts of ridesourcing services are complex and multi-faceted. Through reviewing the literature, this study aims to identify the social, economic, and environmental impacts of these services and highlight opportunities and challenges that lay ahead of them for resolving issues related to urban transportation. According to the results, ridesourcing services offer safe modes of transport that provide convenient mobility options, improve transit availability in disadvantaged and remote areas, and respond to taxi demand ﬂuctuations. They can create new job opportunities by employing new human resources that have not been used before, provide ﬂexible working hours for drivers, and are more efﬁcient than taxi cabs. These services provide other opportunities to extend or complement public transit, reduce car ownership and congestion, and minimize parking supply. However, they are criticized for unfair competition with traditional taxis, limited compliance with social legislation, and lack of affordability. They are not available in all places and exclude some vulnerable and socially disadvantaged groups. Labor rights are not secure in this industry, and driver income is not stable. Finally, there is also evidence showing that, in some cases, they contribute to the growth of VMT, energy use, greenhouse gas emissions, and congestion in cities.</dcterms:abstract>
+        <dc:date>2021-08-03</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The Social, Economic, and Environmental Impacts of Ridesourcing Services</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2673-7590/1/2/16</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-10 17:11:38</dcterms:dateSubmitted>
+        <bib:pages>268-289</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2673-7590">
+        <prism:volume>1</prism:volume>
+        <dc:title>Future Transportation</dc:title>
+        <dc:identifier>DOI 10.3390/futuretransp1020016</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Future Transportation</dcterms:alternative>
+        <dc:identifier>ISSN 2673-7590</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_57">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>licencjat_artykuly</dc:title>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0167268118301598"/>
+        <dcterms:hasPart rdf:resource="#item_17"/>
+        <dcterms:hasPart rdf:resource="#item_19"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0967070X15300627"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0968090X17301018"/>
+        <dcterms:hasPart rdf:resource="http://hdl.handle.net/10125/49970"/>
+        <dcterms:hasPart rdf:resource="#item_44"/>
+        <dcterms:hasPart rdf:resource="#item_48"/>
+        <dcterms:hasPart rdf:resource="#item_50"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0968090X21002485"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S1361920925000604"/>
+        <dcterms:hasPart rdf:resource="#item_56"/>
+        <dcterms:hasPart rdf:resource="https://www.mdpi.com/2673-7590/1/2/16"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>licencjat_inne_zrodla</dc:title>
+        <dcterms:hasPart rdf:resource="#item_6"/>
+        <dcterms:hasPart rdf:resource="https://www.researchgate.net/doi/10.13140/RG.2.2.17588.12167/1"/>
+        <dcterms:hasPart rdf:resource="http://doisrpska.nub.rs/index.php/actaeconomica/article/view/5325"/>
+        <dcterms:hasPart rdf:resource="#item_24"/>
+        <dcterms:hasPart rdf:resource="#item_26"/>
+        <dcterms:hasPart rdf:resource="#item_46"/>
+    </z:Collection>
+</rdf:RDF>

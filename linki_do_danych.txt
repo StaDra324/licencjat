@@ -1,0 +1,54 @@
+Oto bezpośrednie linki do stron historycznych danych stacji meteorologicznych na Wunderground (podobnych do tej dla Central Park), które można użyć dla analizy pogody w obrębie New York City:
+
+Central Park (Manhattan) — https://www.wunderground.com/history/daily/us/ny/new-york-city/KNYC
+
+LaGuardia Airport (Queens) — https://www.wunderground.com/history/daily/us/ny/queens/KLGA
+
+John F. Kennedy Airport (Queens/South Brooklyn) — https://www.wunderground.com/history/daily/us/ny/queens/KJFK
+
+Wall Street Heliport (Downtown Manhattan) — https://www.wunderground.com/history/daily/us/ny/new-york-city/KJRB
+
+Newark Liberty International Airport (dla obszaru Staten Island / NJ) — https://www.wunderground.com/history/daily/us/nj/newark/KEWR
+
+
+https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00094728/detail
+
+https://www.ncdc.noaa.gov/cdo-web/search
+
+https://www.ncdc.noaa.gov/cdo-web/datasets
+
+powerBI dashboard:
+https://app.powerbigov.us/view?r=eyJrIjoiMzlhMzA3NTItM2VkZS00NGM4LTgxYTQtNjRlMDc3MTkxMDkzIiwidCI6IjMyZjU2ZmM3LTVmODEtNGUyMi1hOTViLTE1ZGE2NjUxM2JlZiJ9
+
+
+
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+
+
+ARTYKULY NIEDOSTEPNE:
+Research on Taxi Demand Prediction Based on Deep Learning and Multi-Types of Data (2024)
+Exploring built environment factors that influence the market share of ridesourcing service (2022)
+The effects of surge pricing on driver behavior in the ride-sharing market: Evidence from a quasi-experiment (2023)    jest wersja wstepna
+The Social, Economic, and Environmental Impacts of Ridesourcing Services: A Literature Review (2021)    cos jest
+Data-driven analysis of weather impacts on urban traffic conditions at the city level (2022)
+Quantifying the impact of weather on ride-hailing ridership: Evidence from Haikou, China (2021)
+
+
+The impact of climate change and weather on transport: An overview of empirical findings
+Impact of weather on urban transit ridership
+Influence of weather conditions on transit ridership: A statistical study using data from Smartcards
+The mixed effects of precipitation on traffic crashes
+Spatial variation of the urban taxi ridership using GPS data
+Quantifying the Impact of Rainfall on Taxi Hailing and Operation
+The Association between Rainfall and Taxi Travel Activities: A Case Study from Wuhan, China
+The impact of rainfall on the temporal and spatial distribution of taxi passengers
+Snowfall impact on travel mode choices
+How Snowfalls Affect the Operation of Taxi Fleets? A Case Study from Harbin, China
+Opens document details in a new tab
+Impact of weather conditions on macroscopic urban travel times
+Exploring the impacts of fine-scale urban thermal comfort on residents' taxi-based travel during extreme cold and hot periods
+Modeling snow and cold effects for classified highway traffic volumes
+
+
+aaaa
