@@ -1,3 +1,26 @@
+TEMAT CEN:
+
+ARTYKULY NIEDOSTEPNE:
+Exploring the dynamics of surge pricing in mobility-on-demand taxi services (Zhang 2017), DOI: 10.1109/BigData.2017.8258070		POTENCJAL
+Understanding ride-on-demand service: Demand and dynamic pricing (Guo 2017), DOI: 10.1109/PERCOMW.2017.7917615
+Surge pricing and consumer surplus in the ride-hailing market: Evidence from China (Xu 2023), https://doi.org/10.1016/j.tbs.2023.100638
+Modeling Uber Data for Predicting Features Responsible for Price Fluctuations (Sindhu 2022), DOI: 10.1109/DELCON54057.2022.9752864	POTENCJAL
+
+
+powerBI dashboard:
+https://app.powerbigov.us/view?r=eyJrIjoiMzlhMzA3NTItM2VkZS00NGM4LTgxYTQtNjRlMDc3MTkxMDkzIiwidCI6IjMyZjU2ZmM3LTVmODEtNGUyMi1hOTViLTE1ZGE2NjUxM2JlZiJ9
+
+
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+
+godziny szczytu a taxi: https://doi.org/10.1016/j.tranpol.2022.03.008
+
+
+
+
+TEMAT POGODY (NA RAZIE NIEAKTUALNY):
+
 Oto bezpośrednie linki do stron historycznych danych stacji meteorologicznych na Wunderground (podobnych do tej dla Central Park), które można użyć dla analizy pogody w obrębie New York City:
 
 Central Park (Manhattan) — https://www.wunderground.com/history/daily/us/ny/new-york-city/KNYC
@@ -16,15 +39,6 @@ https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00094728/deta
 https://www.ncdc.noaa.gov/cdo-web/search
 
 https://www.ncdc.noaa.gov/cdo-web/datasets
-
-powerBI dashboard:
-https://app.powerbigov.us/view?r=eyJrIjoiMzlhMzA3NTItM2VkZS00NGM4LTgxYTQtNjRlMDc3MTkxMDkzIiwidCI6IjMyZjU2ZmM3LTVmODEtNGUyMi1hOTViLTE1ZGE2NjUxM2JlZiJ9
-
-
-
-https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-
-
 
 ARTYKULY NIEDOSTEPNE:
 Research on Taxi Demand Prediction Based on Deep Learning and Multi-Types of Data (2024)
@@ -50,5 +64,3 @@ Impact of weather conditions on macroscopic urban travel times
 Exploring the impacts of fine-scale urban thermal comfort on residents' taxi-based travel during extreme cold and hot periods
 Modeling snow and cold effects for classified highway traffic volumes
 
-
-aaaa
