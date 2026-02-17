@@ -5,8 +5,8 @@ library(rlang)
 library(patchwork)
 
 # WCZYTUJEMY DANE
-wszystkie = read.csv("wszystkie_do_modelu.csv")
-#View(wszystkie)
+wszystkie = read.csv("wszystkie_do_statOp_marzec.csv")
+View(wszystkie)
 
 # STATYSTYKI OPISOWE
 
@@ -55,8 +55,8 @@ skim(wszystkie)
 przedzialy(wszystkie)
 
 # Wyrzucamy obserwacje poniżej kwantyla 0.001 i powyżej kwantyla 0.999
-p_lo <- 0.001
-p_hi <- 0.999
+p_lo <- 0.01
+p_hi <- 0.99
 
 # progi dla zmiennych
 lo_dist <- quantile(wszystkie$distance, p_lo)
@@ -111,7 +111,7 @@ skim(filter(wszystkie_obciete, provider == "Uber"))
 
 skim(filter(wszystkie, provider == "Lyft"))
 skim(filter(wszystkie_obciete, provider == "Lyft"))
-# usunięcie po percentylach pozytywnie wpłynęło na outliery, skośność i 
+# usunięcie po kwantylach pozytywnie wpłynęło na outliery, skośność i 
 #   kurtozę, ale core rozkładów wydaje się że został
 
 
@@ -172,6 +172,12 @@ w2 <- ggplot(wszystkie_obciete, aes(trip_time_mins, total_amount)) +
   facet_wrap(~provider)
 
 w1 / w2
+
+ggplot(filter(wszystkie_obciete, provider == "Taxi"), aes(distance, base_fare)) +
+  stat_bin2d(bins = 400) 
+
+ggplot(filter(wszystkie_obciete, provider == "Lyft"), aes(distance, base_fare)) +
+  stat_bin2d(bins = 400) 
 
 ggplot(wszystkie_obciete, aes(distance, trip_time_mins)) +
   stat_bin2d(bins = 400) +
@@ -359,9 +365,9 @@ ggplot(heat_data, aes(x = factor(weekday), y = hour, fill = median_total)) +
   theme_minimal()
 
 # Eksportujemy obciete zbiory do csv
-write.csv(wszystkie_obciete,
-  "wszystkie_do_modelu.csv",
-  row.names = FALSE)
+#write.csv(wszystkie_obciete,
+#          "wszystkie_do_modelu.csv", row.names = FALSE)
+
 write.csv(filter(wszystkie_obciete, provider == "Taxi"),
           "taxi_do_modelu.csv", row.names = FALSE)
 
@@ -381,8 +387,21 @@ write.csv(filter(wszystkie_obciete, provider == "Lyft"),
 #            ungroup()
 
 
+View(wszystkie_obciete)
 
+ggplot(wszystkie, aes(x = distance)) +
+  geom_histogram(bins = 50, fill = "steelblue", color = "black") +
+  facet_wrap(~ provider) +
+  theme_minimal()
 
+ggplot(wszystkie, aes(x = distance)) +
+  geom_histogram(bins = 50, fill = "steelblue", color = "black") +
+  facet_wrap(~ provider) +
+  xlim(0, 10) +
+  theme_minimal()
 
-
+ggplot(wszystkie_obciete, aes(x = distance)) +
+  geom_histogram(bins = 50, fill = "steelblue", color = "black") +
+  facet_wrap(~ provider) +
+  theme_minimal()
 
