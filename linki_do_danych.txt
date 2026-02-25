@@ -16,7 +16,7 @@ https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 godziny szczytu a taxi: https://doi.org/10.1016/j.tranpol.2022.03.008
 
-
+holidays: https://www.ca2.uscourts.gov/clerk/calendars/federal_holidays.html
 
 
 TEMAT POGODY (NA RAZIE NIEAKTUALNY):
