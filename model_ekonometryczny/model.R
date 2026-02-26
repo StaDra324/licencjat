@@ -21,6 +21,7 @@ library("ggplot2")
 library("sandwich")
 library("tseries")
 library("MASS")
+library("lubridate")
 
 # WCZYTANIE I DOSTOSOWANIE DANYCH
 lyft = read.csv("lyft_do_modelu.csv")
@@ -138,8 +139,28 @@ lyft$hour_gr <- relevel(as.factor(lyft$hour_gr), ref = "6, 9-17")
 uber$hour_gr <- relevel(as.factor(uber$hour_gr), ref = "6, 9-17")
 taxi$hour_gr <- relevel(as.factor(taxi$hour_gr), ref = "6, 9-17")
 
+
+
+# DODANIE LICZBY PRZEJAZDÓW W KONKRETNYCH GODZINACH
+
+lyft <- lyft %>%
+  group_by(date = as.Date(datetime), time_20min = round_date(ymd_hms(datetime), "20 minutes")) %>%
+  mutate(ride_count = n()) %>%
+  ungroup()
+
+uber <- uber %>%
+  group_by(date = as.Date(datetime), time_20min = round_date(ymd_hms(datetime), "20 minutes")) %>%
+  mutate(ride_count = n()) %>%
+  ungroup()                   
+
+taxi <- taxi %>%
+  group_by(date = as.Date(datetime), time_20min = round_date(ymd_hms(datetime), "20 minutes")) %>%
+  mutate(ride_count = n()) %>%
+  ungroup()                  
+
 # Log - lin
 lyft_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
+               ride_count +
                hour_gr + 
                czy_weekend +
                hour_gr:czy_weekend +
@@ -151,6 +172,7 @@ lyft_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
 resettest(lyft_m, power = 2:3, type = "fitted")
 
 uber_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
+               ride_count +
                hour_gr + 
                czy_weekend +
                hour_gr:czy_weekend +
@@ -162,6 +184,7 @@ uber_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
 resettest(uber_m, power = 2:3, type = "fitted")
 
 taxi_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
+               ride_count +
                hour_gr + 
                czy_weekend +
                hour_gr:czy_weekend +
@@ -174,45 +197,6 @@ resettest(taxi_m, power = 2:3, type = "fitted")
 
 stargazer(lyft_m, uber_m, taxi_m,
           type = "text", align = TRUE, style = "default", df = FALSE)
-
-# Log - log
-lyft_m <- lm(I(log(total_amount)) ~ I(log(distance)) + I(log(trip_time_mins)) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = lyft)
-resettest(lyft_m, power = 2:3, type = "fitted")
-
-uber_m <- lm(I(log(total_amount)) ~ I(log(distance)) + I(log(trip_time_mins)) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = uber)
-resettest(uber_m, power = 2:3, type = "fitted")
-
-taxi_m <- lm(I(log(total_amount)) ~ I(log(distance)) + I(log(trip_time_mins)) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = taxi)
-resettest(taxi_m, power = 2:3, type = "fitted")
-
-stargazer(lyft_m, uber_m, taxi_m,
-          type = "text", align = TRUE, style = "default", df = FALSE)
-
-
 
 # MACIERZ KORELACJI
 
@@ -231,157 +215,6 @@ vif(uber_m, type = "predictor")
 vif(taxi_m, type = "predictor")
 # dla log - log distance i trip_time dużo, dla log - lin ok
 
-# Modele bez czasu i bez dystansu
-
-# log - lin bez czasu
-lyft_m <- lm(I(log(total_amount)) ~ distance +
-                 hour_gr + 
-                 czy_weekend +
-                 hour_gr:czy_weekend +
-                 month +
-                 czy_01_01 +
-                 czy_19_01 +
-                 czy_16_02,
-               data = lyft)
-resettest(lyft_m, power = 2:3, type = "fitted")
-
-uber_m <- lm(I(log(total_amount)) ~ distance +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = uber)
-resettest(uber_m, power = 2:3, type = "fitted")
-
-taxi_m <- lm(I(log(total_amount)) ~ distance +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = taxi)
-resettest(taxi_m, power = 2:3, type = "fitted")
-
-stargazer(lyft_m, uber_m, taxi_m,
-          type = "text", align = TRUE, style = "default", df = FALSE)
-
-# log - lin bez dystansu
-lyft_m <- lm(I(log(total_amount)) ~ trip_time_mins +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = lyft)
-resettest(lyft_m, power = 2:3, type = "fitted")
-
-uber_m <- lm(I(log(total_amount)) ~ trip_time_mins +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = uber)
-resettest(uber_m, power = 2:3, type = "fitted")
-
-taxi_m <- lm(I(log(total_amount)) ~ trip_time_mins +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = taxi)
-resettest(taxi_m, power = 2:3, type = "fitted")
-
-stargazer(lyft_m, uber_m, taxi_m,
-          type = "text", align = TRUE, style = "default", df = FALSE)
-
-# log - log bez czasu
-lyft_m <- lm(I(log(total_amount)) ~ I(log(distance)) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = lyft)
-resettest(lyft_m, power = 2:3, type = "fitted")
-
-uber_m <- lm(I(log(total_amount)) ~ I(log(distance)) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = uber)
-resettest(uber_m, power = 2:3, type = "fitted")
-
-taxi_m <- lm(I(log(total_amount)) ~ I(log(distance)) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = taxi)
-resettest(taxi_m, power = 2:3, type = "fitted")
-
-stargazer(lyft_m, uber_m, taxi_m,
-          type = "text", align = TRUE, style = "default", df = FALSE)
-
-# log - log bez dystansu
-lyft_m <- lm(I(log(total_amount)) ~ I(log(trip_time_mins)) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = lyft)
-resettest(lyft_m, power = 2:3, type = "fitted")
-
-uber_m <- lm(I(log(total_amount)) ~ I(log(trip_time_mins)) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = uber)
-resettest(uber_m, power = 2:3, type = "fitted")
-
-taxi_m <- lm(I(log(total_amount)) ~ I(log(trip_time_mins)) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = taxi)
-resettest(taxi_m, power = 2:3, type = "fitted")
-
-stargazer(lyft_m, uber_m, taxi_m,
-          type = "text", align = TRUE, style = "default", df = FALSE)
-# ogólnie usuwanie zmiennych zaburza modele
-
 
 # DIAGNOSTYKA
 
@@ -390,7 +223,7 @@ stargazer(lyft_m, uber_m, taxi_m,
 lyft_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
                  I(distance**2) +
                  I(trip_time_mins**2) +
-                 distance:trip_time_mins +
+                 ride_count +
                  hour_gr + 
                  czy_weekend +
                  hour_gr:czy_weekend +
@@ -404,7 +237,7 @@ resettest(lyft_m, power = 2:3, type = "fitted")
 uber_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
                I(distance**2) +
                I(trip_time_mins**2) +
-               distance:trip_time_mins +
+               ride_count +
                hour_gr + 
                czy_weekend +
                hour_gr:czy_weekend +
@@ -418,50 +251,7 @@ resettest(uber_m, power = 2:3, type = "fitted")
 taxi_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
                I(distance**2) +
                I(trip_time_mins**2) +
-               distance:trip_time_mins +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = taxi)
-resettest(taxi_m, power = 2:3, type = "fitted")
-
-stargazer(lyft_m, uber_m, taxi_m,
-          type = "text", align = TRUE, style = "default", df = FALSE)
-
-# Log - log
-lyft_m <- lm(I(log(total_amount)) ~ I(log(distance)) + I(log(trip_time_mins)) +
-               I((log(distance))**2) +
-               I((log(trip_time_mins))**2) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = lyft)
-resettest(lyft_m, power = 2:3, type = "fitted")
-
-uber_m <- lm(I(log(total_amount)) ~ I(log(distance)) + I(log(trip_time_mins)) +
-               I((log(distance))**2) +
-               I((log(trip_time_mins))**2) +
-               hour_gr + 
-               czy_weekend +
-               hour_gr:czy_weekend +
-               month +
-               czy_01_01 +
-               czy_19_01 +
-               czy_16_02,
-             data = uber)
-resettest(uber_m, power = 2:3, type = "fitted")
-
-taxi_m <- lm(I(log(total_amount)) ~ I(log(distance)) + I(log(trip_time_mins)) +
-               I((log(distance))**2) +
-               I((log(trip_time_mins))**2) +
+               ride_count +
                hour_gr + 
                czy_weekend +
                hour_gr:czy_weekend +
@@ -501,38 +291,60 @@ lyft_odp <- coeftest(lyft_m, vcov.=vcovHC(lyft_m, type="HC0"))
 uber_odp <- coeftest(uber_m, vcov.=vcovHC(uber_m, type="HC0"))
 taxi_odp <- coeftest(taxi_m, vcov.=vcovHC(taxi_m, type="HC0"))
 
-# prezentujemy wyniki w tabeli publikacyjnej
+stargazer(lyft_m, uber_m, taxi_m,
+          type = "text", align = TRUE, style = "default", df = FALSE)
+
+
+
+# MODELE DLA ride_count
+
+# Log - lin
+lyft_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
+               ride_count,
+             data = lyft)
+resettest(lyft_m, power = 2:3, type = "fitted")
+
+uber_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
+               ride_count,
+             data = uber)
+resettest(uber_m, power = 2:3, type = "fitted")
+
+taxi_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
+               ride_count,
+             data = taxi)
+resettest(taxi_m, power = 2:3, type = "fitted")
+
+stargazer(lyft_m, uber_m, taxi_m,
+          type = "text", align = TRUE, style = "default", df = FALSE)
+
+# log - lin z kwadratmi
+lyft_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
+               I(distance**2) +
+               I(trip_time_mins**2) +
+               ride_count,
+             data = lyft)
+resettest(lyft_m, power = 2:3, type = "fitted")
+
+uber_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
+               I(distance**2) +
+               I(trip_time_mins**2) +
+               ride_count,
+             data = uber)
+resettest(uber_m, power = 2:3, type = "fitted")
+
+taxi_m <- lm(I(log(total_amount)) ~ distance + trip_time_mins +
+               I(distance**2) +
+               I(trip_time_mins**2) +
+               ride_count,
+             data = taxi)
+resettest(taxi_m, power = 2:3, type = "fitted")
+
 stargazer(lyft_m, uber_m, taxi_m,
           type = "text", align = TRUE, style = "default", df = FALSE)
 
 
 
 
-
-
-
-
-# # Lin - lin
-# lyft_m_marzec <- lm(total_amount ~ distance + trip_time_mins +
-#                       as.factor(hour_gr) + 
-#                       as.factor(day_gr),
-#                     data = lyft_marzec)
-# resettest(lyft_m_marzec, power = 2:3, type = "fitted")
-# 
-# uber_m_marzec <- lm(total_amount ~ distance + trip_time_mins +
-#                       as.factor(hour_gr) + 
-#                       as.factor(day_gr),
-#                     data = uber_marzec)
-# resettest(uber_m_marzec, power = 2:3, type = "fitted")
-# 
-# taxi_m_marzec <- lm(total_amount ~ distance + trip_time_mins +
-#                       as.factor(hour_gr) + 
-#                       as.factor(day_gr),
-#                     data = taxi_marzec)
-# resettest(taxi_m_marzec, power = 2:3, type = "fitted")
-# 
-# stargazer(lyft_m_marzec, uber_m_marzec, taxi_m_marzec,
-#           type = "text", align = TRUE, style = "default", df = FALSE)
 
 
 
