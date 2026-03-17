@@ -1,3 +1,24 @@
+DO CZĘŚCI TEORETYCZNEJ O TAXI:
+
+ - historia: https://www.nyc.gov/site/tlc/about/about-tlc.page
+			 https://www.nyc.gov/html/media/totweb/taxioftomorrow_history_themoderntaxi.html
+ - funkcjonowanie: https://www.nyc.gov/site/tlc/businesses/yellow-cab.page
+				   https://www.nyc.gov/site/tlc/passengers/your-ride.page
+ - opłaty: https://www.nyc.gov/site/tlc/passengers/taxi-fare.page
+ - medaliony: https://www.nyc.gov/site/tlc/businesses/yellow-cab.page
+			  https://nyc-business.nyc.gov/nycbusiness/description/medallion-owner-individual
+ - raporty: https://www.nyc.gov/assets/tlc/downloads/pdf/annual_report_2025.pdf
+			https://www.nyc.gov/assets/tlc/downloads/pdf/license-pause-report-2025-02.pdf
+			
+DO CZĘŚCI TEORETYCZNEJ O UBERZE:
+
+- historia: https://www.uber.com/en-ZA/blog/what-is-uber-facts/
+			https://www.ebsco.com/research-starters/business-and-management/uber-company
+- surge: https://www.uber.com/en-GH/blog/uber-dynamic-pricing/
+		 https://abovethecrowd.com/2014/03/11/a-deeper-look-at-ubers-dynamic-pricing-model/
+		 https://www.uber.com/blog/research/the-effects-of-ubers-surge-pricing-a-case-study/
+
+
 TEMAT CEN:
 
 ARTYKULY NIEDOSTEPNE:
@@ -5,6 +26,11 @@ Exploring the dynamics of surge pricing in mobility-on-demand taxi services (Zha
 Understanding ride-on-demand service: Demand and dynamic pricing (Guo 2017), DOI: 10.1109/PERCOMW.2017.7917615
 Surge pricing and consumer surplus in the ride-hailing market: Evidence from China (Xu 2023), https://doi.org/10.1016/j.tbs.2023.100638
 Modeling Uber Data for Predicting Features Responsible for Price Fluctuations (Sindhu 2022), DOI: 10.1109/DELCON54057.2022.9752864	POTENCJAL
+The Impact of Variable Pricing on the Temporal Distribution of Travel Demand,  DOI: 10.3141/1747-05
+Ride-hailing fares and demand interactions: insights from market analysis over space and time,  https://doi.org/10.1016/j.retrec.2026.101738
+
+
+gurley 2014: https://abovethecrowd.com/2014/03/11/a-deeper-look-at-ubers-dynamic-pricing-model/
 
 
 powerBI dashboard:

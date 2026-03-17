@@ -1,0 +1,350 @@
+Uniwersytet Warszawski
+Wydział Nauk Ekonomicznych
+
+
+
+
+
+
+Stanisław Drąg
+Nr albumu: 463337
+
+
+,,Analiza czynników determinujących ceny przejazdów Ubera i tradycyjnych taksówek porównanie na przykładzie Nowego Jorku’’
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warszawa, czerwiec 2026
+
+
+
+Oświadczenia kierującego pracą
+
+Oświadczam, że niniejsza praca została przygotowana pod moim kierunkiem i stwierdzam, że spełnia ona warunki do przedstawienia jej w postępowaniu o nadanie tytułu zawodowego.
+
+* Oświadczam, że mój udział w artykule naukowym, który stanowi część pracy dyplomowej wynosi ……..%, zaś suplement do pracy został napisany samodzielnie przez dyplomanta(ów). 
+
+* skreślić jeśli nie dotyczy
+
+Data						Podpis kierującego pracą
+
+
+
+
+
+Oświadczenie autora pracy**
+
+Świadom odpowiedzialności prawnej oświadczam, że niniejsza praca dyplomowa została napisana przeze mnie samodzielnie i nie zawiera treści uzyskanych w sposób niezgodny z obowiązującymi przepisami.
+
+Oświadczam również, że przedstawiona praca nie była wcześniej przedmiotem procedur związanych z uzyskaniem tytułu zawodowego w wyższej uczelni.
+
+Oświadczam ponadto, że niniejsza wersja pracy jest identyczna z załączoną wersją elektroniczną.
+
+* Oświadczam, że mój*** udział w artykule naukowym, który stanowi część pracy dyplomowej wynosi ……..% (nie mniej niż 60%), zaś suplement do pracy został napisany przeze mnie***. 
+
+* skreślić jeśli nie dotyczy
+
+Data								Podpis autora pracy
+
+
+
+
+
+
+
+
+** każdy ze współautorów studentów składa oświadczenie osobno
+*** w przypadku współautora studenta należy oświadczyć wkład merytoryczny i procentowy
+
+
+
+
+
+
+
+
+
+Streszczenie
+
+Praca dotyczy/obejmuje/podejmuje problematykę...*) <tekst wyjustowany, bez tabulacji, zawierający nie więcej niż 800 znaków ze spacjami. Nie podawać celu ani tematu pracy>
+
+
+
+
+Słowa kluczowe
+
+<wyśrodkowane, oddzielone przecinkami,  pisane małymi literami -  z wyjątkiem nazw własnych, obejmujące określenia związane z pracą - głównie z tytułu i streszczenia pracy, łączna ilość wyrazów nie więcej niż 10>
+
+
+
+
+Dziedzina pracy (kody wg programu Erasmus)
+
+Ekonomia (14300)
+
+
+
+
+Klasyfikacja tematyczna
+
+<Jeśli nie jest znana nie wpisywać nic pod tym tytułem>
+
+
+
+
+Tytuł pracy w języku angielskim
+
+<Tytuł pracy w tłumaczeniu na język angielski>
+
+
+
+SPIS TREŚCI
+
+
+WSTĘP..................................................................................................................................
+4
+
+ROZDZIAŁ I. <Część teoretyczna>.....................................................................................
+
+6
+
+1.1. <Podtytuł> ..................................................................................................................... 
+
+
+1.1.1. <Podtytuł>...............................................................................................................
+
+1.1.2. <Podtytuł>...............................................................................................................
+
+1.1.3. <Podtytuł>...............................................................................................................
+
+
+1.2. < Podtytuł>..................................................................................................................... 
+
+
+1.2.1. <Podtytuł> ..............................................................................................................
+
+1.2.2. <Podtytuł> ..............................................................................................................
+
+1.2.3. <Podtytuł> ..............................................................................................................
+
+
+ROZDZIAŁ II. <Tytuł rozdziału>........................................................................................
+
+
+
+2.1. <Podtytuł>...................................................................................................................... 
+
+
+2.1.1. <Podtytuł> ..............................................................................................................
+
+2.1.2. <Podtytuł> ..............................................................................................................
+
+2.1.3. <Podtytuł> ..............................................................................................................
+
+
+2.2. <Podtytuł> ..................................................................................................................... 
+
+
+2.2.1. <Podtytuł> ..............................................................................................................
+
+2.2.2. <Podtytuł> ..............................................................................................................
+
+2.2.3. <Podtytuł>...............................................................................................................
+
+
+ZAKOŃCZENIE/PODSUMOWANIE/WNIOSKI/<opcjonalnie>.....................................
+
+
+
+BIBLIOGRAFIA ..................................................................................................................
+
+
+
+ZESTAWIENIE SPISÓW <opcjonalnie> ...........................................................................
+
+
+
+ZAŁĄCZNIKI <opcjonalnie> .............................................................................................
+
+
+
+WSTĘP
+
+Platformy, takie jak Uber, stały się nieodłącznym elementem systemu transportowego w wielu miejscach na świecie, w dużej mierze zastępując tradycyjne taksówki (Lee et al., 2018; Nie, 2017).
+ Jednak zarówno taksówki, jak i przejmujące ich miejsce floty for-hire, pełnią nie tylko rolę substytucyjną dla siebie nawzajem oraz innych metod podróży, takich jak własne samochody, ale także komplementarną dla innych - szczególnie dla publicznych środków transportu, takich jak autobusy czy pociągi (Rayle et al., 2016).
+ Jednym z głównych czynników odróżniających model działania Ubera od taxi jest elastyczność, zwłaszcza na poziomie podażowym i cenowym, osiągnięta dzięki dedykowanemu algorytmowi reagującemu w czasie rzeczywistym na warunki na rynku poprzez surge-pricing, czyli zwiększanie ceny w okresach nadwyżki popytu (Gurley, 2014). Ta elastyczność prowadzi do większej efektywności Ubera w stosunku do taxi (Cramer i Krueger, 2016).
+Jednak algorytmy ustalające cenę reagują głównie na nadwyżkę popytu nad podażą występującą w danym momencie (mierzoną głównie przez średni czas oczekiwania na przejazd (Gurley, 2014)), zatem nie są doskonale efektywne.
+Tym niemniej, jak zauważyli Battifarano i Qian (2019), duża część badań nad surge-pricingiem skupia się na aspekcie teoretycznym – jego wpływie na zachowanie kierowców, modelowaniu przy pomocy teorii gier czy analizie równowagi rynkowej, natomiast stosunkowo mało jest badań empirycznych, które analizowałyby kształtowanie się cen w zależności od różnych zmiennych. I choć od czasu opublikowania ich artykułu minęło ponad 6 lat, a w przeciągu tego czasu ukazało się więcej artykułów adresujących tę lukę badawczą, to wciąż nie została ona zupełnie wypełniona. Jest to spowodowane głównie niedoborem oraz słabą jakością danych, jako że większość artykułów analizujących ceny przejazdów pojazdów for-hire, które ukazały się po 2019 roku, opiera się głównie na danych z API Ubera. Braki danych oraz ich niedoskonałość wprost podkreślają autorzy (Brouder i Nield, 2018; Jiao, 2018; Willis i Tranos, 2020; Correa i Moyano, 2023). Podkreślają oni również konieczność kontynuowania badań w zakresie analizy determinant cen na kolejnych zbiorach i w innych warunkach (Chao, 2019; Rangel et al., 2022)
+Temat ten jest istotny, gdyż uzyskanie wiedzy na temat wpływu zmiennych takich jak pora dnia, dzień tygodnia czy weekend na ceny, mogłoby w znaczący sposób przyczynić się do poprawy sytuacji wszystkich uczestników rynku:
+- pasażerowie mogliby efektywniej planować swoje podróże, unikając niepotrzebnych kosztów
+-  kierowcy mogliby maksymalizować swoje zyski, dostosowując się do sytuacji, np. byliby w stanie ocenić koszt alternatywny zmiany lokalizacji
+-  firmy mogłyby lepiej dostosować polityki motywujące, aby maksymalnie dostosować podaż do popytu (np. bonus za wcześniejsze przeniesienie się do strefy w której przewidywany jest wzrost popytu)
+-  politycy i decydenci mogliby lepiej dostosowywać użycie środków transportu publicznego (np. zróżnicowanie ilości kursujących autobusów w zależności od czasu i lokalizacji)
+W tej pracy, na podstawie raportów publikowanych co miesiąc przez NYC Taxi and Limousine Commission (TLC), które zawierają mikro - dane na poziomie pojedynczych przejazdów, przeanalizuję wpływ cech przejazdów Ubera,  takich jak pora dnia, dzień tygodnia, weekend itp., na Manhattanie w Nowym Jorku, na ich cenę, porównując go z tradycyjnymi żółtymi taksówkami.
+Struktura pracy wygląda następująco: po niniejszym wstępie następuje część teoretyczna, w tym krótki rys historyczny i opis tradycyjnych nowojorskich taksówek oraz Ubera, krótkie przedstawienie literatury na temat platform, przegląd prac empirycznych dotyczących Ubera i taxi oraz omówienie hipotez i pytań badawczych. Następnie w części empirycznej opisany zostaje zbiór danych, przedstawione zostają statystyki opisowe oraz wyniki modelu ekonometrycznego Na tej podstawie następuje weryfikacja hipotez, zaś na końcu wszystko zostaje zebrane w ramach podsumowania.
+ROZDZIAŁ I
+
+Część teoretyczna
+
+1.1. Taxi w Nowym Jorku
+1.1.1. Rys historyczny
+
+	Początki rynku taksówkarskiego w Nowym Jorku sięgają roku 1907. Wówczas to przedsiębiorca Harry N. Allen sprowadził 65 taksówek z Francji, gdzie były już one bardzo popularne. Od tego momentu taksówki zaczęły stopniowo wypierać używane dotychczas powozy konne (NYC TLC, 2025).
+	Do 1935 r. rynek taksówkarski w Nowym Jorku był nieuregulowany, a składał się z walczących o dominację flot. Sytuacja zmieniła się podczas Wielkiego Kryzysu. Bieda sprawiła, że wielu nowojorczyków decydowało się na wybór tańszych środków transportu, a w konsekwencji popyt na usługi taxi znacząco spadł. Spadek ten zmusił wiele firm do wyjścia z rynku, a także przyczynił się do utraty pracy wielu taksówkarzy. Sytuację dodatkowo pogarszali oportuniści stosujący praktyki określane jako podstępne lub wręcz nieuczciwe, takie jak drastyczne obniżanie cen w celu przejęcia klientów. 
+	Frustracja taksówkarzy przerodziła się w burzliwe protesty i żądania regulacji dla sektora. Rada Aldermanów (poprzednik obecnej Rady Miasta) odpowiedziała na protesty, uchwalając w 1937 roku ,,Haas Act’’, który wprowadził system medalionów (licencji) używany do dzisiaj. Zgodnie z treścią aktu, liczba medalionów, a co za tym idzie taksówek, została ograniczona do tej, która była w owej chwili w użyciu. Dalsza jej redukcja nastąpiła w sposób naturalny, doprowadzając do zrównania podaży z popytem, stabilizując agresywną konkurencję o klientów.
+	Branża taksówkarska rozkwitła ponownie podczas drugiej wojny światowej. Ze względu na ograniczoną podaż paliwa i części samochodowych, ludzie powrócili do używania taksówek jako głównego środka transportu. W międzyczasie drastycznie wzrosły ceny medalionów, gdyż ich właściciele zorientowali się, że jest to aktywo, którym można handlować. W ten sposób ceny medalionów wzrosły z 10$ w 1937 r. do 5000$ w 1950 r (NYC TLC, 2025). 
+	Kolejne problemy pojawiły się w 1960 r. Pierwszym był wzrost liczby zgłaszanych przypadków tzw. ,,dyskryminacji klienta’’, polegającej na tym, że kierowcy selekcjonowali pasażerów, których przyjmowali, co wynikało prawdopodobnie głównie ze względów bezpieczeństwa. Doprowadził on do wzrostu popytu na ,,lewe taksówki’’ (ang. gypsy cabs), co szybko doprowadziło do nieporozumień, jako że pasażerowie nie wiedzieli czy taksówka jest licencjonowana, czy też ,,lewa’’.
+	Aby uniknąć tych nieporozumień, prawodawcy Nowego Jorku zdecydowali, że wszystkie ,,medalionowe’’ taksówki powinny być żółte, a  w 1971 r., na mocy ,,Local Law 12’’, powołali  Nowojorską Komisję ds. Taksówek i Limuzyn (ang. Taxi and Limoussine Commission, TLC), której zadaniem było, i jest do dzisiaj, regulowanie rynku taksówkarskiego w Nowym Jorku, w tym licencjonowanie kierowców i pojazdów, regulowanie zasad funkcjonowania rynku oraz egzekwowanie przepisów dotyczących bezpieczeństwa i jakości usług transportowych. Te zmiany doprowadziły do bardziej konsekwentnej regulacji taksówek ,,medalionowych’’, jednocześnie legitymizując ,,lewe taksówki’’, które przekształciły się z czasem w pojazdy na zamówienie (ang. for-hire vehicles). I choć w kolejnych latach sektor for-hire ewoluował, a poszczególne podgrupy celowały w konkretne grupy klientów, to do dziś żółte taksówki jako jedyne mają prawo do zabierania pasażerów bezpośrednio z ulicy (ang. street hail) (NYC TLC, 2025).
+
+1.1.2. Funkcjonowanie
+
+	Obecnie sektor taksówkarski w Nowym Jorku obejmuje kilka różnych segmentów. Oprócz klasycznych żółtych taksówek (ang. yellow cabs), które mogą zabierać pasażerów bezpośrednio z ulicy funkcjonują także m.in. taksówki zielone (ang. green taxis) oraz pojazdy typu for-hire vehicle, które mogą realizować przejazdy wyłącznie po wcześniejszym zamówieniu przez aplikację lub telefon. Szczególną kategorią tych ostatnich są pojazdy typu high volume for-hire vehicles (HVFHS), do których zaliczane są te świadczące usługi dla firm wykonujących ponad 10 000 przejazdów dziennie. Obecnie w Nowym Jorku są to Uber oraz Lyft. Wszystkie pojazdy używane do świadczenia usług taksówkarskich, niezależnie od segmentu, muszą przejść kompleksową kontrolę bezpieczeństwa i emisji przeprowadzaną przez TLC, a wszyscy kierowcy muszą posiadać aktywną licencję oraz przejść weryfikację (ang. background check), a także spełnić określone wymagania edukacyjne (NYC TLC, 2025).
+	Według corocznego raportu TLC za rok 2025, opublikowanego w styczniu 2026 r., na koniec 2025 r. było 180 169 licencjonowanych kierowców. Licencje te pozwalają kierowcom na prowadzenie pojazdów z każdego segmentu rynku, zarówno żółtych taksówek, jak i for-hire vehicles. Aby otrzymać licencję, należy m. in. przejść test na obecność narkotyków, oddać odciski palców, a także ukończyć kurs jazdy defensywnej oraz kurs edukacyjny. Z kolei jeśli chodzi o pojazdy, to na koniec 2025 r. licencjonowanych było ponad 118 000 samochodów, w tym 13 589 żółtych taksówek oraz 82 225 pojazdów związanych z HVFHS (NYC TLC, 2025).
+	Jeśli chodzi o ceny, to taryfy żółtych taksówek są ściśle określone i regulowane przez TLC, a składają się na nie: opłata początkowa w wysokości 3$,, opłata odpowiednio za dystans lub czas (w zależności od prędkości jazdy – 70 centów za 0,2 mili przy jeździe z prędkością ponad 12 mil na godzinę lub 70 centów za 60 sekund przy jeździe wolniejszej lub staniu w korku) oraz opłaty dodatkowe – 50 centów MTA State Surcharge, 1$ Improvement Surcharge, 1$ opłaty nocnej w godzinach od 20 do 6, 2,5$ opłaty ,,godzino-szczytowej’’ w godzinach od 16 do 20 w dni robocze (oprócz świąt), 2.5$ New York State Congestion Surcharge jeśli trasa przejazdu prowadziła przez Manhattan na południe od 96th Street, oraz 75 centów MTA Congestion Pricing w odpowiednim obszarze. . Natomiast ceny HVFHS określane są przez firmy, na podstawie ich algorytmów cenowych, aczkolwiek tutaj również występują opłaty dodatkowe narzucone przez prawo, takie jak choćby podatki (NYC TLC, 2025). 
+
+1.2. Uber
+1.2.1. Historia
+
+	Uber Technologies Inc. to amerykańskie przedsiębiorstwo z siedzibą w San Francisco w stanie Kalifornia, które stworzyło m.in. aplikację mobilną Uber, służącą do zamawiania usług transportu samochodowego poprzez łączenie pasażerów z kierowcami. Historia Ubera zaczęła się w 2008 r., kiedy Travis Kalanick i Garrett Camp, biorący udział w konferencji w Paryżu, mieli problem ze złapaniem taksówki podczas mroźnej zimowej nocy. Wpadli oni wówczas na pomysł stworzenia aplikacji, która pozwalałaby pasażerom na zamówienie pojazdu na żądanie. Ich firma powstała w 2009 r., a w 2010 r. rozpoczęła pełnoskalową działalność w San Francisco. Początkowo Uber używał jedynie pojazdów Lincoln Town Cars i współpracował z kierowcami taksówek do ich prowadzenia. W miarę zyskiwania popularności firma rozszerzała swoją działalność. W 2011 r. zaczęła świadczyć usługi w Nowym Jorku oraz Paryżu, a w 2013 r. nastąpiła ekspansja na rynek chiński i indyjski. W 2012 r. firma wprowadziła usługę UberX, która opierała się na zwykłych samochodach, prowadzonych przez nieprofesjonalnych kierowców. Ta usługa szybko zyskała na popularności, i obecnie jest jedną z podstaw działalności Ubera (Uber, 2025; Garcia, 2024).
+
+1.2.2. Model działania
+
+	Uber nie zatrudnia kierowców bezpośrednio, ale działa jako platforma cyfrowa,  oferując usługę polegającą na łączeniu pasażerów z kierowcami w czasie rzeczywistym lub z wyprzedzeniem poprzez aplikację lub stronę internetową. Kierowcy nie są pracownikami, a niezależnymi kontraktorami, samozatrudnionymi lub zatrudnionymi przez właścicieli flot, ale podejmującymi decyzje o tym kiedy pracować, jakie przyjmować zlecenia itd. niezależnie od Ubera. Co więcej, kierowcy ci nie muszą wcale być kierowcami zawodowymi. Wielu z nich traktuje tę pracę jako dorywczą, służącą jako dodatkowe źródło dochodu. Również pojazdy nie muszą służyć wyłącznie do celów przewozowych, a większość kierowców używa aut prywatnych. Prowadzi  to do licznych tarć z sektorem taksówek tradycyjnych, uważających taki sposób postępowania za nieuczciwy względem nich, co często kończy się koniecznością interwencji organów rządzących (Gurely, 2014; Chen et al., 2015). 
+
+1.2.3. Algorytm cenowy
+
+	 Model biznesowy platformy opiera się natomiast na pobieraniu prowizji od każdej transakcji wynikającej z realizacji przejazdu. Ceny przejazdów są natomiast ustalane przez algorytm, co jest kolejnym elementem odróżniającym Ubera od tradycyjnych taksówek, które pobierają opłaty zgodnie z uregulowaną przez prawo taryfą. Algorytm Ubera nie jest jawny, wiadomo jednak, że uwzględnia m.in. czas przejazdu, dystans czy korki. Jednak jego kluczowym elementem, odróżniającym go od taryfy taxi, jest tzw. surge-pricing, czyli multiplikator ceny. Dzięki niemu ceny przejazdów ustalane przez Ubera są dynamiczne i kształtują się w czasie rzeczywistym w odpowiedzi na popyt i podaż, przeciwieństwie do sztywnych cen tradycyjnych taksówek. Surge-pricing jest stosowany, gdy popyt znacznie przewyższa podaż. Jego genezą jest sytuacja z  Bostonu, z 2012 r. Wówczas to pracownicy Ubera stanęli naprzeciw problemu – zaobserwowali oni, że w piątkowe oraz sobotnie noce, około godziny 1, występował drastyczny wzrost ,,niezrealizowanych żądań’’ – czyli sytuacji, których pasażer zamawiał przejazd, jednak nie był on realizowany. Przyczyną tego zjawiska było to, że w tym czasie kierowcy kończyli pracę, a równocześnie bardzo wiele osób chciało skorzystać z ich usług po imprezach i innych nocnych aktywnościach. Powodowało to mocną dysproporcję popytu i podaży, prowadzącą do tych właśnie niezrealizowanych przejazdów. Bostoński oddział Ubera jako rozwiązanie wprowadził wyższe ceny w okresach, w których wykryto problem. W efekcie podaż kierowców zwiększyła się o ok. 70%, a liczba niezrealizowanych zamówień spadła o 66%. Bazując na tym doświadczeniu, Uber wprowadził mechanizm surge-pricingu na poziomie aplikacji. Jest on aplikowany automatycznie kiedy popyt znacznie przewyższa podaż, co jest mierzone za pomocą czasu oczekiwania i liczby niezrealizowanych żądań. Działanie tego mechanizmu jest dwukanałowe – z jednej strony motywuje on kierowców do wsiadania za kierownicę, jako że stawki są wyższe, a z drugiej redukuje popyt z tego samego powodu. Pozwala to na zrównanie się popytu i podaży, a w efekcie na maksymalizację liczby zrealizowanych zleceń oraz względnie szybki powrót ceny do normalnego poziomu (Binns et al., 2025; Hall et al., 2018; Chen et al., 2015; Gyodi, 2017; Gurley, 2014). 
+	Warto zauważyć, że podobne procesy zachodzą w branżach hotelarskich czy lotniczych, gdzie również w momentach zwiększonego popytu ceny gwałtownie rosną. Różnica jest jednak taka, że w ich przypadku podaż jest względnie stała, zatem racjonalną reakcją jest drastyczne podniesienie ceny. Natomiast w przypadku Ubera podaż jest elastyczna, zatem spodziewać się można, że skala podniesienia ceny będzie dużo mniejsza, oraz że dużo szybciej wróci ona do normy. Jak podaje sam Uber, typowe okresy, w których występuje surge-pricing to piątkowe i sobotnie noce, ,,po pracowe’’ godziny szczytu, a także specjalne wydarzenia czy święta (Uber, 2025; Gurley, 2014).
+
+1.3. Platformy
+1.3.1. Ujęcie szerokie
+
+	Warto w tym momencie zatrzymać się na chwilę i spojrzeć na Ubera z uwzględnieniem obecnej sytuacji, z szerszej perspektywy. Uber jest bowiem jedynie jednym z licznych przykładów (choć niewątpliwie jednym z tych bardziej reprezentatywnych) zupełnie nowego trendu, który powstał na przestrzeni ostatnich lat. Mowa tu o platformach. Jak przeczytać można w książce ,,Gospodarka cyfrowa. Jak nowe technologie zmieniają świat’’:
+
+,,Historię cyfrowej transformacji można podzielić na dwie fazy. Najpierw część firm zaczęła umiejętnie wykorzystywać możliwości oferowane przez nowe technologie cyfrowe do przekształcenia wewnętrznych procesów organizacyjnych i produkcyjnych oraz zmiany mechanizmów i kanałów sprzedaży. Wdrożenie systemów planowania zasobami (enterprise resource planning, ERP) i zarządzania relacjami z klientem (customer relationship management, CRM) umożliwiło obniżenie kosztów produkcji, zarządzania i marketingu1 . Ważnym kanałem sprzedaży stał się internet, dzięki któremu radykalnie spadły krańcowe koszty dystrybucji. Rynki zaczęły zdobywać firmy, takie jak Amazon, które potrafiły umiejętnie korzystać z systemów informatycznych, profilowania klientów dzięki analizie ich preferencji na podstawie danych oraz możliwości elektronicznego kanału sprzedaży (e-commerce)2 . Rewolucję spowodowały jednak dopiero te przedsiębiorstwa, które wypracowały nowe modele biznesowe oparte na postępującej internetyzacji, upowszechnieniu urządzeń mobilnych oraz lawinowo zwiększających się możliwościach zbierania i przetwarzania danych: platformy.’’ 
+			       - ,,Gospodarka cyfrowa. Jak nowe technologie zmieniają świat’’	
+Platformy funkcjonują jako pośrednik pomiędzy różnymi stronami rynku (pasażer – kierowca w przypadku Ubera, wynajmujący i chcący wynająć w przypadku Airbnb itd.). Ich niesamowity sukces stał się możliwy dopiero na przestrzeni ostatnich lat, dzięki rozwojowi technologii informacyjnych i informatycznych, w tym przede wszystkim Internetu. Rozwój ten pozwolił platformom na łatwe skalowanie, opierające się na ogromnych zbiorach danych i połączeniach sieciowych. Dzięki temu, że platformy ustawiają się jedynie w roli pośrednika pomiędzy zainteresowanymi stronami, mogą z łatwością rozszerzać swoją działalność przy nieproporcjonalnie małych zwiększeniach swoich nakładów, a więc przy praktycznie zerowych koszcie marginalnym (Śledziewska, 2020). 
+
+1.3.2. Uber jako platforma
+
+	Jednym z największych graczy na rynku platform jest właśnie Uber. Ciekawych wniosków na jego temat, wraz z odniesieniem do tradycyjnego rynku taxi dostarcza artykuł ,,Uber vs Licensed Taxi Drivers: A War Between Technological Standards’’. Uber ujęty jest jako platforma, pośrednik, którego jedyną rolą jest dostarczenie infrastruktury i umożliwienie dwóm stronom rynku – kierowcom i pasażerom – połączenia. Jako mechanizmy umożliwiające Uberowi dynamiczny rozwój przestawione są efekty sieci (im więcej kierowców tym atrakcyjniejsza aplikacja dla pasażerów i na odwrót), redukcja kosztów transakcyjnych (łatwość wyszukiwania, pewność transakcji, dopasowanie) oraz efekty skali (jako że Uber dostarcza jednie infrastrukturę informatyczną, może rozszerzać swoją działalność przy kosztach krańcowych bliskich zeru), co jest w pełnej zgodzie z platformową definicją przytaczaną wcześniej (Gyodi, 2017). 
+	Przyjęta w artykule argumentacja porównuje konflikt między Uberem a tradycyjnymi taksówkami do wojny między standardami technologicznymi. Pojęcie to odnosi się do rywalizacji pomiędzy konkurującymi rozwiązaniami technologicznymi, takimi jak różne systemy operacyjne czy standardy zapisu danych, które charakteryzują się występowaniem efektów sieciowych oraz kosztów zmiany standardu. . Jak zauważa autor artykułu, podobne mechanizmy można zaobserwować na rynku usług przewozowych. Kierowcy wchodzący na rynek muszą dokonać wyboru pomiędzy dwoma modelami funkcjonowania – platformą Uber lub tradycyjną korporacją taksówkarską – a ich decyzja jest silnie uzależniona od liczby użytkowników po obu stronach rynku. W sytuacji, gdy coraz więcej kierowców wybiera jedną z platform, staje się ona bardziej atrakcyjna dla pasażerów ze względu na krótszy czas oczekiwania na przejazd, co z kolei przyciąga kolejnych kierowców. Mechanizm ten prowadzi do samowzmacniającego się wzrostu znaczenia jednego z modeli funkcjonowania rynku. Istotną rolę odgrywają również koszty zmiany „standardu”. W przypadku kierowców zmiana platformy lub modelu działalności wiąże się z utratą wcześniej zbudowanej reputacji, koniecznością ponownej rejestracji oraz dostosowania się do odmiennych wymogów regulacyjnych. W rezultacie powstaje zjawisko tzw. „lock-in”, polegające na przywiązaniu użytkowników do wybranego systemu. W warunkach silnych efektów sieciowych i wysokich kosztów zmiany standardu konkurencja taka często prowadzi do dominacji jednego rozwiązania na rynku. Z tego punktu widzenia konflikt między Uberem a tradycyjnymi taksówkami można interpretować nie tylko jako rywalizację cenową lub regulacyjną, lecz przede wszystkim jako starcie dwóch odmiennych modeli organizacji rynku transportowego – platformowego oraz tradycyjnego. W przedstawionym modelu rywalizacji wyznaczone zostały trzy możliwe wyniki równowagowe – dominacja jednej lub drugiej firmy (równowagi stabilne) lub równowaga dynamiczna, niestabilna, gdzie kierowcy są podzieleni, a firmy konkurują ze sobą. Istotny wpływ na sytuację w scenariuszu trzecim odgrywają regulacje prawne niezależne bezpośrednio od firm, takie jak kwestie licencyjne, które mogą przechylić szalę w obie strony, w zależności od tego, w jaki sposób będą implementowane. (Gyodi, 2017)
+
+1.3.3. Wpływ Ubera na sektor taxi
+
+	 Wpływ platform takich jak Uber na sektor tradycyjnych taksówek oraz porównania obydwu sektorów prowadzone były nie tylko na poziomie teoretycznym, ale również empirycznym. Rayle et al. (2016), wskazują, że floty for-hire zastępują zarówno tradycyjne taksówki, jak i transport publiczny, choć dla transportu publicznego pełnią również funkcję komplementarną. Głównymi przewagami tych flot nad tradycyjnymi taksówkami, które wskazywali ankietowani w artykule była szybkość, a szczególnie krótszy czas oczekiwania (autorzy wykazali, że jest on niższy dla fhv w porównaniu do taxi niezależnie od strefy), a także wygoda, w tym m.in. możliwość uiszczenia opłaty przez aplikację.  Cramer i Krueger (2016) wykazali, że Uber ma ogólnie wyższy wskaźnik wykorzystania (ang. utilization rate) niż tradycyjne taksówki (co sugerowało, że kierowcy Ubera mogliby wykonywać tę samą pracę co kierowcy taxi w sposób bardziej efektywny), oraz że różnica między nimi najmniejsza była w Nowym Jorku, co według autorów mogło być spowodowane przez wyjątkowo wysoką gęstość zamieszkania, dzięki której mechanizm łapania klientów na ulicy, stosowany przez taxi miał być skuteczniejszy. Tę teorię wspierają wnioski Nie (2017), który wykazał, że taxi skuteczniej konkuruje z fhv w obszarach gęściej zaludnionych oraz w godzinach szczytu. Wnioski Cramera i Kruegera (2016) zostały doprecyzowane przez Lee et al. (2018), którzy wskazali, że odnoszą się one w istocie jedynie do Manhattanu, jako że to tam jest zlokalizowanych ponad 90% taxi. Lee et al. (2018) wykazali także, że wpływ popularności Ubera na taxi zależy od regionu i statusu ekonomicznego.
+
+1.4. Determinanty cen przejazdów Ubera – badania empiryczna
+
+	Według teorii przedstawionej wcześniej (patrz. 1.2.3. ,,Algorytm cenowy’’), cena Ubera określana jest przez niejawny algorytm, który bierze pod uwagę m.in. dystans i czas przejazdu, korki, oraz podaż i popyt. Teoria ta testowana była empirycznie. Przed omówieniem prac skupiających się stricte na analizie determinant cen, warto zwrócić uwagę na segment literatury dotyczących ich pośrednio, a mianowicie badający determinanty liczby przejazdów, jako że jest ona istotnym czynnikiem algorytmu cenowego. Badania te często skupiają się na wpływie pogody, która z kolei może być dobrym proxy dla okresów zwiększonego popytu. 
+	I tak Brodeur i Nield (2018) wykazali, że liczba przejazdów na godzinę jest silnie skorelowana z tym czy pada zarówno w przypadku fhv (Ubera i Lyfta), jak i tradycyjnych taksówek, jednak efekt ten był dużo silniejszy w przypadku tych pierwszych (wzrost o 22% w przypadku Ubera, 19% w przypadku Lyfta oraz 5% w przypadku taxi) - co według autorów może być spowodowane surge–pricingiem (efekt od strony podażowej). Autorzy wskazywali jednak na napotkane ograniczenia, dotyczące m.in. braku danych o faktycznych cenach przejazdów, a także niemożności określenia różnic między klientami fhv a taxi w aspekcie choćby awersji do ryzyka, który również mógłby tłumaczyć uzyskane wyniki. Inne wnioski wyciągnęli ze swojej analizy Correa i Moyano (2023) – według nich, efekt deszczu na liczbę przejazdów jest niejednoznaczny, a wręcz nieistotny. Liczba przejazdów zależy natomiast najbardziej od godziny w ciągu dnia, a także (w mniejszym stopniu) od dnia tygodnia oraz temperatury. Jednak i tutaj autorzy podkreślają, że dane dla Ubera były dużo mniej dokładne niż dla taxi, w szczególności ponownie nie było danych dotyczących cen. Wyniki podobne do Correa i Moyano (2023) uzyskali Willis i Tranos (2020) – według nich, na liczbę przejazdów wpływ miały m.in. śnieg oraz niska temperatura, natomiast opady były nieistotne. Chociaż artykuły te nie modelowały bezpośrednio cen, dostarczają one istotnych informacji oraz mogą wskazać potencjalne kierunki dalszych badań, jako że cena jest, szczególnie w przypadku Ubera, bezpośrednią pochodną popytu (Gurley, 2014). 
+Przechodzimy zatem do segmentu literatury dotyczącego bezpośrednio problemu badawczego analizowanego w tej pracy – a więc determinant cen przejazdów fhv. Jako jedni z pierwszych tematem tym od strony empirycznej zajęli się Battifarano i Qian (2019), wskazując na istnienie luki badawczej w postaci braku analizy empirycznej właśnie. Choć głównym celem ich artykułu było zbudowanie modelu predykcyjnego, przedstawione przez nich wnioski mają przełożenie na analizę cen. Jak wynika z analizy opisowej zebranych danych, pochodzących z API Ubera, surge–multiplier jest najmniejszy w ciągu dnia w dni robocze, mały surge występuje w godzinach popołudniowych w dni robocze, duży surge występuje ok. 2 i 8.30 w dni robocze, a także wieczorem w piątki i soboty, zaś największy surge występuje ok. 2 w weekendy. Co więcej, lokalizacja również wpływa na surge – największy jest w gęstych dzielnicach biznesowych (w top 6 występuje 2 razy częściej niż średnia). Autorzy wskazują również na drobne różnice między Uberem a Lyftem, mogące wynikać m.in. z różnic w zaokrągleniach surge–multipliera. Wyniki podobne do Battifarano i Qian (2019) uzyskał Chao (2019), który również za pomocą regresji  liniowej analizował dane z API Ubera  – według niego również godziny szczytu, zarówno poranne jak i wieczorne, wpływają dodatnio na ceny. Co więcej, według autora wpływ dnia tygodnia na ceny zależy od lokalizacji, ale w ogólności przejazdy, pomijając te dotyczące lotnisk, są droższe w dni robocze niż w weekendy. Jiao (2018), używając statystyki opisowej oraz prostych modeli regresji również wykazał, że surge zależy od godziny w ciągu dnia, jednak według niego nie zależy on od czasu oczekiwania, co stoi w sprzeczności z Gurley (2014). Autor podkreśla jednak, że jego dane były ograniczone przez błędy komputerowe, a także że badany przez niego czasu jest dość krótki. Shokoohyar et al. (2020), którzy także stosując regresję liniową analizowali dane z API, zarówno Ubera jak i Lyfta, wykazali z kolei, że zła pogoda wpływa dodatnio na ceny przejazdów, ale tylko w dni robocze, zaś w weekendy efekt ten jest odwrotny. Co więcej, autorzy porównali Ubera oraz Lyfta i wyszło im, że Lyft jest generalnie tańszy niż Uber, aczkolwiek przy zastosowaniu miary w postaci opłaty za milę, okazało się to zależne od dystansu. Z analizy przeprowadzonej przez Rangel et al. (2022) na danych z API Ubera za pomocą modelu regresji liniowej wynika z kolei, że ceny przejazdów Ubera są wyższe w weekendy niż w dni robocze, co jest  sprzeczne z Chao (2019). Co więcej, podobnie jak poprzednicy, również Rangel et al. (2022) wykazali, że godziny szczytu, zarówno poranne jak i wieczorne, mają dodatni wpływ na ceny. Według autorów na ceny dodatnio wpływa również deszcz, co jest zgodne z Shokoohyar (2020) i Brodeur i Nield (2018). W modelu uwzględnione zostały również dystans i czas przejazdu, które w sposób dość oczywisty wpływają dodatnio na ceny, co również potwierdziły wyniki. Autorzy odnoszą się również do sektora taxi, wskazując że Uber oferuje ogólnie niższe ceny od tradycyjnych taksówek. Wyniki pozornie sprzeczne z poprzednimi uzyskał Huang (2023), który na danych o przejazdach Ubera i Lyfta z Kaggle wykazał, stosując model regresji liniowej, że godzina nie ma wpływu na cenę przejazdu, a wpływ mają dystans oraz surge-multiplier. Jednak sprzeczność ta może być jedynie pozorną, jako że większość autorów nie uwzględniała w swoich modelach surge-multipliera bezpośrednio, zatem jego efekty mogły przejmować choćby godziny właśnie.
+Jak zatem widać, literatura dotycząca wpływu poszczególnych cech przejazdów pojazdami typu Uber nie jest bardzo szeroka, a co więcej wyniki otrzymywane przez różnych autorów nie są jednoznaczne. Warto przy tym zauważyć, że w większości przypadków analiza dotyczy Ubera lub Ubera i Lyfta. Odnośnie wpływu poszczególnych determinant cen, w szczególności tych analizowanych w tej pracy, literatura jest  zgodna co do dodatniego wpływu dystansu oraz czasu trwania przejazdu na cenę, co jest dość oczywiste, choć co ciekawe brak jest analizy ukierunkowanej na zbadanie nieliniowości w tym zakresie. Natomiast wnioski dotyczące godzin i dni tygodnia bynajmniej nie są już jednakowe – większość autorów wskazuje, że godziny szczytu, zwłaszcza poranne, mają dodatni wpływ na cenę, aczkolwiek są też głosy przeciwne. Co do dnia tygodnia, zarówno strona wskazująca na dodatni wpływ dni roboczych na cenę, jak i strona wskazująca na dodatni wpływ weekendów mają celne argumenty, co sugeruje, że wiele zależy od sposobu analizy oraz że pole do dalszych badań na ten temat jest szeroko otwarte, oraz że przeprowadzenie takiej analizy jest jak najbardziej wskazane.
+
+1.5. Hipotezy i pytania badawcze
+1.5.1. Pytania badawcze
+
+Celem tej pracy jest zidentyfikowanie, zbadanie oraz porównanie czynników determinujących opłaty za przejazdy Ubera i tradycyjnych żółtych taksówek, ze szczególnym naciskiem na pory dnia, weekendy oraz nieliniowe zależności od dystansu i czasu. Postawione zostały wobec tego następujące pytania badawcze: 
+- Czy istnieje zależność między czasem przejazdu a ceną Ubera i taxi?
+- Czy istnieje zależność między dystansem przejazdu a ceną Ubera i taxi?
+- W jaki sposób pora dnia wpływa na ceny Ubera i taxi?
+- W jaki sposób weekend wpływa na ceny Ubera i taxi?
+- Czy zachodzą nieliniowe zależności między czasem bądź dystansem a cenami Ubera i taxi?
+- W jaki sposób wpływ poszczególnych determinant różni się między Uberem a taxi?
+Dla części z tych pytań można sformułować, na podstawie teorii oraz literatury, hipotezy dotyczące spodziewanych wyników.
+
+1.5.2. Hipoteza 1. - Istnieje dodatnia zależność między ceną przejazdu a czasem jego trwania zarówno w przypadku Ubera, jak i tradycyjnych taksówek.
+	
+	 W przypadku taksówek sprawa jest trywialna, jako że ceny taxi są jawne, i widać że istnieje zależność dodatnia. W przypadku Ubera sprawa jest jedynie trochę bardziej złożona, jako że algorytm cenowy nie jest jawny, ale nadal dodatnia zależność między czasem trwania przejazdu a ceną jest raczej oczywista, a potwierdzają ją zarówno sam Uber, jak i badania empiryczne (Uber, 2025; Rangel et al., 2022).
+
+1.5.3. Hipoteza 2. - Istnieje dodatnia zależność między ceną przejazdu a dystansem zarówno w przypadku Ubera, jak i tradycyjnych taksówek.
+	
+	Sytuacja jest tu analogiczna jak w przypadku czasu, zarówno w przypadku tradycyjnych taksówek jak i Ubera, a więc zależność dodatnia jest raczej niepodważalna, co wynika zarówno z oficjalnych dokumentów, jak i z literatury..
+
+1.5.4. Hipoteza 3. - W dni robocze poranne godziny szczytu wpływają dodatnio na ceny przejazdów zarówno Ubera, jak i tradycyjnych taksówek.
+
+Założenie, że poranne godziny szczytu wpływają dodatnio na cenę w dni robocze może wynikać z faktu, że to w tych godzinach ludzie zwykle chodzą do pracy, co wiąże się z koniecznością przemieszczenia się do tejże. Co więcej, o ile w weekendy również można by się spodziewać zwiększonego popytu w godzinach porannych, w związku z ogólnym trybem życia i rozkładem dnia, to w dni robocze ludzie co do zasady muszą stawić się w pracy, zatem jeśli nie mają w pobliżu transportu publicznego lub zaspali, a nie mają własnego środka transportu, to zamówienie przejazdu pozostaje jedyną opcją. Tę hipotezę wspierają Rangel et al. (2022), Chao (2019) oraz Battifarano i Qian (2019).
+
+1.5.5. Hipoteza 4. - W dni robocze wieczorne godziny szczytu wpływają dodatnio na ceny przejazdów zarówno Ubera, jak i tradycyjnych taksówek.
+
+Założenie o dodatnim wpływie wieczornych godzin szczytu na cenę przejazdu ma punkt wspólny z  hipotezą o dodatnim wpływie porannych godzin szczytu, bo wieczorami ludzie wychodzą z pracy. Jednak, o ile w godzinach porannych jest to jedyny czynnik podejrzewany o wpływ na popyt, a przez to na cenę, to w przypadku godzin wieczornych dochodzą do niego wyjścia towarzyskie i rozrywkowe, co sprawia, że można spodziewać się, że efekt wieczornych godzin szczytu utrzyma się również w weekendy. Hipotezę tę wspierają Rangel et al. (2022), Chao (2019) oraz Battifarano i Qian (2019).
+
+1.5.6. Hipoteza 5. -  Wpływ porannych godzin szczytu na ceny przejazdów jest silniejszy w przypadku Ubera niż w przypadku tradycyjnych taksówek
+
+Biorąc pod uwagę, że aspekt popytowy kształtuje ceny jedynie Ubera, a nie ma wpływu na ceny tradycyjnych taksówek, spodziewać się można, że wpływ porannych godzin szczytu na ceny przejazdów będzie silniejszy w przypadku Ubera niż tradycyjnych taksówek. Hipotezę tę wspierają wyniki uzyskane przez Brodeura i Nielda (2018), którzy wykazali, że wpływ pogody na liczbę przejazdów jest dużo silniejszy w przypadku Ubera i Lyfta niż w przypadku taxi.
+
+1.5.7. Inne potencjalnie ciekawe zależności
+
+Ze względu na to, że hipotezy powinny być proste i falsyfikowalne, nie można ująć w nich wszystkich zależności wartych zbadania. Są nimi zależności nieliniowe czasu i dystansu z ceną, które choć nie mają oparcia w literaturze ani teorii, są warte zbadania, a także interakcje pory dnia w weekendem, jako że wpływ pory dnia może różnić się w zależności od dnia tygodnia, a podział na dni robocze i weekendy wydaje się naturalny, ze względu na tryb życia i rozkład dnia przeciętnego człowieka.
+BIBLIOGRAFIA
+https://www.nyc.gov/html/media/totweb/taxioftomorrow_history_earlyyears.html
+https://www.nyc.gov/html/media/totweb/taxioftomorrow_history_regulationandprosperity.html
+https://www.nyc.gov/html/media/totweb/taxioftomorrow_history_themoderntaxi.html
+https://www.nyc.gov/site/tlc/about/about-tlc.page
+https://www.nyc.gov/site/tlc/businesses/for-hire-vehicles.page
+https://www.nyc.gov/site/tlc/businesses/high-volume-for-hire-services.page
+https://www.nyc.gov/site/tlc/passengers/your-ride.page
+https://www.nyc.gov/assets/tlc/downloads/pdf/annual_report_2025.pdf
+https://www.nyc.gov/site/tlc/passengers/taxi-fare.page
+https://www.uber.com/en-ZA/blog/what-is-uber-facts/
+https://www.ebsco.com/research-starters/business-and-management/uber-company
+https://abovethecrowd.com/2014/03/11/a-deeper-look-at-ubers-dynamic-pricing-model/
+https://www.uber.com/en-GH/blog/uber-dynamic-pricing/
+Chen, Le, Alan Mislove, and Christo Wilson. “Peeking Beneath the Hood of Uber.” Proceedings of the 	2015 Internet Measurement Conference, October 28, 2015, 495–508. 	https://doi.org/10.1145/2815675.2815681.
+Hall, Jonathan, Cory Kendrick, and Chris Nosko. The Effects of Uber’s Surge Pricing: A Case Study. 	n.d. https://www.uber.com/blog/research/the-effects-of-ubers-surge-pricing-a-case-study/
+Binns, Reuben, Jake Stein, Siddhartha Datta, Max Van Kleek, and Nigel Shadbolt. “Not Even Nice 	Work If You Can Get It; A Longitudinal Study of Uber’s Algorithmic Pay and Pricing.” 	arXiv:2506.15278. Preprint, arXiv, June 18, 2025. https://doi.org/10.48550/arXiv.2506.15278.
+Gyódi, K. (2017). Uber vs licensed taxi drivers: A war between technological standards. DELab UW, September. 
+	https://delab.uw.edu.pl/wp-content/uploads/2024/05/wp_2_2017_k.gyodi_.pdf
+
+,,Gospodarka cyfrowa. Jak nowe technologie zmieniają świat’ 	https://delab.uw.edu.pl/wp-content/uploads/2024/06/katarzyna-sledziewska-renata-wloch-	gospodarka-cyfrowa.pdf
+
+Rayle, Lisa, Danielle Dai, Nelson Chan, Robert Cervero, and Susan Shaheen. “Just a Better 	Taxi? A 	Survey-Based 	Comparison of Taxis, Transit, and Ridesourcing Services 	in San Francisco.” 	Transport Policy 45 (January 	2016): 168–178. 	https://doi.org/10.1016/j.tranpol.2015.10.004.
+
+Cramer, Judd, and Alan B Krueger. “Disruptive Change in the Taxi Business: The Case of 	Uber.” 	NBER, 2016.http://www.nber.org/papers/w22083
+
+Lee, Yunseok, Jiyong Park, and Byungtae Lee. “Battle of Sharing Economy: The Contingent 	Effects 	of Ride-Sharing 	on Taxi Industry.” Paper presented at Hawaii 	International 	Conference on System Sciences. 2018. 	https://doi.org/10.24251/HICSS.2018.083.
+
+Rangel, Thais, Juan Nicolas Gonzalez, Juan Gomez, Fernando Romero, and Jose Manuel 	Vassallo. “Exploring Ride-	Hailing Fares: An Empirical Analysis of the Case of 	Madrid.” Transportation 49, (2022): 373–393. 	https://doi.org/10.1007/s11116-	021-10180-w.
+
+Battifarano, Matthew, and Zhen (Sean) Qian. “Predicting Real-Time Surge Pricing of Ride-	Sourcing Companies.” 	Transportation Research Part C: Emerging Technologies 	107 (October 2019): 444–462. 	https://doi.org/10.1016/j.trc.2019.08.019.
+
+Jiao, Junfeng. “Investigating Uber Price Surges during a Special Event in Austin, TX.” 	Research in Transportation 	Business & Management 29 (December 2018): 101–107. 	https://doi.org/10.1016/j.rtbm.2018.02.008.
+
+Huang, Haolun. “Ridesharing Price Prediction: Exploring the Strategies of Dynamic Pricing.” 	Highlights in Business, 	Economics and Management 10 (May 2023): 106–110. 	https://doi.org/10.54097/hbem.v10i.7963.
+
+Chao, Junzhi. “Modeling and Analysis of Uber’s Rider Pricing.” Paper presented at 	Proceedings of 	the 2019 I	nternational Conference on Economic Management and 	Cultural Industry 	(ICEMCI 2019), Shenzhen, China. 	Proceedings of the 2019 	International Conference on 	Economic Management and Cultural Industry (ICEMCI 	2019), Atlantis Press, 2019. 	https://doi.org/10.2991/aebmr.k.191217.127.
+
+Shokoohyar, Sina, Ahmad Sobhani, and Anae Sobhani. “Impacts of Trip Characteristics and 	Weather Condition on 	Ride-Sourcing Network: Evidence from Uber and Lyft.” 	Research in Transportation Economics 80 (May 	2020): 100820. 	https://doi.org/10.1016/j.retrec.2020.100820.
+
+Willis, George, and Emmanouil Tranos. Using `Big Data’ to Understand the Impacts of Uber 	on 	Taxis in New York City. 2020. https://doi.org/10.1016/j.tbs.2020.08.003 
+
+Correa, D, and C Moyano. “Analysis and Prediction of New York City Taxi and Uber 	Demands.” Journal of Applied Research and Technology, 2023. 	https://doi.org/10.22201/icat.24486736e.2023.21.5.2074
+
+
+Brodeur, Abel, and Kerry Nield. “An Empirical Analysis of Taxi, Lyft and Uber Rides: 	Evidence from 	Weather Shocks in NYC.” Journal of Economic Behavior & 	Organization 	152 (August 	2018): 1–16. https://doi.org/10.1016/j.jebo.2018.06.004.
