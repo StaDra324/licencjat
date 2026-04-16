@@ -158,8 +158,8 @@ stargazer(uber_m2, taxi_m2,
 #   te rozszerzone modele
 
 # Współczynnik VIF
-vif(uber_m, type = "predictor")
-vif(taxi_m, type = "predictor")
+vif(uber_m2, type = "predictor")
+vif(taxi_m2, type = "predictor")
 
 # Modele bazowe i rozszerzone
 stargazer(uber_m, uber_m2, taxi_m2, taxi_m,
@@ -171,11 +171,15 @@ rm(uber_m, taxi_m)
 # Reszty
 
 # homoskedastyczność
+bptest(uber_m)
+bptest(taxi_m)
 bptest(uber_m2)
 bptest(taxi_m2)
 # występuje, więc trzeba będzie użyć macierzy odpornych
 
 # normalność
+jarque.bera.test(uber_m$residuals)
+jarque.bera.test(taxi_m$residuals)
 jarque.bera.test(uber_m2$residuals)
 jarque.bera.test(taxi_m2$residuals)
 # występuje, ale próba jest duża, więc nie ma problemu
@@ -183,10 +187,12 @@ jarque.bera.test(taxi_m2$residuals)
 
 # Macierze odporne
 
-uber_odp <- coeftest(uber_m2, vcov.=vcovHC(uber_m2, type="HC0"))
-taxi_odp <- coeftest(taxi_m2, vcov.=vcovHC(taxi_m2, type="HC0"))
+uber_odp <- coeftest(uber_m, vcov.=vcovHC(uber_m2, type="HC0"))
+taxi_odp <- coeftest(taxi_m, vcov.=vcovHC(taxi_m2, type="HC0"))
+uber_odp2 <- coeftest(uber_m2, vcov.=vcovHC(uber_m2, type="HC0"))
+taxi_odp2 <- coeftest(taxi_m2, vcov.=vcovHC(taxi_m2, type="HC0"))
 
-stargazer(uber_odp, taxi_odp,
+stargazer(uber_odp, uber_odp2, taxi_odp2, taxi_odp,
           type = "text", align = TRUE, style = "default", df = FALSE)
 
 
