@@ -215,10 +215,10 @@ Część teoretyczna
 1.1.1. Rys historyczny
 
 	Początki rynku taksówkarskiego w Nowym Jorku sięgają roku 1907. Wówczas to przedsiębiorca Harry N. Allen sprowadził 65 taksówek z Francji, gdzie były już one bardzo popularne. Od tego momentu taksówki zaczęły stopniowo wypierać używane dotychczas powozy konne (NYC TLC, 2025).
-	Do 1935 r. rynek taksówkarski w Nowym Jorku był nieuregulowany, a składał się z walczących o dominację flot. Sytuacja zmieniła się podczas Wielkiego Kryzysu. Bieda sprawiła, że wielu nowojorczyków decydowało się na wybór tańszych środków transportu, a w konsekwencji popyt na usługi taxi znacząco spadł. Spadek ten zmusił wiele firm do wyjścia z rynku, a także przyczynił się do utraty pracy wielu taksówkarzy. Sytuację dodatkowo pogarszali oportuniści stosujący praktyki określane jako podstępne lub wręcz nieuczciwe, takie jak drastyczne obniżanie cen w celu przejęcia klientów.
+	Do 1935 r. rynek taksówkarski w Nowym Jorku był nieuregulowany, a składał się z walczących o dominację flot. Sytuacja zmieniła się podczas Wielkiego Kryzysu. Bieda sprawiła, że wielu nowojorczyków decydowało się na wybór tańszych środków transportu, a w konsekwencji popyt na usługi taxi znacząco spadł. Spadek ten zmusił wiele firm do wyjścia z rynku, a także przyczynił się do utraty pracy wielu taksówkarzy. Sytuację dodatkowo pogarszali oportuniści stosujący praktyki określane jako podstępne lub wręcz nieuczciwe, takie jak drastyczne obniżanie cen w celu przejęcia klientów (NYC TLC, 2025).
 	Frustracja taksówkarzy przerodziła się w burzliwe protesty i żądania regulacji dla sektora. Rada Aldermanów (poprzednik obecnej Rady Miasta) odpowiedziała na protesty, uchwalając w 1937 roku ,,Haas Act’’, który wprowadził system medalionów (licencji) używany do dzisiaj. Zgodnie z treścią aktu, liczba medalionów, a co za tym idzie taksówek, została ograniczona do tej, która była w owej chwili w użyciu. Dalsza jej redukcja nastąpiła w sposób naturalny, doprowadzając do zrównania podaży z popytem, stabilizując agresywną konkurencję o klientów.
 	Branża taksówkarska rozkwitła ponownie podczas drugiej wojny światowej. Ze względu na ograniczoną podaż paliwa i części samochodowych, ludzie powrócili do używania taksówek jako głównego środka transportu. W międzyczasie drastycznie wzrosły ceny medalionów, gdyż ich właściciele zorientowali się, że jest to aktywo, którym można handlować. W ten sposób ceny medalionów wzrosły z 10$ w 1937 r. do 5000$ w 1950 r. (NYC TLC, 2025).
-	Kolejne problemy pojawiły się w 1960 r. Pierwszym był wzrost liczby zgłaszanych przypadków tzw. ,,dyskryminacji klienta’’, polegającej na tym, że kierowcy selekcjonowali pasażerów, których przyjmowali, co wynikało prawdopodobnie głównie ze względów bezpieczeństwa. Doprowadził on do wzrostu popytu na ,,lewe taksówki’’ (ang. gypsy cabs), co szybko doprowadziło do nieporozumień, jako że pasażerowie nie wiedzieli czy taksówka jest licencjonowana, czy też ,,lewa’’.
+	Kolejne problemy pojawiły się w 1960 r. Pierwszym był wzrost liczby zgłaszanych przypadków tzw. ,,dyskryminacji klienta’’, polegającej na tym, że kierowcy selekcjonowali pasażerów, których przyjmowali, co wynikało prawdopodobnie głównie ze względów bezpieczeństwa. Doprowadził on do wzrostu popytu na ,,lewe taksówki’’ (ang. gypsy cabs), co szybko doprowadziło do nieporozumień, jako że pasażerowie nie wiedzieli czy taksówka jest licencjonowana, czy też ,,lewa’’ (NYC TLC, 2025).
 	Aby uniknąć tych nieporozumień, prawodawcy Nowego Jorku zdecydowali, że wszystkie ,,medalionowe’’ taksówki powinny być żółte, a w 1971 r., na mocy ,,Local Law 12’’, powołali  Nowojorską Komisję ds. Taksówek i Limuzyn (ang. Taxi and Limousine Commission, TLC), której zadaniem było, i jest do dzisiaj, regulowanie rynku taksówkarskiego w Nowym Jorku, w tym licencjonowanie kierowców i pojazdów, regulowanie zasad funkcjonowania rynku oraz egzekwowanie przepisów dotyczących bezpieczeństwa i jakości usług transportowych. Te zmiany doprowadziły do bardziej konsekwentnej regulacji taksówek ,,medalionowych’’, jednocześnie legitymizując ,,lewe taksówki’’, które przekształciły się z czasem w pojazdy na zamówienie (ang. for-hire vehicles). I choć w kolejnych latach sektor for-hire ewoluował, a poszczególne podgrupy celowały w konkretne grupy klientów, to do dziś żółte taksówki jako jedyne mają prawo do zabierania pasażerów bezpośrednio z ulicy (ang. street hail) (NYC TLC, 2025).
 
 1.1.2. Funkcjonowanie
@@ -253,11 +253,11 @@ MTA Congestion Pricing (wybrany obszar)
 1.2. Uber
 1.2.1. Historia
 
-	Uber Technologies Inc. to amerykańskie przedsiębiorstwo z siedzibą w San Francisco w stanie Kalifornia, które stworzyło m.in. aplikację mobilną Uber, służącą do zamawiania usług transportu samochodowego poprzez łączenie pasażerów z kierowcami. Historia Ubera zaczęła się w 2008 r., kiedy Travis Kalanick i Garrett Camp, biorący udział w konferencji w Paryżu, mieli problem ze złapaniem taksówki podczas mroźnej zimowej nocy. Wpadli oni wówczas na pomysł stworzenia aplikacji, która pozwalałaby pasażerom na zamówienie pojazdu na żądanie. Ich firma powstała w 2009 r., a w 2010 r. rozpoczęła pełnoskalową działalność w San Francisco. Początkowo Uber używał jedynie pojazdów Lincoln Town Cars i współpracował z kierowcami taksówek do ich prowadzenia. W miarę zyskiwania popularności firma rozszerzała swoją działalność. W 2011 r. zaczęła świadczyć usługi w Nowym Jorku oraz Paryżu, a w 2013 r. nastąpiła ekspansja na rynek chiński i indyjski. W 2012 r. firma wprowadziła usługę UberX, która opierała się na zwykłych samochodach, prowadzonych przez nieprofesjonalnych kierowców. Ta usługa szybko zyskała na popularności, i obecnie jest jedną z podstaw działalności Ubera (Uber, 2025; Garcia, 2024). Dane z raportów TLC wskazują na istotną transformację rynku przewozów w Nowym Jorku po 2012 roku. Podczas gdy liczba żółtych taksówek pozostawała względnie stabilna (ok. 13,5 tys., co wynika z regulowanego systemu medalionów), liczba pojazdów typu for-hire vehicles wzrosła z ok. 47 tys. w 2013 r. do ponad 80 tys. w 2016 r. (wtedy też ujednolicone zostały licencje dla kierowców, czyli jedna licencja uprawniała do prowadzenia zarówno żółtych taksówek, jak i fhv (NYC TLC, 2016)), przekroczyła 120 tys. w 2018 r. (wówczas wprowadzona została nowa kategoria - high-volume for-hire services (HVFHS), czyli platform takich jak Uber, realizujące ponad 10 tys. kursów dziennie), a obecnie wynosi  ponad 118 tys., w tym 82 225 pojazdów związanych z HVFHS. Szczególnie istotna jest zmiana struktury tego segmentu fhv, która dokonała się na przestrzeni ostatnich lat, w wyniku której pojazdy HVFHS  stały się dominującą częścią rynku (stosunek ilości tych pojazdów do żółtych taksówek wynosi ok. 6:1).
+	Uber Technologies Inc. to amerykańskie przedsiębiorstwo z siedzibą w San Francisco w stanie Kalifornia, które stworzyło m.in. aplikację mobilną Uber, służącą do zamawiania usług transportu samochodowego poprzez łączenie pasażerów z kierowcami. Historia Ubera zaczęła się w 2008 r., kiedy Travis Kalanick i Garrett Camp, biorący udział w konferencji w Paryżu, mieli problem ze złapaniem taksówki podczas mroźnej zimowej nocy. Wpadli oni wówczas na pomysł stworzenia aplikacji, która pozwalałaby pasażerom na zamówienie pojazdu na żądanie. Ich firma powstała w 2009 r., a w 2010 r. rozpoczęła pełnoskalową działalność w San Francisco. Początkowo Uber używał jedynie pojazdów Lincoln Town Cars i współpracował z kierowcami taksówek do ich prowadzenia. W miarę zyskiwania popularności firma rozszerzała swoją działalność. W 2011 r. zaczęła świadczyć usługi w Nowym Jorku oraz Paryżu, a w 2013 r. nastąpiła ekspansja na rynek chiński i indyjski. W 2012 r. firma wprowadziła usługę UberX, która opierała się na zwykłych samochodach, prowadzonych przez nieprofesjonalnych kierowców. Ta usługa szybko zyskała na popularności, i obecnie jest jedną z podstaw działalności Ubera (Uber, 2025; Garcia, 2024). Dane z raportów TLC wskazują na istotną transformację rynku przewozów w Nowym Jorku po 2012 roku. Podczas gdy liczba żółtych taksówek pozostawała względnie stabilna (ok. 13,5 tys., co wynika z regulowanego systemu medalionów), liczba pojazdów typu for-hire vehicles wzrosła z ok. 47 tys. w 2013 r. do ponad 80 tys. w 2016 r. Wtedy też ujednolicone zostały licencje dla kierowców, czyli jedna licencja uprawniała do prowadzenia zarówno żółtych taksówek, jak i fhv (NYC TLC, 2016). W 2018 r. liczba for-hire vehicles  wzrosła do 120 tys. Wówczas też wprowadzona została nowa kategoria - high-volume for-hire services (HVFHS), czyli platform takich jak Uber, realizujących ponad 10 tys. kursów dziennie. Obecnie liczba for-hire vehicles wynosi  ponad 118 tys., w tym 82 225 pojazdów związanych z HVFHS. Szczególnie istotna jest zmiana struktury tego segmentu fhv, która dokonała się na przestrzeni ostatnich lat, w wyniku której pojazdy HVFHS  stały się dominującą częścią rynku (stosunek ilości tych pojazdów do żółtych taksówek wynosi ok. 6:1).
 
 1.2.2. Model działania
 
-	Uber nie zatrudnia kierowców bezpośrednio, ale działa jako platforma cyfrowa,  oferując usługę polegającą na łączeniu pasażerów z kierowcami w czasie rzeczywistym lub z wyprzedzeniem poprzez aplikację lub stronę internetową. Kierowcy nie są pracownikami, a niezależnymi kontraktorami, samozatrudnionymi lub zatrudnionymi przez właścicieli flot, ale podejmującymi decyzje o tym kiedy pracować, jakie przyjmować zlecenia itd. niezależnie od Ubera. Co więcej, kierowcy ci nie muszą wcale być kierowcami zawodowymi. Wielu z nich traktuje tę pracę jako dorywczą, służącą jako dodatkowe źródło dochodu (Abraham, 2024). Również pojazdy nie muszą służyć wyłącznie do celów przewozowych, a większość kierowców używa aut prywatnych. Prowadzi to do licznych tarć z sektorem taksówek tradycyjnych, uważających taki sposób postępowania za nieuczciwy względem nich, co często kończy się koniecznością interwencji organów rządzących (Gurely, 2014; Chen et al., 2015).  Rozwój Ubera wpisuje się w szerszy trend tzw. gospodarki współdzielenia (ang. sharing economy) oraz pracy platformowej (ang. gig economy) (Abraham, 2024; Pepić, 2018). Z perspektywy rynku pracy działalność na platformach takich jak Uber często ma charakter elastyczny i stanowi uzupełnienie dla głównego źródła dochodu (Abraham, 2024). Mimo to, w przypadku Ubera występuje również profesjonalizacja. Dla części kierowców jest to główne lub nawet jedyne źródło dochodu, i w tych przypadkach od strony pracownika sytuacja w segmencie Ubera jest bardzo zbliżona do segmentu taxi.
+	Uber nie zatrudnia kierowców bezpośrednio, ale działa jako platforma cyfrowa,  oferując usługę polegającą na łączeniu pasażerów z kierowcami w czasie rzeczywistym lub z wyprzedzeniem poprzez aplikację lub stronę internetową. Kierowcy nie są pracownikami, a niezależnymi kontraktorami, samozatrudnionymi lub zatrudnionymi przez właścicieli flot, ale podejmującymi decyzje o tym kiedy pracować, jakie przyjmować zlecenia itd. niezależnie od Ubera. Co więcej, kierowcy ci nie muszą wcale być kierowcami zawodowymi. Wielu z nich traktuje tę pracę jako dorywczą, służącą jako dodatkowe źródło dochodu (Abraham, 2024). Również pojazdy nie muszą służyć wyłącznie do celów przewozowych, a większość kierowców używa aut prywatnych. Prowadzi to do licznych tarć z sektorem taksówek tradycyjnych, uważających taki sposób postępowania za nieuczciwy względem nich, co często kończy się koniecznością interwencji organów rządzących (Gurely, 2014; Chen et al., 2015).  Rozwój Ubera wpisuje się w szerszy trend tzw. gospodarki współdzielenia (ang. sharing economy) oraz pracy platformowej (ang. gig economy) (Abraham, 2024; Pepić, 2018). Z perspektywy rynku pracy działalność na platformach takich jak Uber często ma charakter elastyczny i stanowi uzupełnienie dla głównego źródła dochodu (Abraham, 2024). Mimo to, w przypadku Ubera występuje również profesjonalizacja. Dla części kierowców jest to główne lub nawet jedyne źródło dochodu, i w tych przypadkach od strony pracownika sytuacja w segmencie Ubera jest bardzo zbliżona do segmentu taxi. Warto również zauważyć, że choć Uber korzystał z trendów ekonomii współdzielenia, to głównym jego celem w tym aspekcie nie była wiara w tę politykę, a chęć ocieplenia wizerunku (Meelen i Frenken, 2015).
 
 1.2.3. Algorytm cenowy
 
@@ -270,7 +270,7 @@ MTA Congestion Pricing (wybrany obszar)
 	Warto w tym momencie spojrzeć na Ubera z szerszej perspektywy. Jest on bowiem jedynie jednym z licznych przykładów relatywnie nowego trendu, który rozwinął się na przestrzeni ostatnich lat. Mowa tu o platformach:
 
 ,,Rewolucję spowodowały jednak dopiero te przedsiębiorstwa, które wypracowały nowe modele biznesowe oparte na postępującej internetyzacji, upowszechnieniu urządzeń mobilnych oraz lawinowo zwiększających się możliwościach zbierania i przetwarzania danych: platformy.” 
-									- Śledziewska, 2020
+									- Śledziewska i Włoch, 2020
 
 1.3.2. Definicja
 
@@ -291,21 +291,21 @@ MTA Congestion Pricing (wybrany obszar)
 
 1.3.5. Wpływ Ubera na sektor taxi
 
-	 Platformy mają duży wpływ na rynek oraz sektory, w których działają (Śledziewska, 2020). Wpływ platform takich jak Uber na sektor tradycyjnych taksówek oraz porównania obydwu sektorów prowadzone były nie tylko na poziomie teoretycznym, ale również empirycznym. Rayle et al. (2016), wskazują, że floty for-hire zastępują zarówno tradycyjne taksówki, jak i transport publiczny, choć dla transportu publicznego pełnią również funkcję komplementarną. Głównymi przewagami tych flot nad tradycyjnymi taksówkami, które wskazywali ankietowani w artykule była szybkość, a szczególnie krótszy czas oczekiwania (autorzy wykazali, że jest on niższy dla fhv w porównaniu do taxi niezależnie od strefy), a także wygoda, w tym m.in. możliwość uiszczenia opłaty przez aplikację.  Cramer i Krueger (2016) wykazali, że Uber ma ogólnie wyższy wskaźnik wykorzystania (ang. utilization rate) niż tradycyjne taksówki (co sugerowało, że kierowcy Ubera mogliby wykonywać tę samą pracę co kierowcy taxi w sposób bardziej efektywny), oraz że różnica między nimi najmniejsza była w Nowym Jorku, co według autorów mogło być spowodowane przez wyjątkowo wysoką gęstość zamieszkania, dzięki której mechanizm łapania klientów na ulicy, stosowany przez taxi miał być skuteczniejszy. Tę teorię wspierają wnioski Nie (2017), który wykazał, że taxi skuteczniej konkuruje z fhv w obszarach gęściej zaludnionych oraz w godzinach szczytu. Wnioski Cramera i Kruegera (2016) zostały doprecyzowane przez Lee et al. (2018), którzy wskazali, że odnoszą się one w istocie jedynie do Manhattanu, jako że to tam jest zlokalizowanych ponad 90% taxi. Lee et al. (2018) wykazali także, że wpływ popularności Ubera na taxi zależy od regionu i statusu ekonomicznego.
+	Wpływ platform takich jak Uber na sektor tradycyjnych taksówek oraz porównania obydwu sektorów prowadzone były nie tylko na poziomie teoretycznym, ale również empirycznym. Rayle et al. (2016), wskazują, na podstawie badania ankietowego przeprowadzonego w San Francisco, że floty for-hire zastępują zarówno tradycyjne taksówki, jak i transport publiczny, choć dla transportu publicznego pełnią również funkcję komplementarną. Głównymi przewagami tych flot nad tradycyjnymi taksówkami, które wskazywali ankietowani w artykule była szybkość, a szczególnie krótszy czas oczekiwania (autorzy wykazali, że jest on niższy dla fhv w porównaniu do taxi niezależnie od strefy), a także wygoda, w tym m.in. możliwość uiszczenia opłaty przez aplikację.  Cramer i Krueger (2016), wykorzystując dane z raportów TLC, innych prac badawczych oraz dostarczone przez Ubera, wykazali, że Uber ma ogólnie wyższy wskaźnik wykorzystania (ang. utilization rate) niż tradycyjne taksówki (co sugerowało, że kierowcy Ubera mogliby wykonywać tę samą pracę co kierowcy taxi w sposób bardziej efektywny), oraz że różnica między nimi najmniejsza była w Nowym Jorku, co według autorów mogło być spowodowane przez wyjątkowo wysoką gęstość zamieszkania, dzięki której mechanizm łapania klientów na ulicy, stosowany przez taxi miał być skuteczniejszy. Tę teorię wspierają wnioski Nie (2017), który  analizując sytuację w Shenzhen w Chinach wykazał, że taxi skuteczniej konkuruje z fhv w obszarach gęściej zaludnionych oraz w godzinach szczytu. Wnioski Cramera i Kruegera (2016) zostały doprecyzowane przez Lee et al. (2018), którzy wskazali, że odnoszą się one w istocie jedynie do Manhattanu, jako że to tam jest zlokalizowanych ponad 90% taxi. Lee et al. (2018) wykazali także, że wpływ popularności Ubera na taxi zależy od regionu i statusu ekonomicznego.
 
 1.4. Hedoniczne modele cen 
 
-	Przed przystąpieniem do omówienia badań empirycznych dotyczących Ubera, konieczne jest omówienie koncepcji cen hedonicznych. Opiera się ona na założeniu, że dobra nie są wartością samą w sobie (nie stanowią bezpośredniego źródła użyteczności), ale są zbiorem charakterystyk, i dopiero te charakterystyki dostarczają bezpośrednią wartość (użyteczność) konsumentowi. W konsekwencji ceny dóbr wynikają właśnie z tych charakterystyk, z uwzględnieniem tego, że cena sama w sobie również ma wpływ na użyteczność konsumenta (Lancaster, 1966; Rosen, 1974). W literaturze transportowej wskazuje się, że w przypadku transportu kluczowymi wartościami mającymi bezpośredni wpływ na użyteczność konsumenta są m.in. cena, czas podróży, niezawodność czy jakość, zaś pośrednio (poprzez wpływ na czas, korki itd.) również dystans czy pora dnia (Small and Verhoef, 2007). 	Jednym z fundamentów w literaturze transportowej jest koncepcja ,,wartości czasu’’ (ang. Value of Time, VOT). Chodzi w niej o to, że jednym z kluczowych czynników determinujących użyteczność konsumenta jest czas, jako że to alokacja czasu pomiędzy różne aktywności wpływa na dochód oraz czas wolny jednostki. Na wartość czasu wpływa wiele czynników, ale w kontekście tej pracy i analizy determinant cen przejazdów Ubera i taxi wydaje się, że kluczową rolę odgrywa czas podróży w połączeniu z dystansem. Wpływ tych zmiennych może mieć charakter nieliniowy – np. czas spędzony w korkach może być warty więcej niż czas w ruchu płynnym, a także wartość czasu może rosnąć wraz z wydłużaniem się czasu podróży (Abrantes and Wardman, 2011; Small, 2012).
+	Przed przystąpieniem do omówienia badań empirycznych dotyczących Ubera, konieczne jest omówienie koncepcji cen hedonicznych. Opiera się ona na założeniu, że dobra nie są wartością samą w sobie (nie stanowią bezpośredniego źródła użyteczności), ale są zbiorem charakterystyk, i dopiero te charakterystyki dostarczają bezpośrednią wartość (użyteczność) konsumentowi. W konsekwencji ceny dóbr wynikają właśnie z tych charakterystyk, z uwzględnieniem tego, że cena sama w sobie również ma wpływ na użyteczność konsumenta (Lancaster, 1966; Rosen, 1974). W literaturze transportowej wskazuje się, że w przypadku transportu kluczowymi wartościami mającymi bezpośredni wpływ na użyteczność konsumenta są m.in. cena, czas podróży, niezawodność czy jakość, zaś pośrednio (poprzez wpływ na czas, korki itd.) również dystans czy pora dnia (Small and Verhoef, 2007). 	Jednym z fundamentów w literaturze transportowej jest koncepcja ,,wartości czasu’’ (ang. Value of Time, VOT). Pojęcie to odnosi się do wartości przypisywanej przez jednostkę czasowi. VOT interpretować można zatem jako gotowość do zapłaty za skrócenie czasu podróży. W kontekście transportu oznacza to, że czas spędzony w podróży stanowi dla konsumenta koszt, który – podobnie jak koszt pieniężny – wpływa na jego decyzje oraz postrzeganą wartość usługi. Co więcej, różne formy czasu podróży (np. w korku vs. w ruchu płynnym) mogą być wyceniane przez konsumenta w różny sposób, co z kolei może sugerować, że wpływ czasu podróży i dystansu na cenę przejazdu nie musi być proporcjonalny (Abrantes and Wardman, 2011; Small, 2012).
 	Jak zatem widać, w przypadku Ubera i taxi uzasadnione jest zastosowanie modelu, w którym cena jest determinowana przez cechy przejazdu, zaś w przypadku determinant takich jak czas trwania przejazdu czy dystans uzasadnione jest uwzględnienie potencjalnych nieliniowości.
 
 1.5. Determinanty cen przejazdów Ubera – badania empiryczne
 
-	Według teorii przedstawionej wcześniej (patrz. 1.2.3. ,,Algorytm cenowy’’), cena Ubera określana jest przez niejawny algorytm, który bierze pod uwagę m.in. dystans i czas przejazdu, korki oraz podaż i popyt. Przed omówieniem prac skupiających się na analizie determinant cen, warto zwrócić uwagę na segment literatury analizujący je pośrednio, a mianowicie badający determinanty liczby przejazdów, jako że jest ona istotnym czynnikiem algorytmu cenowego. Badania te często skupiają się na wpływie pogody, która z kolei może być dobrym przybliżeniem dla okresów zwiększonego popytu, ponieważ podczas złej pogody, np. deszczu, popyt na środki transportu naturalnie wzrasta, jako że alternatywne formy transportu, takie jak chodzenie czy jazda na rowerze, stają się dużo mniej atrakcyjne (Brodeur i Nield, 2018).
+	Według analizy źródeł przedstawionej wcześniej (patrz. 1.2.3. ,,Algorytm cenowy’’), cena Ubera określana jest przez niejawny algorytm, który bierze pod uwagę m.in. dystans i czas przejazdu, warunki drogowe  oraz podaż i popyt. Przed omówieniem prac skupiających się na analizie determinant cen, warto zwrócić uwagę na segment literatury analizujący je pośrednio, a mianowicie badający determinanty liczby przejazdów, jako że jest ona istotnym czynnikiem algorytmu cenowego. Badania te często skupiają się na wpływie pogody, która z kolei może być dobrym przybliżeniem dla okresów zwiększonego popytu, ponieważ podczas złej pogody, np. deszczu, popyt na środki transportu naturalnie wzrasta, jako że alternatywne formy transportu, takie jak chodzenie czy jazda na rowerze, stają się dużo mniej atrakcyjne (Brodeur i Nield, 2018).
 	Wpływ poszczególnych determinant na liczbę przejazdów Ubera jest niejednoznaczny. W literaturze można znaleźć zarówno prace wskazujące na istnienie silnej, pozytywnej korelacji między deszczem a liczbą przejazdów (Brodeur i Nield, 2018), jak i prace wykazujące brak zależności w przypadku deszczu, a zależność występującą w przypadku pory dnia, dnia tygodnia czy temperatury (Correa i Moyano, 2023; Willis i Tranos, 2020). Chociaż artykuły te nie modelowały bezpośrednio cen, dostarczają one istotnych informacji oraz mogą wskazać potencjalne kierunki dalszych badań, jako że cena jest, szczególnie w przypadku Ubera, bezpośrednią pochodną popytu (Gurley, 2014). Co więcej, autorzy często wskazują na relatywnie słabą jakość danych (Brodeur i Nield, 2018; Correa i Moyano, 2023).
-	Przechodzimy zatem do segmentu literatury dotyczącego bezpośrednio problemu badawczego analizowanego w tej pracy – a więc determinant cen przejazdów Ubera. Prace badające ten problem często opierają się na danych z API Ubera i używają zwykle narzędzi takich jak statystyka opisowa i modele regresji. Analizowane są różne determinanty, a wśród nich dystans, pora dnia, weekendy, czas, czas oczekiwania czy lokalizacje. 
+	Przechodzimy zatem do segmentu literatury dotyczącego bezpośrednio problemu badawczego analizowanego w tej pracy – a więc determinant cen przejazdów Ubera. Prace badające ten problem często opierają się na danych z API Ubera i używają zwykle narzędzi takich jak statystyka opisowa i modele regresji. Analizowane są różne determinanty, a wśród nich dystans, pora dnia, weekendy, czas czy  czas oczekiwania, a analiza przeprowadzana jest w różnych lokalizacjach, m. in. w Madrycie (Rangel et al., 2022), Austin (Jiao, 2018) czy Bostonie (Huang, 2023). 
 Co do determinant analizowanych w tej pracy, to literatura jest zgodna co do pozytywnej zależności między dystansem a ceną (Rangel et al., 2022; Huang, 2023; Shokoohyar, 2020). 
 Podobnie, literatura wskazuje na istnienie dodatniej zależności między czasem trwania przejazdu a ceną Ubera, choć ze względu na potencjalną współliniowość z dystansem często w estymacji używa się tylko jednej z tych zmiennych (Rangel et al., 2022).  
-Większość badań jest także zgodna co do istnienia pozytywnej zależności między cenami Ubera a porannymi oraz wieczornymi godzinami szczytu (Battifarano i Qian, 2019; Chao, 2019; Jiao, 2018; Rangel et al., 2022). Wyjątek stanowi Huang (2023), który wykazał brak zależności między godziną a ceną przejazdu, jednak uwzględnił on w modelu surge-multiplier bezpośrednio, zatem sprzeczność jego wyników może być efektem innej specyfikacji. 
+Większość badań jest także zgodna co do istnienia pozytywnej zależności między cenami Ubera a porannymi oraz wieczornymi godzinami szczytu (Battifarano i Qian, 2019; Chao, 2019; Jiao, 2018; Rangel et al., 2022). Wyjątek stanowi Huang (2023), który wykazał brak zależności między godziną a ceną przejazdu, jednak uwzględnił on w modelu surge-multiplier bezpośrednio (jako zmienną ciągłą), zatem sprzeczność jego wyników może być efektem innej specyfikacji. Warto ponadto zaznaczyć, że wykorzystane przez niego dane, w tym wspomniany surge-multiplier pochodzą z publicznego zbioru na Kaggle, zatem ich jakość może być kwestionowana.
 Literatura nie jest natomiast zgodna co do związku weekendów z cenami Ubera – występują tutaj zarówno prace wskazujące na związek pozytywny (Rangel et al., 2022), jak i negatywny (Chao, 2019; Shokoohyar, 2020).
 Jak zatem widać, literatura dotycząca determinant cen przejazdów Ubera nie jest szczególnie rozbudowana, a uzyskiwane wyniki nie są jednoznaczne. Warto przy tym zauważyć, że większość badań koncentruje się na analizie pojedynczych platform, najczęściej Ubera lub Ubera i Lyfta, natomiast porównania z tradycyjnymi taksówkami pojawiają się rzadziej i mają zazwyczaj charakter bardziej ogólny, nie odnosząc się bezpośrednio do różnic w mechanizmach kształtowania cen.
 Co więcej, zgodnie z najlepszą wiedzą autora, w literaturze empirycznej potencjalne zależności nieliniowe rzadko są analizowane bezpośrednio poprzez specyfikacje nieliniowe (np. z wykorzystaniem potęg zmiennych), pomimo że zarówno teoria, jak i literatura, uzasadniają uwzględnienie ich w analizie. Przemawiające za tym argumenty opisane zostały wcześniej (patrz. 1.4.). Zgodnie z nimi nieliniowe zależności mogą być spowodowane choćby przez mechanizm wartości czasu (patrz. 1.4.) lub surge-pricing. W sytuacjach zwiększonego popytu względem podaży cena przejazdu może rosnąć w sposób dyskretny i nieproporcjonalny do zmiany podstawowych charakterystyk przejazdu. Oznacza to, że wpływ czasu i dystansu na cenę jest modulowany przez warunki rynkowe, co dodatkowo wzmacnia potencjalnie nieliniowy charakter tych zależności (Rangel et al., 2022; Castillo, 2025; Garg, 2022).
@@ -314,54 +314,119 @@ Co więcej, zgodnie z najlepszą wiedzą autora, w literaturze empirycznej poten
 1.6.1. Pytania badawcze
 
 Celem tej pracy jest zidentyfikowanie, zbadanie oraz porównanie czynników determinujących opłaty za przejazdy Ubera i tradycyjnych żółtych taksówek, ze szczególnym naciskiem na pory dnia, weekendy oraz nieliniowe zależności od dystansu i czasu. Postawione zostały wobec tego następujące pytania badawcze:
-- Czy istnieje zależność między czasem przejazdu a ceną Ubera i taxi?
-- Czy istnieje zależność między dystansem przejazdu a ceną Ubera i taxi?
-- Czy istnieje zależność między porą dnia a ceną Ubera i taxi?
-- Czy istnieje zależność między weekendem a ceną Ubera i taxi?
-- Czy zachodzą nieliniowe zależności między czasem bądź dystansem a cenami Ubera i taxi?
-- W jaki sposób wpływ poszczególnych determinant różni się między Uberem a taxi?
-Dla części z tych pytań można sformułować, na podstawie teorii oraz literatury, hipotezy dotyczące spodziewanych wyników.
+- Jakie czynniki wpływają na ceny przejazdów Ubera i tradycyjnych taksówek?
+- Czy występują nieliniowe zależności między czasem lub dystansem a ceną w przypadku Ubera lub taxi?
+- W jaki sposób wpływ poszczególnych czynników różni się między przewoźnikami?
+	Dla części z tych pytań można sformułować, na podstawie teorii oraz literatury, hipotezy dotyczące spodziewanych wyników.
 
-1.6.2. Hipotezy 1. i 2. - Istnieje dodatnia zależność między ceną przejazdu a czasem jego trwania (H. 1.), a także między ceną przejazdu a dystansem (H. 2.), zarówno w przypadku Ubera, jak i tradycyjnych taksówek.
+1.6.2. Hipotezy badawcze
 	
 Zgodnie z podejściem hedonicznym (patrz 1.4.), cena przejazdu może być traktowana jako funkcja jego podstawowych charakterystyk, takich jak czas trwania oraz dystans. W przypadku usług transportowych obie te zmienne stanowią kluczowe determinanty kosztu realizacji przejazdu, a tym samym jego ceny. 
-W przypadku tradycyjnych żółtych taksówek zależność ta wynika bezpośrednio z konstrukcji taryfy, zgodnie z którą opłata rośnie wraz z przejechanym dystansem oraz czasem trwania kursu (patrz. 1.1.2.). W przypadku Ubera, pomimo niejawnego charakteru algorytmu cenowego, zarówno oficjalne informacje, jak i wyniki badań empirycznych wskazują na analogiczną, dodatnią zależność między tymi zmiennymi a ceną przejazdu (patrz. 1.2.3., 1.5.).	 
-	
-1.6.3. Wstęp do hipotez 3. i 4. - rytm życia w miastach
+W przypadku tradycyjnych żółtych taksówek zależność ta wynika bezpośrednio z konstrukcji taryfy, zgodnie z którą opłata rośnie wraz z przejechanym dystansem oraz czasem trwania kursu (patrz. 1.1.2.). W przypadku Ubera, pomimo niejawnego charakteru algorytmu cenowego, zarówno oficjalne informacje, jak i wyniki badań empirycznych wskazują na analogiczną, dodatnią zależność między tymi zmiennymi a ceną przejazdu (patrz. 1.2.3., 1.5).
+Zatem pierwsza z hipotez stanowi, że istnieje dodatnia zależność między ceną przejazdu a dystansem w przypadku Ubera, jak i tradycyjnych taksówek.	
+Druga hipoteza mówi natomiast o analogicznym związku ceny z czasem, a zatem że istnieje dodatnia zależność między ceną przejazdu a czasem zarówno w przypadku Ubera, jak i tradycyjnych taksówek.
+	Dwie kolejne hipotezy odnoszą się do godzin szczytu, których występowanie wynika z charakterystycznego rytmu aktywności w obszarach miejskich. Rytm ten charakteryzuje większość tych obszarów i ma względnie stałą strukturę. W dni robocze w godzinach porannych następuje koncentracja popytu na transport, związana z rozpoczęciem dnia pracy oraz innych regularnych aktywności, co prowadzi do zwiększonego zapotrzebowania na usługi przewozowe. Podobna sytuacja następuje w godzinach wieczornych, ze względu na zakończenie dnia pracy i konieczność powrotów do miejsc zamieszkania.
+	I tak hipoteza trzecia stanowi, że  istnieje zależność między porannymi godzinami szczytu w dni robocze a ceną przejazdów zarówno Ubera, jak i tradycyjnych taksówek. Założenie to wynika właśnie z miejskiego rytmu dnia (patrz. 1.6.3.). Dynamiczny wzrost popytu na przejazdy może prowadzić do wzrostu cen, ponieważ algorytm cenowy Ubera reaguje na popyt nadwyżkowy. Tę hipotezę wspierają Rangel et al. (2022), Chao (2019) oraz Battifarano i Qian (2019).
+	Hipoteza czwarta jest analogiczna jak trzecia, ale dla wieczornych godzin szczytu. Podstawą założenia, że istnieje zależność między wieczornymi godzinami szczytu w dni robocze a ceną jest podobnie jak w przypadku godzin porannych schemat miejskiego rytmu dnia (patrz. 1.6.3.). Warto jednak zauważyć, że siła tej zależności może być w tym przypadku inna, jako że presja poranna może być wyższa ze względu na konieczność dotarcia do pracy czy innych obowiązków. Hipotezę tę wspierają, zarówno na poziomie wpływu, jak i różnicy w sile wpływu w porównaniu z godzinami porannymi, Rangel et al. (2022), Chao (2019) oraz Battifarano i Qian (2019).
+	Hipoteza piąta mówi o tym, że wpływ porannych godzin szczytu na ceny przejazdów jest silniejszy w przypadku Ubera niż w przypadku tradycyjnych taksówek. Biorąc pod uwagę, że aspekt popytowy kształtuje ceny Ubera w znacznie większym stopniu niż ceny tradycyjnych taksówek (bo tradycyjne są ustalane taryfą, a Ubera dynamicznie), spodziewać się można, że wpływ porannych godzin szczytu na ceny przejazdów będzie silniejszy w przypadku Ubera niż w przypadku tradycyjnych taksówek. Hipotezę tę wspierają pośrednio wyniki uzyskane przez Brodeura i Nielda (2018), którzy wykazali, że wpływ pogody na liczbę przejazdów jest dużo silniejszy w przypadku Ubera i Lyfta niż w przypadku taxi.
+	Hipoteza szósta mówi o istnieniu nieliniowej zależności między czasem i dystansem a ceną przejazdów Ubera. W przypadku tych nieliniowych zależności zarówno teoria, jak i literatura, uzasadniają uwzględnienie ich w analizie. Jak wspomniano wcześniej, nieliniowe zależności mogą być spowodowane choćby przez mechanizm wartości czasu lub surge-pricing (patrz. 1.4., 1.5.). Mimo to, o czym również wspominano wcześniej, zgodnie z najlepszą wiedzą autora, w literaturze empirycznej zależności te rzadko są analizowane bezpośrednio poprzez specyfikacje nieliniowe (np. z wykorzystaniem potęg zmiennych) (patrz. 1.5.). Tym niemniej, przedstawione mechanizmy teoretyczne uzasadniają ich uwzględnienie w analizie.  
 
-Hipotezy 3. oraz 4. odnoszą się do godzin szczytu, których występowanie wynika z charakterystycznego rytmu aktywności w obszarach miejskich. Rytm ten charakteryzuje większość tych obszarów i ma względnie stałą strukturę. W dni robocze w godzinach porannych następuje koncentracja popytu na transport, związana z rozpoczęciem dnia pracy oraz innych regularnych aktywności, co prowadzi do zwiększonego zapotrzebowania na usługi przewozowe. Podobna sytuacja następuje w godzinach wieczornych, ze względu na zakończenie dnia pracy i konieczność powrotów do miejsc zamieszkania.
-	
-1.6.4. Hipoteza 3. - Istnieje zależność między porannymi godzinami szczytu w dni robocze a ceną przejazdów zarówno Ubera, jak i tradycyjnych taksówek.
 
-	Założenie, że istnieje zależność między porannymi godzinami szczytu w dni robocze a ceną wynika właśnie z miejskiego rytmu dnia (patrz. 1.6.3.). Dynamiczny wzrost popytu na przejazdy może prowadzić do wzrostu cen, ponieważ algorytm cenowy Ubera reaguje na popyt nadwyżkowy. Tę hipotezę wspierają Rangel et al. (2022), Chao (2019) oraz Battifarano i Qian (2019).
 
-1.6.5. Hipoteza 4. - Istnieje zależność między wieczornymi godzinami szczytu w dni robocze a ceną przejazdów zarówno Ubera, jak i tradycyjnych taksówek.
 
-	 Podstawą założenia, że istnieje zależność między wieczornymi godzinami szczytu w dni robocze a ceną jest podobnie jak w przypadku godzin porannych schemat miejskiego rytmu dnia (patrz. 1.6.3.). Warto jednak zauważyć, że siła tej zależności może być w tym przypadku inna, jako że presja poranna może być wyższa ze względu na konieczność dotarcia do pracy czy innych obowiązków. Hipotezę tę wspierają, zarówno na poziomie wpływu, jak i różnicy w sile wpływu w porównaniu z godzinami porannymi, Rangel et al. (2022), Chao (2019) oraz Battifarano i Qian (2019).
 
-1.6.6. Hipoteza 5. -  Wpływ porannych godzin szczytu na ceny przejazdów jest silniejszy w przypadku Ubera niż w przypadku tradycyjnych taksówek.
 
-Biorąc pod uwagę, że aspekt popytowy kształtuje ceny Ubera w znacznie większym stopniu niż ceny tradycyjnych taksówek (bo tradycyjne są ustalane taryfą, a Ubera dynamicznie), spodziewać się można, że wpływ porannych godzin szczytu na ceny przejazdów będzie silniejszy w przypadku Ubera niż w przypadku tradycyjnych taksówek. Hipotezę tę wspierają pośrednio wyniki uzyskane przez Brodeura i Nielda (2018), którzy wykazali, że wpływ pogody na liczbę przejazdów jest dużo silniejszy w przypadku Ubera i Lyfta niż w przypadku taxi.
 
-1.6.7. Inne potencjalnie ciekawe zależności
 
- Na podstawie teorii i literatury wyróżnić można jeszcze kilka zależności wartych zbadania. Są nimi zależności nieliniowe między czasem i dystansem a ceną, a także interakcje pory dnia z weekendem. 
-Jeśli chodzi o te drugie, to z literatury wynika, że wpływ pory dnia (opisany wcześniej, patrz. 1.5.) może różnić się w zależności od dnia tygodnia, a podział na dni robocze i weekendy wydaje się naturalny (Shokoohyar, 2020; Rangel et al., 2022; Battifarano and Qian, 2019). 
-Jeśli zaś chodzi o zależności nieliniowe czasu i dystansu, to zarówno teoria, jak i literatura, uzasadniają uwzględnienie ich w analizie. Jak wspomniano wcześniej, nieliniowe zależności mogą być spowodowane choćby przez mechanizm wartości czasu lub surge-pricing (patrz. 1.4., 1.5.). Mimo to, o czym również wspominano wcześniej, zgodnie z najlepszą wiedzą autora, w literaturze empirycznej zależności te rzadko są analizowane bezpośrednio poprzez specyfikacje nieliniowe (np. z wykorzystaniem potęg zmiennych) (patrz. 1.5.). Tym niemniej, przedstawione mechanizmy teoretyczne uzasadniają ich uwzględnienie w analizie. 
+
+
+
+
+
+
+
+
+
+
 ROZDZIAŁ II
 
 Część empiryczna
 
 2.1. Opis bazy danych
 
-	 Dane pochodzą z comiesięcznych raportów NYC Taxi and Limousine Commission, dostępnych na stronie https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page. Dokumenty te zawierają dane na poziomie mikro – jeden wiersz reprezentuje jeden przejazd – dotyczące przejazdów realizowanych w Nowym Jorku. Raporty dla różnych klasyfikacji pojazdów publikowane są w osobnych plikach – w tej pracy wykorzystane zostały te dotyczące tradycyjnych żółtych taksówek (Yellow Taxi Trip Records) oraz platform (patrz. 1.2.1.) (High Volume For-Hire Vehicle Trip Records). Między tymi kategoriami raportowane pozycje różnią się częściowo nazewnictwem oraz typem – dokładne spisy raportowanych pozycji wraz z opisem dostępne są na stronach: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf    https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_hvfhs.pdf.
-	W tej pracy wykorzystane zostały raporty za styczeń, luty oraz marzec 2025. Każdy z nich został indywidualnie wyczyszczony. Na potrzeby analizy z raportów platformowych uwzględniony został jedynie Uber (w raportach występował również Lyft), dlatego w dalszej części będą one określane jako ,,raporty Ubera’’. Ze względu na to, że większość żółtych taksówek działa na Manhattanie, a także aby uniknąć konieczności uwzględniania w analizie kwestii lokalizacyjnych, które mogłyby generować heteroskedastyczność, a których analiza nie jest celem tej pracy, zbiór został dalej zawężony do przejazdów, których zarówno początek, jak i koniec miał miejsce na Manhattanie. W kolejnych krokach usunięte zostały rekordy będące ewidentnie błędne, np. zawierające wartości niedodatnie w polach takich jak dystans, czas czy opłaty. Usunięte zostały także rekordy niezgodne z przepisami przedstawionymi w sekcji 1.1.2. Następnie, na podstawie pozycji raportowanych bezpośrednio w raportach stworzone zostały zmienne potrzebne do dalszej analizy, takie jak czas przejazdu (obliczony jako różnica między godziną zakończenia przejazdu (ang. drop-off date) a godziną rozpoczęcia przejazdu (ang. pick-up date). Później usunięte zostały pozycje zbędne w dalszej analizie. Następnie nazwy zmiennych zostały ujednolicone między raportami taxi i Ubera. Później, w celu ułatwienia przeprowadzenia analizy eksploracyjnej oraz stworzenia modelu ekonometrycznego, wszystkie pliki zostały połączone w jeden, zawierający zmienne takie jak dystans (distance), czas w minutach (trip_time_mins), opłata całkowita (total_amount) czy godzina (hour). Na koniec, po analizie wstępnej, ze względu na występowanie obserwacji teoretycznie poprawnych, jednak nie mających sensu z perspektywy praktycznej (np. dystans przejazdu 1000 mil), dane zostały ograniczone na podstawie górnych (0.99) i dolnych (0.01) kwantyli ze względu na dystans, czas w minutach, opłatę podstawową oraz opłatę całkowitą, dzięki czemu wyeliminowane zostały tego typu odchylenia, a także w znaczącym stopniu zredukowana została skośność i kurtoza rozkładów zmiennych. W wyniku tego ograniczenia usuniętych zostało 883 152 obserwacji, co stanowi 4,86% wszystkich obserwacji z wyczyszczonej bazy.
+	 Dane pochodzą z comiesięcznych raportów NYC Taxi and Limousine Commission, dostępnych na stronie1. Dokumenty te zawierają dane na poziomie mikro – jeden wiersz reprezentuje jeden przejazd – dotyczące przejazdów realizowanych w Nowym Jorku. Raporty dla różnych klasyfikacji pojazdów publikowane są w osobnych plikach – w tej pracy wykorzystane zostały te dotyczące tradycyjnych żółtych taksówek (Yellow Taxi Trip Records) oraz platform (patrz. 1.2.1.) (High Volume For-Hire Vehicle Trip Records). Między tymi kategoriami raportowane pozycje różnią się częściowo nazewnictwem oraz typem – dokładne spisy raportowanych pozycji wraz z opisem dostępne są na stronach2.
+	W tej pracy wykorzystane zostały raporty za styczeń, luty oraz marzec 2025. Okres ten stanowi cały kwartał i powinien dostarczyć wystarczającego horyzontu czasowego do zbadania postawionych hipotez i pytań badawczych. Każdy z raportów został indywidualnie wyczyszczony. Na potrzeby analizy z raportów platformowych uwzględniony został jedynie Uber (w raportach występował również Lyft), dlatego w dalszej części będą one określane jako ,,raporty Ubera’’. Ze względu na to, że większość żółtych taksówek działa na Manhattanie, a także aby uniknąć konieczności uwzględniania w analizie kwestii lokalizacyjnych, które mogłyby generować heteroskedastyczność, a których analiza nie jest celem tej pracy, zbiór został dalej zawężony do przejazdów, których zarówno początek, jak i koniec miał miejsce na Manhattanie. W kolejnych krokach usunięte zostały rekordy będące ewidentnie błędne, np. zawierające wartości niedodatnie w polach takich jak dystans, czas czy opłaty. Usunięte zostały także rekordy niezgodne z przepisami, tj. mające wartości opłat dodatkowych niezgodne z ustalonymi stawkami (patrz. 1.1.2.). Następnie, na podstawie pozycji raportowanych bezpośrednio w raportach stworzone zostały zmienne potrzebne do dalszej analizy, takie jak czas przejazdu (obliczony jako różnica między godziną zakończenia przejazdu (ang. drop-off date) a godziną rozpoczęcia przejazdu (ang. pick-up date). Później usunięte zostały pozycje zbędne w dalszej analizie. Następnie nazwy zmiennych zostały ujednolicone między raportami taxi i Ubera. Później, w celu ułatwienia przeprowadzenia analizy eksploracyjnej oraz stworzenia modelu ekonometrycznego, wszystkie pliki zostały połączone w jeden, zawierający zmienne takie jak dystans (distance), czas w minutach (trip_time_mins), opłata całkowita (total_amount) czy godzina (hour). Na koniec, po analizie wstępnej, ze względu na występowanie obserwacji teoretycznie poprawnych, jednak nie mających sensu z perspektywy praktycznej (np. dystans przejazdu 1000 mil), dane zostały ograniczone na podstawie górnych (0.99) i dolnych (0.01) kwantyli ze względu na dystans, czas w minutach, opłatę podstawową oraz opłatę całkowitą, dzięki czemu wyeliminowane zostały tego typu odchylenia, a także w znaczącym stopniu zredukowana została skośność i kurtoza rozkładów zmiennych. W wyniku tego ograniczenia usuniętych zostało 883 152 obserwacji, co stanowi 4,86% wszystkich obserwacji z wyczyszczonej bazy.
 	Baza danych ostatecznie użyta w analizie składa się z 17 304 478 obserwacji (10 382 174 dla Ubera i 6 922 304 dla żółtych taksówek. Obserwacje te obejmują okres od początku stycznia 2025 (pierwsza obserwacja 01.01.2025) do końca marca 2025 (ostatnia obserwacja 31.03.2025).
+	Końcowy zbiór zmiennych wykorzystanych w analizie przedstawiony został w Tabeli 2. Lista świąt federalnych dostępna jest na stronie https://www.ca2.uscourts.gov/clerk/calendars/federal_holidays.html, zaś pory dnia zostały ustalone na podstawie literatury (patrz. 1.5., 1.6.3.) oraz analizy ekspoloracyjnej (patrz. 2.2.)
+Tabela 2. Opis zmiennych wykorzystanych w analizie
+Nazwa zmiennej
+ Opis zmiennej
+ Typ zmiennej
+ Jednostka
+total_amount
+ Końcowa cena przejazdu zapłacona przez pasażera;
+      dla Ubera suma: base_passenger_fare, tolls, bcf, sales_tax, congestion_surcharge, cbd_congestion_fee;
+dla taxi suma: fare_amount, extra, mta_tax, tolls_amount, improvement_surcharge, congestion_surcharge, cbd_congestion_fee
+ ciągła
+ USD
+distance
+ Dystans przejazdu; jedna z podstawowych determinant ceny zgodnie z teorią cen hedonicznych
+ ciągła
+ mile
+trip_time_mins
+ Czas przejazdu; jedna z podstawowych determinant ceny zgodnie z teorią cen hedonicznych
+ ciągła
+ minuty
+hour_gr 7-9
+ Poranne godziny szczytu
+ zero-jedynkowa
+ –
+hour_gr 6, 9-17
+ Godziny o względnie stałym, niższym natężeniu ruchu (grupa bazowa)
+ zero-jedynkowa
+ –
+hour_gr 17-21
+ Wieczorne ,,pracowe’’ godziny szczytu
+ zero-jedynkowa
+ –
+hour_gr 21-23
+ Godziny poprzedzające aktywności nocne
+ zero-jedynkowa
+ –
+hour_gr 23-6
+ Godziny nocne
+ zero-jedynkowa
+ –
+czy_weekend
+ Zmienna wskazująca weekend
+ zero-jedynkowa
+ –
+month2
+ Luty; zmienna kontrolna sezonowości (baza: styczeń)
+ zero-jedynkowa
+ –
+month3
+ Marzec; zmienna kontrolna sezonowości (baza: styczeń)
+ zero-jedynkowa
+ –
+czy_01_01
+ Nowy Rok; zmienna kontrolna
+ zero-jedynkowa
+ –
+czy_19_01
+ Święto federalne (Martin Luther King Jr. Day); zmienna kontrolna
+ zero-jedynkowa
+ –
+czy_16_02
+ Święto federalne (Washington’s Birthday); zmienna kontrolna
+ zero-jedynkowa
+ –
+Źródło: Opracowanie własne na podstawie danych zebranych z raportów NYC TLC
 
 2.2. Analiza eksploracyjna
 	
-	Tabela 2. przedstawia statystyki opisowe dla tradycyjnych żółtych taksówek, natomiast Tabela 3. dla Ubera. 
-Tabela 2. Statystyki opisowe dla tradycyjnych żółtych taksówek
+	Tabela 3. przedstawia statystyki opisowe dla tradycyjnych żółtych taksówek, natomiast Tabela 4. dla Ubera. 
+Tabela 3. Statystyki opisowe dla tradycyjnych żółtych taksówek
 Statystyka
  Zmienna
 n
@@ -409,7 +474,7 @@ total_amount
 0
 
 Źródło: Opracowanie własne na podstawie danych zebranych z raportów NYC TLC
-Tabela 3. Statystyki opisowe dla Ubera
+Tabela 4. Statystyki opisowe dla Ubera
 Statystyka
 Zmienna
 n
@@ -457,7 +522,7 @@ total_amount
 0
 
 Źródło: Opracowanie własne na podstawie danych zebranych z raportów NYC TLC
-	Jak widać w Tabelach 2. i 3., średnia, odchylenie standardowe oraz mediana są wyższe w próbie Ubera, a skośność i kurtoza są większe w próbie taxi. Natomiast minimum, maksimum i rozstęp są praktycznie takie same, co wynika z ograniczenia danych po kwantylach (patrz. 2.1.). Na Rys 1. zobaczyć można rozkłady dystansu w postaci histogramu, na Rys. 2. przedstawiony jest czas, zaś na Rys. 3. ceny. Histogramy te potwierdzają wnioski, jakie można wyciągnąć z Tabel 2. i 3. Szczególnie warto zwrócić uwagę na widoczną skośność prawostronną, a także na większy rozrzut wartości w przypadku Ubera.
+	Jak widać w Tabelach 3. i 4., średnia, odchylenie standardowe oraz mediana są wyższe w próbie Ubera, a skośność i kurtoza są większe w próbie taxi. Natomiast minimum, maksimum i rozstęp są praktycznie takie same, co wynika z ograniczenia danych po kwantylach (patrz. 2.1.). Szczególną uwagę zwrócić warto na fakt, iż ceny są średnio wyższe w przypadku Ubera niż w przypadku taxi. Na Rys 1. zobaczyć można rozkłady dystansu w postaci histogramu, na Rys. 2. przedstawiony jest czas, zaś na Rys. 3. ceny. Histogramy te potwierdzają wnioski, jakie można wyciągnąć z Tabel 3. i 4. Szczególnie warto zwrócić uwagę na widoczną skośność prawostronną, a także na większy rozrzut wartości w przypadku Ubera.
 Rys. 1. Histogramy dystansu dla taxi i Ubera
 
 
@@ -470,55 +535,54 @@ Rys. 3. Histogramy ceny dla taxi i Ubera
 
 Rys. 4. Wykresy rozproszenia dla taxi i Ubera
 Źródło: Opracowanie własne na podstawie danych zebranych z raportów NYC TLC
-Jak widać, w przypadku taxi zależność ceny zarówno od dystansu, jak i od czasu, jest dużo bardziej skupiona i przyjmuje formę około liniową, podczas gdy w przypadku Ubera rozrzut jest bardzo duży i nie widać na pierwszy rzut oka konkretnej formy zależności. Jest to zgodne z intuicją oraz przedstawionymi wcześniej hipotezami, gdyż wpływ dystansu i czasu na cenę przejazdu jest ściśle określony w przypadku taxi (patrz. 1.1.2.), zaś w przypadku Ubera nie (patrz. 1.2.3.). Jeśli chodzi o zależność między czasem a dystansem, to tutaj zarówno w przypadku taxi jak i Ubera zaobserwować można duży rozrzut, co także wydaje się sensowne, ponieważ zależy to od czynników choćby takich jak warunki drogowe, które nie są stałe. 
-	W celu wzmocnienia oraz uzupełnienia wniosków płynących z Rys. 4., obliczona została macierz korelacji między dystansem, czasem oraz ceną. W celu jej wyznaczenia zastosowana została metoda Spearmana, jako że analizowane zmienne nie mają rozkładu normalnego. Macierz dla taxi widoczna jest w Tabeli 4., a dla Ubera w Tabeli 5. Obie  potwierdzają silne dodatnie korelacje między dystansem a czasem a ceną, zarówno w przypadku taxi jak i Ubera. 
+Jak widać, w przypadku taxi zależność ceny zarówno od dystansu, jak i od czasu, jest dużo bardziej skupiona i przyjmuje formę około liniową, podczas gdy w przypadku Ubera rozrzut jest bardzo duży i nie widać na pierwszy rzut oka konkretnej formy zależności. Jest to zgodne z intuicją oraz przedstawionymi wcześniej hipotezami, gdyż wpływ dystansu i czasu na cenę przejazdu jest ściśle określony w przypadku taxi (patrz. 1.1.2.), zaś w przypadku Ubera nie (patrz. 1.2.3.). Jeśli chodzi o zależność między czasem a dystansem, to tutaj zarówno w przypadku taxi jak i Ubera zaobserwować można duży rozrzut, co może wynikać choćby z warunków drogowych. 
+	W celu wzmocnienia oraz uzupełnienia wniosków płynących z Rys. 4., obliczona została macierz korelacji między dystansem, czasem oraz ceną. W celu jej wyznaczenia zastosowana została metoda Spearmana, jako że analizowane zmienne nie mają rozkładu normalnego. Macierz dla taxi widoczna jest w Tabeli 5., a dla Ubera w Tabeli 6. Obie  potwierdzają silne dodatnie korelacje między dystansem a czasem a ceną, zarówno w przypadku taxi jak i Ubera. 
 
-Tabela 4. Macierz korelacji dla dystansu, czasu i ceny dla taxi.
+Tabela 5. Macierz korelacji dla dystansu, czasu i ceny dla taxi.
 
 
 distance
 trip_time_mins
 total_amount
 distance
-1.000
-0.801
-0.852
+1.000***
+0.801***
+0.852***
 trip_time_mins
-0.801
-1.000
-0.909
+0.801***
+1.000***
+0.909***
 total_amount
-0.852
-0.909
-1.000
+0.852***
+0.909***
+1.000***
+Źródło: Opracowanie własne na podstawie danych zebranych z raportów NYC TLC
+Tabela 6. Macierz korelacji dla dystansu, czasu i ceny dla Ubera.
+
+
+distance
+trip_time_mins
+total_amount
+distance
+1.000***
+0.804***
+0.659***
+trip_time_mins
+0.804***
+1.000***
+0.717***
+total_amount
+0.659***
+0.717***
+1.000***
 
 Źródło: Opracowanie własne na podstawie danych zebranych z raportów NYC TLC
-Tabela 5. Macierz korelacji dla dystansu, czasu i ceny dla Ubera.
-
-
-distance
-trip_time_mins
-total_amount
-distance
-1.000
-0.804
-0.659
-trip_time_mins
-0.804
-1.000
-0.717
-total_amount
-0.659
-0.717
-1.000
-
-Źródło: Opracowanie własne na podstawie danych zebranych z raportów NYC TLC
-Warto jednak przy tym zauważyć, że w przypadku korelacji dystansu z ceną oraz czasu z ceną, to jest ona dużo wyższa w przypadku taxi niż w przypadku Ubera. Obserwacja ta jest wzmocnieniem dla wniosków wyciągniętych wcześniej na podstawie Rys. 4. Korelacja dystansu z czasem jest z kolei bardzo podobna w przypadku taxi i Ubera, co również jest w zgodzie z wnioskami przestawionymi wcześniej na podstawie Rys. 4. 
+Warto jednak przy tym zauważyć, że w przypadku korelacji dystansu z ceną oraz czasu z ceną, to jest ona dużo wyższa w przypadku taxi niż w przypadku Ubera. Obserwacja ta jest wzmocnieniem dla wniosków wyciągniętych wcześniej na podstawie Rys. 4.
 Rys. 5. Rozkład liczby przejazdów dla taxi i Ubera w podziale na godzinę i dzień tygodnia.
 
 
 Źródło: Opracowanie własne na podstawie danych zebranych z raportów NYC TLC
-	Rys. 5. przedstawia rozkład liczby przejazdów w dniach i godzinach dla taxi i Ubera. W obu przypadkach zauważyć można pewne trendy, w większości podobne dla obu przewoźników. Tymi wspólnymi trendami jest wzrost natężenia liczby przejazdów w wieczornych godzinach szczytu w dni robocze. Wzmożona aktywność występuje również w weekendy w godzinach nocnych. Istotną różnicę można zobaczyć w porannych godzinach szczytu w dni robocze. W przypadku taxi brak jest specyficznego wzrostu aktywności, a w zamian za to po prostu rozpoczyna się zwykłe natężenie, utrzymujące się również w godzinach późniejszych. W przypadku Ubera natomiast widoczny jest specyficzny okres wzmożonej aktywności w porannych godzinach szczytu, która następnie zmniejsza się w ciągu dnia. W ogólności zaobserwowany rozkład natężenia przejazdów jest zgodny z przedstawionym wcześniej modelem rytmu życia miasta (patrz. 1.6.3.), a także z literaturą (patrz. Battifarano i Qian, 2019).
+	Rys. 5. przedstawia rozkład liczby przejazdów w dniach i godzinach dla taxi i Ubera. W obu przypadkach zauważyć można pewne trendy, w większości podobne dla obu przewoźników. Tymi wspólnymi trendami jest wzrost natężenia liczby przejazdów w wieczornych godzinach szczytu w dni robocze. Wzmożona aktywność występuje również w weekendy w godzinach nocnych. Istotną różnicę można zobaczyć w porannych godzinach szczytu w dni robocze. W przypadku taxi brak jest specyficznego wzrostu aktywności, a w zamian za to po prostu rozpoczyna się zwykłe natężenie, utrzymujące się również w godzinach późniejszych. W przypadku Ubera natomiast widoczny jest specyficzny okres wzmożonej aktywności w porannych godzinach szczytu, która następnie zmniejsza się w ciągu dnia. W ogólności zaobserwowany rozkład natężenia przejazdów jest zgodny z przedstawionym wcześniej modelem rytmu życia miasta (patrz. 1.6.3.), a także z literaturą (patrz. Battifarano i Qian, 2019).  Warto zwrócić szczególną uwagę  na większą zmienność liczby przejazdów Ubera w porównaniu z taxi, przejawiającą się choćby we wspomnianych porannych godzinach szczytu. Może ona sugerować większą elastyczność w podaży Ubera, przy bardziej sztywnej podaży tradycyjnych taksówek.
 	
 Rys. 6. Rozkład cen dla taxi i Ubera. w podziale na godzinę i dzień tygodnia.
 
@@ -530,27 +594,33 @@ Rys. 6. Rozkład cen dla taxi i Ubera. w podziale na godzinę i dzień tygodnia.
 2.3.1. Specyfikacja
 
 	W celu osiągnięcia celu pracy, odpowiedzi na pytania badawcze oraz zweryfikowania hipotez badawczych, zbudowany został model ekonometryczny. Specyfikacja oraz forma modelu wynikają bezpośrednio z literatury oraz analizy eksploracyjnej.
-	Modele dla taxi oraz Ubera zostały oszacowane oddzielnie, jednak ich forma jest jednakowa, zatem przy omawianiu specyfikacji oba modele traktowane będą jak jeden. 	Zmienną objaśnianą jest zlogarytmowana opłata całkowita (total_amount) w dolarach. Forma zlogarytmowana została zastosowana ze względu na skośność rozkładów, gdyż zmniejsza ona wpływ wartości skrajnych, a także pozwala na interpretację parametrów jako semi-elastyczności, czyli jako przybliżone zmiany procentowe.  W skład tej opłaty wchodzą różne komponenty, różniące się także między przewoźnikami, jednak jest to o tyle nieistotne w kontekście tej analizy, że modelowana jest ona jako całość.
-	W modelu bazowym zmiennymi objaśniającymi są:
-- 	dystans (distance) mierzony w milach (zmienna ciągła) – jedna z podstawowych determinant w tym przypadku zgodnie z teorią cen hedonicznych (oczekiwany znak +)
-- 	czas (trip_time_mins) mierzony w minutach (zmienna ciągła) – również jedna z podstawowych determinant zgodnie z teorią cen hedonicznych (oczekiwany znak +)
-- 	pora dnia (hour_gr) zdefiniowana, na podstawie literatury oraz analizy eksploracyjnej jako następujące grupy godzin: (7-9) – poranne godziny szczytu (oczekiwany znak +), (6, 9-17) – godziny w których natężenie ruchu jest względnie stałe, mniejsze niż w godzinach szczytu, (17-21) – wieczorne godziny szczytu (oczekiwany znak +), (21-23) – godziny poprzedzające aktywności nocne (oczekiwany znak +), (23-6) – godziny nocne (oczekiwany znak niepewny, potencjalnie nieistotny) (zmienna zero-jedynkowa dla każdej grupy, grupą bazową jest (6, 9-17))
-- 	weekend (zmienna zero-jedynkowa, bazą są dni robocze) – w połączeniu z interakcją z porą dnia ma wychwycić różnice między weekendami a dniami  roboczymi (oczekiwany znak niepewny)
-- 	interacja weekendu z porą dnia (grupa zmiennych zero-jedynkowych) – jak wyżej (oczekiwany znak zależny od pory dnia)
-- 	miesiąc (zmienna zero-jedynkowa, bazą jest styczeń) – służy kontroli ewentualnej sezonowości lub różnic między miesiącami (jako że baza danych składa się z 3 miesięcy) (oczekiwany znak niepewny, potencjalnie nieistotny)
-- 	święta (zmienne zero-jedynkowe dla świąt federalnych) – mają za zadanie wychwycić niestandardowe wydarzenia, mogące zaburzyć analizę (lista świąt dostępna jest na stronie
- (https://www.ca2.uscourts.gov/clerk/calendars/federal_holidays.html)) (oczekiwane znaki niepewne, potencjalnie istotne).
-	Jako że wpływ dystansu i czasu nie musi być liniowe, co zostało przestawione wcześniej, model bazowy został rozszerzony. W modelu rozszerzonym do modelu dodane zostały następujące zmienne:
-- 	dystans do kwadratu (zmienna ciągła) – nieliniowość (oczekiwany znak -)
-- 	czas do kwadratu (zmienna ciągła) – nieliniowość (oczekiwany znak -)
-- 	interakcja dystansu i czasu (zmienna ciągła) - łączny wpływ dystansu i czasu na cenę może być nieliniowy i współzależny  (oczekiwany znak niepewny, potencjalnie istotny).
-Uzupełnienie w ten sposób modelu bazowego umożliwia uchwycenie potencjalnych nieliniowości oraz współzależności między dystansem i czasem.
+	Modele dla taxi oraz Ubera zostały oszacowane oddzielnie, jednak ich forma jest jednakowa, zatem przy omawianiu specyfikacji oba modele traktowane będą jak jeden.
 
-2.3.2. Wyniki estymacji
+Wzór 1. Postać modelu bazowego
 
-	Tabela 6. przedstawia wyniki estymacji, zarówno dla modelu bazowego, jak i rozszerzonego. 
+ln(total_amount) = distance + trip_time_mins + hour_gr + czy_weekend + hour_gr:czy_weekend + month + czy_01_01 + czy_19_01 + czy_16_02
 
-Tabela 6. Wyniki estymacji modeli ekonometrycznych
+	Postać modelu bazowego przestawia Wzór 1. Zmienną objaśnianą jest zlogarytmowana opłata całkowita (total_amount) w dolarach. Forma zlogarytmowana została zastosowana ze względu na skośność rozkładów, gdyż zmniejsza ona wpływ wartości skrajnych, a także pozwala na interpretację parametrów jako semi-elastyczności, czyli jako przybliżone zmiany procentowe. W modelu bazowym zmiennymi objaśniającymi są: dystans, czas, pora dnia, weekend, interakcja weekendu z porą dnia, miesiąc oraz święta.
+
+Wzór 2. Postać modelu rozszerzonego
+
+ln(total_amount) = distance + trip_time_mins + distance^2 + trip_time_mins^2 + distance:trip_time_mins + hour_gr + czy_weekend + hour_gr:czy_weekend + month + czy_01_01 + czy_19_01 + czy_16_02
+
+	Jako że wpływ dystansu i czasu nie musi być liniowy, co zostało przestawione wcześniej, model bazowy został rozszerzony. W modelu rozszerzonym zachowane zostały wszystkie zmienne z modelu bazowego, a dodatkowo wprowadzone zostały następujące zmienne: dystans do kwadratu, czas do kwadratu oraz interakcja dystansu i czasu. Postać modelu rozszerzonego przedstawia Wzór 2. Uzupełnienie w ten sposób modelu bazowego umożliwia uchwycenie potencjalnych nieliniowości oraz współzależności między dystansem i czasem.
+
+2.3.2. Diagnostyka
+
+	Zarówno dla modelu bazowego, jak i modelu rozszerzonego, przeprowadzona została diagnostyka pod kątem zgodności z tw. Gaussa – Markowa, w celu określenia właściwości modelu.
+	Testem RESET została zbadana liniowość formy funkcyjnej. Zarówno w modelu bazowym, jak i rozszerzonym na zadanym poziomie istotności należało odrzucić hipotezę zerową, a więc założenie o liniowości formy funkcyjnej zostało odrzucone. Podjęte zostały próby rozszerzenia modelu, zarówno pod kątem formy (lin-lin, log-log) jak i dodania kolejnych  interakcji i potęg zmiennych, jednak nie poprawiły one istotnie jakości modelu, a dodatkowo znacznie komplikowały interpretację. Warto jednak zwrócić uwagę na fakt, że próba, której dotyczy analiza jest ogromna, zaś test RESET jest testem czułym na wielkość próby (Christodoulou-Volos i Tserkezos, 2026). Co więcej, celem tej pracy jest określenie kierunków zależności między analizowanymi determinantami cen przejazdów a ceną przejazdu, a cel ten może zostać osiągnięty pomimo obciążenia estymatorów wynikającego z nieliniowości formy funkcyjnej. Zatem modele wybrane ostatecznie do analizy, choć nie spełniają założenia o liniowości formy funkcyjnej,  umożliwiają osiągnięcie celu pracy poprzez testowanie zależności przy względnie prostej interpretacji wyników.
+	Testem Breuscha – Pagana zbadana została homoskedastyczność reszt. Ponownie, hipoteza zerowa w obu modelach została odrzucona, co oznacza, że występuje heteroskedastyczność. W celu rozwiązania tego problemu zastosowane zostały klasyczne macierze odporne White’a (typ HC0). Ich zastosowanie nie wpłynęło jednak na wyniki wnioskowania – wszystkie zmienne pozostały statystycznie istotne na zadanych poziomie istotności. 
+	Testem Jarque – Bera zbadana została normalność reszt. Jak poprzednio, hipoteza zerowa została odrzucona, zatem założenie o normalności reszt nie zostało utrzymane. Jednak, biorąc pod uwagę wielkość próby, nie jest to problematyczne, gdyż zachowane są rozkłady asymptotyczne. 
+	Sprawdzona została również współliniowość, jako że zgodnie z Tabelami 3. i 4. korelacja między zmiennymi była wysoka. W tym celu policzone zostały statystyki VIF, jednak we wszystkich przypadkach okazały się one mniejsze od 5, co sugeruje, że aspekt współliniowości nie stanowi problemu w analizowanych modelach.  
+
+2.3.3. Wyniki estymacji
+
+	Tabela 7. przedstawia wyniki estymacji, zarówno dla modelu bazowego, jak i rozszerzonego. 
+
+Tabela 7. Wyniki estymacji modeli ekonometrycznych
 ===============================================================================================
                                                       Dependent variable:                      
                                 ---------------------------------------------------------------
@@ -628,44 +698,21 @@ Note:                                                               *p<0.1; **p<
 
 Źródło: Opracowanie własne na podstawie danych zebranych z raportów NYC TLC
 
-Jako że zastosowany został model w formie log-liniowej, oszacowania parametrów traktować należy jako semi-elastyczności. Oznacza to, że zmiana x1 o jednostkę powoduje, ceteris paribus (o ile ma to sens, bo np. w przypadku interakcji czy kwadratów nie ma sensu interpretacja oddzielna), wzrost wartości oczekiwanej y o (exp(beta1) – 1)*100%, a w przybliżeniu (dla małych bet) o beta*100%. Poziom istotności został ustalony na poziomie 0,01, zarówno w modelach bazowych jak i rozszerzonych, i w obu przypadkach wszystkie zmienne okazały się statystycznie istotne. Wpływ każdego parametru z osobna analizowany jest przy założeniu ceteris paribus, czyli trzymając pozostałe zmienne stałe.
+Jako że zastosowany został model w formie log-liniowej, oszacowania parametrów traktować należy jako semi-elastyczności. Oznacza to, że zmiana x1 o jednostkę powoduje, ceteris paribus (o ile ma to sens, bo np. w przypadku interakcji czy kwadratów nie ma sensu interpretacja oddzielna), wzrost wartości oczekiwanej y o (exp(beta1) – 1)*100%, a w przybliżeniu (dla małych bet) o beta*100%, czyli np. wzrost dystansu o jedną milę w modelu bazowym dla Ubera powoduje wzrost wartości oczekiwanej ceny o (exp(0,045) – 1)*100% ≈ 4,6%, czyli w przybliżeniu 0,045*100% = 4,5%. Poziom istotności został ustalony na poziomie 0,05, zarówno w modelach bazowych jak i rozszerzonych, i w obu przypadkach wszystkie zmienne okazały się statystycznie istotne. Wpływ każdego parametru z osobna analizowany jest przy założeniu ceteris paribus, czyli trzymając pozostałe zmienne stałe.
+	W pierwszej kolejności warto zwrócić uwagę na dopasowanie modeli. Model bazowy uzyskał R^2 na poziomie 0,52 w przypadku Ubera oraz 0,883 w przypadku taxi, natomiast w modelu rozszerzonym wartości te wynoszą odpowiednio 0,54 oraz 0,905. Oznacza to, że w przypadku Ubera modele wyjaśniają 52% oraz 54% zmienności ceny, podczas gdy dla taxi jest to aż 88,3% i 90,5%. Różnica między przewoźnikami jest zatem bardzo wyraźna i może wskazywać na odmienne mechanizmy kształtowania cen. W przypadku tradycyjnych taksówek wysoki poziom dopasowania wynika najprawdopodobniej z faktu, że ceny są w dużej mierze determinowane przez sztywną taryfę, której główne komponenty zostały uwzględnione w modelu. W przypadku Ubera natomiast niższe dopasowanie sugeruje większą zmienność cen oraz istotniejszą rolę czynników nieobserwowalnych, takich jak np. dynamiczne dostosowanie cen do bieżących warunków popytu i podaży poprzez surge-pricing. Tak więc już na tym początkowym etapie analizy widoczne jest, że ceny przejazdów taxi mają charakter bardziej przewidywalny i deterministyczny, podczas gdy ceny Ubera są bardziej elastyczne i zależne od sytuacji rynkowej. 
 	W modelu bazowym zarówno dla Ubera, jak i dla taxi, wpływ dystansu na cenę przejazdu jest dodatni. W przypadku Ubera wzrost dystansu o jedną milę powoduje wzrost wartości oczekiwanej ceny o około 4,5%, natomiast dla taxi efekt ten jest wyraźnie większy i wynosi około 9,3%. Sugeruje to, że cena przejazdu jest silniej powiązana z dystansem w przypadku taxi niż w przypadku Ubera, co jest zgodne z wcześniejszymi wnioskami wynikającymi z analizy eksploracyjnej oraz opisu systemu taryfowego.
-	Wpływ czasu na cenę przejazdu również jest dodatni. Dla Ubera wzrost czasu o jedną minutę prowadzi do wzrostu ceny o około 3,7%, natomiast w przypadku taxi efekt ten wynosi około 3,2%. Warto zauważyć, że różnice między przewoźnikami są tym razem małe, co sugeruje, że czas przejazdu odgrywa bardziej zbliżoną rolę w kształtowaniu ceny w obu systemach. Jednocześnie należy zauważyć, że wpływ czasu jest niższy niż wpływ dystansu, co wydaje się sensowne, biorąc pod uwagę konstrukcję taryf oraz algorytmów, w których komponent dystansowy ma zwykle charakter podstawowy, a komponent czasowy pełni rolę uzupełniającą, szczególnie w warunkach niskiej prędkości lub postoju.
+	Wpływ czasu na cenę przejazdu również jest dodatni. Dla Ubera wzrost czasu o jedną minutę prowadzi do wzrostu ceny o około 3,7%, natomiast w przypadku taxi efekt ten wynosi około 3,2%. Warto zauważyć, że różnice między przewoźnikami są tym razem małe, co sugeruje, że czas przejazdu odgrywa bardziej zbliżoną rolę w kształtowaniu ceny w obu systemach. Jednocześnie należy zauważyć, że wpływ czasu jest niższy niż wpływ dystansu zarówno dla taxi jak i dla Ubera, co jest zgodne z konstrukcją taryf oraz algorytmów, w których komponent dystansowy ma zwykle charakter podstawowy, a komponent czasowy pełni rolę uzupełniającą, szczególnie w warunkach niskiej prędkości lub postoju.
 	Wyniki dotyczące dystansu i czasu przejazdu uzyskane w modelu bazowym są zgodne z oczekiwaniami oraz hipotezami – obie zmienne są istotnymi determinantami ceny przejazdu zarówno Ubera, jak i taxi, a ich wpływ jest dodatni.
-	W przypadku pory dnia warto dokonać rozróżnienia na dni robocze i weekendy, co zostało uzasadnione w poprzednich sekcjach. Dla przypomnienia, jako poziom bazowy ustalona została grupa godzin (6, 9-17) w dni robocze, zatem wszelkie efekty omawiane dalej odnoszą się do jej poziomu. W modelu bazowym efekty przedstawiają się następująco: 
-- 	godziny nocne (23-6) wpływają pozytywnie na ceny przejazdu zarówno w przypadku taxi jak i Ubera – w obu przypadkach cena jest w tych godzinach o ok. 5,6% wyższa niż w grupie bazowej. Warto jednak zauważyć, że te efekty mogą wynikać z różnych mechanizmów. W przypadku taxi jest to określona taryfa, zgodnie z którą w godzinach nocnych obowiązuje dodatkowa opłata, zaś w przypadku Ubera powodem może być surge-pricing, np. ze względu na ograniczoną podaż kierowców
-- 	ciekawe wyniki uzyskane zostały dla porannych godzin szczytu (7-9). W tym przypadku, ceny Ubera są o ok. 2,5% wyższe od bazy, natomiast ceny taxi są o 1,5% niższe od bazy. W przypadku Ubera kierunek efektu jest zgodny z oczekiwaniami, choć jego siła jest mniejsza niż oczekiwana. W przypadku taxi natomiast kierunek wpływu jest dość zaskakujący, jako że oczekiwany był wpływ dodatni lub brak wpływu. Tym niemniej, w obu przypadkach wpływ ten jest bardzo niewielki
-- 	w przypadku wieczornych godzin szczytu (17-21) ceny są wyższe o ok. 5,5% w przypadku Ubera i o ok. 11% w przypadku taxi. Efekty te są zgodne z oczekiwaniami, choć warto zauważyć, że efekt jest dużo silniejszy w przypadku taxi, gdzie występują najwyższe opłaty dodatkowe zgodnie z taryfą, co potwierdza różnice w mechanizmach cenowych, a także może sugerować nieefektywność, jako że ceny Ubera, mogącego uchodzić za przewoźnika lepiej dostosowującego się do warunków rynkowych, rosną o 5 p. p. mniej niż tradycyjnych taksówek
-- 	w przypadku godzin poprzedzających aktywności nocne (21-23) ceny Ubera są wyższe o ok. 11,5%, zaś ceny taxi o ok. 5,7%. Ponownie, potwierdza różnice w mechanizmach cenowych oraz może sugerować pewną nieefektywność, jako że w tych godzinach opłaty dodatkowe wynikające z taryfy dla taxi są niższe, a tym razem cena Ubera rośnie bardziej.
-	W przypadku weekendu, należy rozpatrywać go w pierwszej kolejności w połączeniu z porą dnia, a w zależności od wyników można ewentualnie wyciągnąć potem wnioski dotyczące jego wpływu jako takiego. Poziomem bazowym dla pór dnia pozostaje grupa godzin (6, 9-17), zaś dla weekendu są to dni robocze. Jednak porównywanie z poziomem bazowym w postaci godzin (6, 9-17) w dni robocze jest mało praktyczne, a dużo więcej informacji na temat wpływu weekendu dostarcza porównanie zachowania ceny w tych samych porach dnia w weekendy i dni robocze. Zatem przy pierwszych parametrach zostanie przedstawione pełne rozumowanie, a w kolejnych jedynie część bardziej przydatna w praktyce. I tak w modelu bazowym w weekend:
-- 	godziny nocne (23-6) wpływają pozytywnie zarówno na ceny Ubera (wzrost o 13% względem poziomu bazowego), jak i taxi (wzrost o 5,2% względem bazy). Jest to zgodne z oczekiwaniami. Warto jednak zauważyć, że o ile w przypadku taxi różnica między godzinami nocnymi w weekend i dni robocze jest bardzo mała (- 0,5 p. p.), to w przypadku Ubera w weekend ceny w godzinach nocnych są o 7,5 p. p. wyższe niż w tych samych godzinach w dni robocze. Jednak to również jest zgodne z oczekiwaniami, ponieważ w przypadku taxi należałoby spodziewać się podobnych cen w godzinach nocnych przez cały tydzień, jako że taryfa nie różnicuje ze względu na weekendy
-- 	w przypadku porannych godzin szczytu (7-9) ceny w weekend są względem tej samej pory dnia w dni robocze niższe o 7,5 p. p. dla Ubera oraz 0.3 p. p. dla taxi. Ponownie zatem efekt dla taxi jest bardzo mały, zaś dla Ubera dość duży. Takie efekty są zgodne z oczekiwaniami – w przypadku Ubera, ze względu na brak porannych godzin szczytu w weekendy, zaś w przypadku taxi ze względu na brak różnicowania taryfowego
-- 	dla godzin (6, 9-17) w weekendy ceny są niższe o 2,4% dla Ubera i 1,9% dla taxi w porównaniu z tą samą porą dnia w dni robocze. W tym przypadku nie było spodziewanego konkretnego efektu, zaś otrzymany wydaje się jak najbardziej prawdopodobny 
-- 	w przypadku wieczornych godzin szczytu (17-21) w weekendy w porównaniu do tej samej pory dnia w dni robocze ceny Ubera są o 4,9 p. p. niższe, a taxi o 11,7 p. p. niższe. Tym razem zatem, choć różnica w przypadku Ubera jest niemała, to w przypadku taxi jest dużo większa. Oba efekty są jednak jak najbardziej zgodne z oczekiwaniami – w przypadku Ubera, ze względu na brak wieczornych godzin szczytu w weekendy, zaś w przypadku taxi ze względu na różnicowanie taryfowe, które w tym przypadku występuje. W weekendy bowiem taksówek nie obowiązuje rush hour surcharge.
-- 	w przypadku godzin poprzedzających aktywności nocne (21-23) w weekend ceny są niższe o 9,8 p. p. dla Ubera i 1,1 p. p. w przypadku taxi. Choć dla tej pory dnia oczekiwania nie były formułowane, warto zauważyć, że otrzymane wyniki są tym razem lekko nieoczywiste, bowiem w przypadku Ubera różnica jest duża, a wydaje się, że nie powinna, natomiast w przypadku taxi różnica, choć niewielka, jest znacznie większa niż w pozostałych przypadkach, co również jest niespodziewane. Są to zatem pola warte dalszego zbadania w kolejnych pracach. 
-	Jeśli chodzi o wpływ miesięcy, to w odniesieniu do stycznia ceny Ubera były wyższe o 1,4%, a w marcu o 9,3%, natomiast ceny taxi były wyższe o 0,1% w lutym oraz o 0,4% w marcu. Jak zatem widać, wpływ miesięcy na ceny taxi jest praktycznie zaniedbywalny, zaś w przypadku Ubera występują potencjalnie istotne zmiany, co ponownie  potwierdza różnice w mechanizmach cenowych między przewoźnikami.
-	W przypadku świąt również wpływ na Ubera jest widoczny, zaś na taxi praktycznie zaniedbywalny, z wyjątkiem Nowego Roku, który jednak jest świętem bardzo specyficznym.
-	Model bazowy uzyskał R^2 na poziomie 0,52 w przypadku Ubera oraz 0,883 w przypadku taxi. Oznacza to, że w przypadku Ubera model wyjaśnia 52% wariancji, natomiast w przypadku taxi 88,3%. Warto tu zwrócić uwagę na dwa aspekty – po pierwsze, na dużą różnicę między przewoźnikami, potwierdzającą znaczne różnice w mechanizmach cenowych, a po drugie na bardzo wysoki wynik w przypadku tradycyjnych taksówek, potwierdzający dobre dopasowanie modelu, którego należało się spodziewać, jako że uwzględnione zostały prawie wszystkie komponenty taryfowe używane do obliczania cen przejazdów w przypadku taxi. 
-	Model rozszerzony zawiera, oprócz wszystkich zmiennych z modelu bazowego, trzy dodatkowe zmienne – dystans w kwadracie, czas w kwadracie oraz interakcję czasu z dystansem. Wprowadzenie tych zmiennych uzasadnione zostało w poprzednich sekcjach. Wnioski odnoszące się do ceny początkowej, wpływu pór dnia,  weekendu, miesięcy oraz świąt pozostały, z uwzględnieniem drobnych zmian wartości, naturalnych przy wprowadzeniu dodatkowych zmiennych, takie same jak  w modelu bazowym, zatem nie będą tu ponownie omawiane. Wprowadzenie zmiennych dodatkowych umożliwia natomiast analizę czasu oraz dystansu pod kątem potencjalnych nieliniowości we wpływach krańcowych, a wzrost skorygowanego R^2 w porównaniu z modelem bazowym po ich wprowadzeniu potwierdza tego wprowadzenia zasadność. Jednakże, ze względu na wprowadzenie tychże zmiennych, parametry stojące przy nich nie mogą już być interpretowane jako bezwarunkowa sem-elastyczność. Właściwą miarą są właśnie efekty krańcowe, liczone jako pochodne cząstkowe. Co więcej, standardowy w praktyce ekonometrycznej sposób analizy, a więc przy założeniu ceteris paribus, jest tylko częściowo zasadny, jako że przy przejeździe wraz ze wzrostem dystansu będzie również zwykle rósł czas. Tym niemniej analiza przy założeniu ceteris paribus również ma sens, należy jedynie uważać wówczas z interpretacją, jako że będzie to porównanie dwóch przejazdów różniących się jedynie dystansem (a więc na przykład odbywanych z różną prędkością). W celu uproszczenia interpretacji, w tej pracy analizowane są właśnie efekty przy założeniu ceteris paribus, przy zaznaczeniu istotności drugiego problemu, który warto byłoby przeanalizować w kolejnych badaniach. 
-	Jeśli chodzi o wpływ dystansu, to w modelu rozszerzonym wzrost jego wartości o milę powoduje, ceteris paribus, wzrost wartości oczekiwanej ceny o (9,3 – 2*1*dystans + 0,2*czas)[%] dla Ubera, oraz (14,8 + 2*0,2*dystans – 0,4*czas)[%] dla taxi. W celu określenia wpływu w konkretnej sytuacji, należy podstawić do powyższych równań konkretne wartości. Aby zobrazować tę sytuację, można użyć np. wartości średnich przestawionych w Tabelach 2. lub 3. Biorąc wartości średnie z Tabeli 2., przy przejeździe o dystansie 1,83 mili, trwającym 11,89 minuty, wzrost dystansu o 1 milę spowoduje wzrost ceny o 8% dla Ubera (o ok. 3,5 p. p. więcej niż w modelu bazowym) oraz wzrost ceny o ok. 10,8% dla taxi (o 1,5 p. p. więcej niż w modelu bazowym) (warto raz jeszcze podkreślić, że jest to konkretny przypadek, a przy podstawieniu innych wartości wynik się zmieni). 
-	Jak było wspomniane wcześniej, w modelu rozszerzonym wpływ dystansu na cenę nie jest stały, lecz zmienia się wraz z poziomem dystansu (a przy uchyleniu założenia ceteris paribus, także czasu). 
-	W przypadku Ubera, ze względu na ujemny parametr przy zmiennej dystans do kwadratu, wpływ dystansu maleje wraz z jego wzrostem. Oznacza to, że każda kolejna mila wpływa na cenę w coraz mniejszym stopniu, oraz, co warto zauważyć, przy pewnym poziomie dystansu może mieć wpływ równy zero, a po jego przekroczeniu wpływ ten może stać się ujemny. Oznaczałoby, że dalsze zwiększanie dystansu prowadzi do spadku ceny. Należy jednak podkreślić, że interpretacja ta ma charakter czysto modelowy i wynika z założenia ceteris paribus. W praktyce bowiem wzrost dystansu wiąże się zazwyczaj ze wzrostem czasu przejazdu, co ogranicza możliwość zaobserwowania takiego efektu w rzeczywistych danych.  Jednocześnie warto mieć na uwadze, że ze względu na dodatnią interakcję dystansu z czasem, wpływ dystansu jest tym większy, im większa jest wartość czasu. W praktyce oznacza to, że dla dłuższych przejazdów krańcowy wpływ dystansu może być wyższy niż dla krótszych, nawet przy tym samym poziomie dystansu. 
-	W przypadku taxi natomiast sytuacja jest częściowo odwrotna. Dodatni parametr przy dystansie do kwadratu oznacza, że wpływ dystansu rośnie wraz z jego wzrostem, czyli każda kolejna mila zwiększa cenę w coraz większym stopniu, przy danym poziomie czasu. Z kolei ujemna interakcja dystansu z czasem wskazuje, że wpływ dystansu maleje wraz ze wzrostem czasu przejazdu. Oznacza to, że dla przejazdów trwających dłużej krańcowy wpływ dystansu jest niższy niż dla przejazdów krótszych, co może wynikać z konstrukcji taryfy, dla której przy niskich prędkościach opłata jest naliczana na podstawie czasu, a nie dystansu. 
-	Jak zatem widać, w przypadku obu przewoźników wpływ dystansu na cenę przejazdu jest złożony i zależy od kombinacji dystansu i czasu. W szczególności nie można jednoznacznie stwierdzić, czy wpływ ten rośnie czy maleje bez określenia poziomów bazowych, co dodatkowo komplikuje interpretację wyników.
-	W analogiczny sposób można przeanalizować wpływ czasu na cenę w modelu rozszerzonym. Krańcowy wpływ czasu, podobnie jak w przypadku dystansu, nie jest stały, lecz zależy od poziomu zarówno czasu, jak i dystansu. Dla Ubera wzrost czasu przejazdu o jedną minutę powoduje, ceteris paribus, wzrost wartości oczekiwanej ceny o (6,4 – 2*0,1*czas + 0,2*dystans)[%], natomiast dla taxi (3,2 − 2*0,04*czas − 0,4*dystans)[%]. Podobnie jak wcześniej, w celu uzyskania konkretnej wartości należy podstawić odpowiednie poziomy zmiennych. 
-	W przypadku Ubera ujemny parametr przy zmiennej czas do kwadratu wskazuje na malejący wpływ czasu wraz z jego wzrostem. Oznacza to, że każda kolejna minuta zwiększa cenę w coraz mniejszym stopniu. Jednocześnie dodatnia interakcja czasu z dystansem oznacza, że wpływ czasu jest tym większy, im większa wartość dystansu. W praktyce oznacza to, że dla tras dłuższych w sensie dystansu krańcowy wpływ czasu może być wyższy niż dla tras krótszych, nawet przy tym samym poziomie czasu przejazdu. 
-	W przypadku taxi sytuacja jest ponownie częściowo odmienna. Ujemny parametr przy czasie do kwadratu wskazuje, że wpływ czasu maleje wraz z jego wzrostem. Dodatkowo ujemna interakcja czasu z dystansem oznacza, że wpływ czasu jest tym mniejszy, im większa wartość dystansu, co jest zgodne z wnioskami wyciągniętymi przy analizie dystansu. W konsekwencji dla dłuższych przejazdów (w sensie większego dystansu) krańcowy wpływ czasu może być niższy niż dla przejazdów krótszych. Jak wyżej, może to wynikać z konstrukcji taryfy, w której przy niskich prędkościach opłata naliczana jest głównie na podstawie czasu, natomiast przy wyższych prędkościach większe znaczenie ma komponent dystansowy. 
-	Podobnie zatem jak w przypadku dystansu, również dla czasu przejazdu nie można jednoznacznie określić, czy jego wpływ na cenę rośnie czy maleje bez wskazania konkretnych poziomów zmiennych. W szczególności obecność interakcji oznacza, że wpływ czasu zależy także od dystansu, co analogicznie jak w przypadku dystansu komplikuje interpretację wyników.
-	Jak zatem widać, wprowadzenie do modelu dystansu i czasu w drugiej potędze oraz ich interakcji znacząco skomplikowało model oraz wnioskowanie. Z drugiej strony, poprawiło skorygowane R^2 oraz pozwoliło na przeanalizowanie potencjalnych zależności nieliniowych, zaś analiza ta była potrzebna, co zostało wykazane wcześniej.
-
-2.3.3. Diagnostyka
-
-	Zarówno dla modelu bazowego, jak i modelu rozszerzonego, przeprowadzona została diagnostyka pod kątem zgodności z tw. Gaussa – Markowa, w celu określenia właściwości modelu.
-	Testem RESET została zbadana liniowość formy funkcyjnej. Zarówno w modelu bazowym, jak i rozszerzonym na zadanym poziomie istotności należało odrzucić hipotezę zerową, a więc założenie o liniowości formy funkcyjnej zostało odrzucone. Warto jednak zwrócić uwagę na fakt, że próba, której dotyczy analiza jest ogromna, zaś test RESET jest testem czułym na wielkość próby. Co więcej, celem tej pracy jest określenie kierunków zależności między analizowanymi determinantami cen przejazdów a ceną przejazdu, a cel ten może zostać osiągnięty pomimo obciążenia estymatorów wynikającego z nieliniowości formy funkcyjnej. 
-	Testem Breuscha – Pagana zbadana została homoskedastyczność reszt. Ponownie, hipoteza zerowa w obu modelach została odrzucona, co oznacza, że występuje heteroskedastyczność. W konsekwencji nie można ufać błędom standardowym, a przez to niemożliwe jest poprawne wnioskowanie statystyczne. W celu rozwiązania tego problemu zastosowane zostały macierze odporne. Ich zastosowanie nie wpłynęło jednak na wyniki wnioskowania – wszystkie zmienne pozostały statystycznie istotne na zadanych poziomie istotności. 
-	Testem Jarque – Bera zbadana została normalność reszt. Jak poprzednio, hipoteza zerowa została odrzucona, zatem założenie o normalności reszt nie zostało utrzymane. Jednak, biorąc pod uwagę wielkość próby, nie jest to problematyczne, gdyż zachowane są rozkłady asymptotyczne. 
-	Sprawdzona została również współliniowość, jako że zgodnie z Tabelami 2. i 3. korelacja między zmiennymi była wysoka. W tym celu policzone zostały statystyki VIF, jednak we wszystkich przypadkach okazały się one mniejsze od 5, co sugeruje, że aspekt współliniowości nie stanowi problemu w analizowanych modelach. 
-	Podsumowując, po wykonaniu testów diagnostycznych analizowane modele nie spełniają założeń tw. Gaussa – Markowa, zatem nie są najlepszymi nieobciążonymi estymatorami w klasie estymatorów liniowych (ang. BLUE). Tym niemniej, dla celów tej pracy, to jest analizy kierunków zależności, modele te (przy użyciu macierzy odpornych) można jak najbardziej wykorzystać. 
+	Ciekawych wniosków dostarcza analiza wpływu pór dnia oraz weekendu na ceny. Warto zwrócić tu szczególną uwagę na dwa aspekty – różnice między przewoźnikami w tych samych okresach oraz zmienność cen dla każdego z nich. 
+	W przypadku taxi najsilniejszy wzrost cen obserwowany jest w klasycznych wieczornych godzinach szczytu 17-21 w dni robocze, gdzie ceny są wyższe o ok. 11% względem poziomu bazowego (dla przypomnienia, poziom bazowy został ustalony jako godziny (6, 9-17)). Efekt ten jest zgodny z przewidywaniami i wynika najprawdopodobniej z konstrukcji taryfy, zgodnie z którą w tym przedziale czasowym obowiązuje dodatkowa opłata (rush hour surcharge). Ceny Ubera także reagują na ten okres, jednak wzrost jest tam znacznie mniejszy (ok. 5,5%). Warto zauważyć, że zarówno w przypadku taxi, jak i Ubera, efekt zanika w weekendy, co wspiera hipotezę o ,,pracowych’’ wieczornych godzinach szczytu w dni robocze.
+	W przypadku godzin 21-23 oraz 23-6 efekt dla taxi jest względnie stały, zarówno w dni robocze, jak i w weekendy (ok. 4,5-5,5%). Jest to zgodne z konstrukcją taryfy, która przewiduje stałą opłatę nocną we wszystkie dni tygodnia. Sytuacja jest odmienna w przypadku Ubera. Tutaj efekt godzin 21-23 jest znacznie większy w dni robocze (ok. 11,5%), a w weekendy praktycznie zanika (ok. 1,7%), natomiast efekt godzin nocnych jest największy w weekendy (ok. 13%), zaś w dni robocze jest zbliżony do poziomu taxi (ok. 5,5%). Oznacza to, że Uber cechuje się dużo większą zmiennością w godzinach wieczornych i nocnych, podczas gdy taxi reaguje silniej na klasyczne ,,pracowe’’ wieczorne godziny szczytu. Jest to zgodne z oczekiwaniami wynikającymi z konstrukcji taryfy dla taxi oraz działania mechanizmu cenowego Ubera.
+	Efekty porannych godzin szczytu 7-9 są stosunkowo słabe dla obu przewoźników,  jednakże warto odnotować, że w przypadku Ubera w weekend występuje efekt ujemny (ok. -5%), który w połączeniu z dodatnim wynikiem dni roboczych (2,5%) sugeruje, że ceny Ubera w porannych godzinach szczytu w dni robocze są o ok. 7,5% wyższe niż w tym samym okresie w weekend, co wspiera hipotezy o dodatnim wpływie porannych godzin szczytu oraz większej elastyczności Ubera.
+	Jak zatem widać, poszczególne pory dnia wpływają w różny sposób na poszczególnych przewoźników, a wpływ ten różni się także między dniami roboczymi w weekendem. Nie sposób zatem określić jednoznacznie wpływu weekendu na ceny. Warto natomiast zauważyć, że ceny Ubera cechują się znacznie większą zmiennością pomiędzy dniami roboczymi a weekendami niż ceny taxi, które dla wszystkich pór dnia z wyjątkiem godzin 17-21 zachowują się praktycznie tak samo w dni robocze i weekendy.
+	Efekty miesięcy oraz świąt również wspierają hipotezę o większej zmienności cen Ubera przy bardziej stabilnych cenach taxi. 
+	Model rozszerzony zawiera, oprócz wszystkich zmiennych z modelu bazowego, trzy dodatkowe zmienne – dystans w kwadracie, czas w kwadracie oraz interakcję czasu z dystansem. Wprowadzenie tych zmiennych uzasadnione zostało w poprzednich sekcjach. Wnioski odnoszące się do wpływu pór dnia,  weekendu, miesięcy oraz świąt pozostały, z uwzględnieniem drobnych zmian wartości, naturalnych przy wprowadzeniu dodatkowych zmiennych, takie same jak  w modelu bazowym, zatem nie będą tu ponownie omawiane. Wprowadzenie zmiennych dodatkowych umożliwia natomiast analizę czasu oraz dystansu pod kątem potencjalnych nieliniowości we wpływach krańcowych, a wzrost skorygowanego R^2 w porównaniu z modelem bazowym po ich wprowadzeniu potwierdza tego wprowadzenia zasadność.
+	Jeśli chodzi o wpływ dystansu, to w modelu rozszerzonym wzrost jego wartości o milę powoduje, ceteris paribus, wzrost wartości oczekiwanej ceny o (9,3 – 2*1*dystans + 0,2*czas)[%] dla Ubera, oraz (14,8 + 2*0,2*dystans – 0,4*czas)[%] dla taxi. Jak zatem widać, w modelu rozszerzonym wpływ dystansu na cenę nie jest stały, lecz zmienia się wraz z poziomem dystansu (a przy uchyleniu założenia ceteris paribus, także czasu). Warto zauważyć, że w przypadku Ubera, ze względu na ujemny parametr przy zmiennej dystans do kwadratu, wpływ dystansu maleje wraz z jego wzrostem. Oznacza to, że każda kolejna mila wpływa na cenę w coraz mniejszym stopniu. W przypadku taxi sytuacja jest natomiast odwrotna. Dodatni parametr przy dystansie do kwadratu oznacza, że wpływ dystansu rośnie wraz z jego wzrostem, czyli każda kolejna mila zwiększa cenę w coraz większym stopniu, przy danym poziomie czasu. 
+	W analogiczny sposób można przeanalizować wpływ czasu na cenę w modelu rozszerzonym. Krańcowy wpływ czasu, podobnie jak w przypadku dystansu, nie jest stały, lecz zależy od poziomu czasu (oraz, przy uchyleniu założenia ceteris paribus, dystansu). Dla Ubera wzrost czasu przejazdu o jedną minutę powoduje, ceteris paribus, wzrost wartości oczekiwanej ceny o (6,4 – 2*0,1*czas + 0,2*dystans)[%], natomiast dla taxi (3,2 − 2*0,04*czas − 0,4*dystans)[%]. Warto zauważyć, że w przypadku czasu znak parametru przy czasie do kwadratu jest ujemny dla obu przewoźników. Oznacza to, że wpływ czasu maleje wraz z jego wzrostem zarówno dla Ubera, jak i dla taxi. Zatem, dla obu przewoźników każda kolejna minuta wpływa na cenę w coraz mniejszym stopniu.
+	Szczególną uwagę warto zwrócić na interakcje czasu z dystansem. W przypadku Ubera jej znak jest dodatni, co może sugerować, że algorytm cenowy uwzględnia dodatkowy koszt w sytuacjach takich jak korki, co jest zgodne surge-pricingiem. W przypadku taxi interakcja jest natomiast ujemna, co wskazuje na występowanie substytucji między dystansem a czasem, np. w warunkach dużego natężenia ruchu wpływ dystansu na cenę jest mniejszy. Mechanizm ten wydaje się to spójne z konstrukcją taryfy taxi. 
 
 2.4. Weryfikacja hipotez badawczych
 
@@ -686,6 +733,180 @@ Jako że zastosowany został model w formie log-liniowej, oszacowania parametró
 -	wpływ weekendu omówiony został powyżej, i jak widać nie jest on jednoznaczny, ale zależy od pory dnia
 - 	jeśli chodzi o zależności nieliniowe wpływu czasu i dystansu, to na podstawie przeprowadzonej analizy można zawyrokować, że takowe występują, jednak ich wpływ jest ciężki do zinterpretowania, jako że zależy od więcej niż jednego czynnika, co znacznie utrudnia klasyczną analizę ceteris paribus.
 
+ANEKS
+
+data:  uber_m
+RESET = 194442, df1 = 2, df2 = 10382155, p-value < 2.2e-16
+
+
+data:  taxi_m
+RESET = 910542, df1 = 2, df2 = 6922285, p-value < 2.2e-16
+
+
+data:  uber_m2
+RESET = 20137, df1 = 2, df2 = 10382152, p-value < 2.2e-16
+
+
+data:  taxi_m2
+RESET = 95940, df1 = 2, df2 = 6922282, p-value < 2.2e-16
+
+
+data:  uber_m
+BP = 156984, df = 16, p-value < 2.2e-16
+
+
+data:  taxi_m
+BP = 45375, df = 16, p-value < 2.2e-16
+
+
+data:  uber_m2
+BP = 223840, df = 19, p-value < 2.2e-16
+
+
+data:  taxi_m2
+BP = 57104, df = 19, p-value < 2.2e-16
+
+
+data:  uber_m$residuals
+X-squared = 418224, df = 2, p-value < 2.2e-16
+
+
+data:  taxi_m$residuals
+X-squared = 1386849, df = 2, p-value < 2.2e-16
+
+
+data:  uber_m2$residuals
+X-squared = 603719, df = 2, p-value < 2.2e-16
+
+
+data:  taxi_m2$residuals
+X-squared = 2713983, df = 2, p-value < 2.2e-16
+
+taxi kwadraty
+                   GVIF Df GVIF^(1/(2*Df))                Interacts With
+distance       1.147251  5        1.013832 I(distance^2), trip_time_mins
+trip_time_mins 1.147251  5        1.013832 I(trip_time_mins^2), distance
+hour_gr        1.225874  9        1.011378                   czy_weekend
+czy_weekend    1.225874  9        1.011378                       hour_gr
+month          1.034862  1        1.017282                          --  
+czy_01_01      1.030262  1        1.015018                          --  
+czy_19_01      1.044508  1        1.022012                          --  
+czy_16_02      1.024098  1        1.011977                          --  
+
+
+uber kwadraty
+                   GVIF Df GVIF^(1/(2*Df))                Interacts With
+distance       1.133573  5        1.012616 I(distance^2), trip_time_mins
+trip_time_mins 1.133573  5        1.012616 I(trip_time_mins^2), distance
+hour_gr        1.215540  9        1.010903                   czy_weekend
+czy_weekend    1.215540  9        1.010903                       hour_gr
+month          1.033569  1        1.016646                          --  
+czy_01_01      1.029476  1        1.014631                          --  
+czy_19_01      1.045668  1        1.022579                          --  
+czy_16_02      1.030200  1        1.014988                          -- 
+
+
+taxi 
+                   GVIF Df GVIF^(1/(2*Df)) Interacts With
+distance       2.362389  1        1.537007           --  
+trip_time_mins 2.381592  1        1.543241           --  
+hour_gr        1.178664  9        1.009174    czy_weekend
+czy_weekend    1.178664  9        1.009174        hour_gr
+month          1.034709  1        1.017206           --  
+czy_01_01      1.030010  1        1.014894           --  
+czy_19_01      1.044286  1        1.021903           --  
+czy_16_02      1.024067  1        1.011962           -- 
+
+
+
+uber
+                   GVIF Df GVIF^(1/(2*Df)) Interacts With
+distance       2.234742  1        1.494905           --  
+trip_time_mins 2.287353  1        1.512400           --  
+hour_gr        1.177612  9        1.009124    czy_weekend
+czy_weekend    1.177612  9        1.009124        hour_gr
+month          1.033417  1        1.016571           --  
+czy_01_01      1.029266  1        1.014528           --  
+czy_19_01      1.045436  1        1.022466           --  
+czy_16_02      1.030160  1        1.014968           --  
+
+
+
+
+
+
+Macierze  odporne
+
+========================================================================
+                                          Dependent variable:           
+                                ----------------------------------------
+                                                                        
+                                   (1)       (2)       (3)        (4)   
+------------------------------------------------------------------------
+distance                        0.045***  0.093***   0.148***  0.093*** 
+                                (0.0003)  (0.0003)   (0.0002)  (0.0002) 
+                                                                        
+trip_time_mins                  0.037***  0.064***   0.050***  0.032*** 
+                                (0.0001)  (0.0001)  (0.00003)  (0.00003)
+                                                                        
+I(distance2)                              -0.010***  0.002***           
+                                          (0.00004) (0.00003)           
+                                                                        
+I(trip_time_mins2)                        -0.001*** -0.0004***          
+                                          (0.00000) (0.00000)           
+                                                                        
+hour_gr17-21                    0.055***  0.048***   0.107***  0.110*** 
+                                (0.0003)  (0.0003)   (0.0001)  (0.0001) 
+                                                                        
+hour_gr21-23                    0.115***  0.104***   0.050***  0.057*** 
+                                (0.0004)  (0.0004)   (0.0001)  (0.0001) 
+                                                                        
+hour_gr23-6                     0.055***  0.049***   0.049***  0.057*** 
+                                (0.0004)  (0.0004)   (0.0002)  (0.0002) 
+                                                                        
+hour_gr7-9                      0.025***  0.022***  -0.017***  -0.015***
+                                (0.0004)  (0.0004)   (0.0002)  (0.0002) 
+                                                                        
+czy_weekendWeekend              -0.024*** -0.031*** -0.021***  -0.019***
+                                (0.0003)  (0.0003)   (0.0001)  (0.0001) 
+                                                                        
+month2                          0.014***  0.015***   0.001***  0.001*** 
+                                (0.0002)  (0.0002)   (0.0001)  (0.0001) 
+                                                                        
+month3                          0.093***  0.094***   0.004***  0.004*** 
+                                (0.0002)  (0.0002)   (0.0001)  (0.0001) 
+                                                                        
+czy_01_01                       0.033***  0.032***  -0.067***  -0.066***
+                                 (0.001)   (0.001)   (0.0005)  (0.0005) 
+                                                                        
+czy_19_01                       0.038***  0.037***   0.002***  0.003*** 
+                                 (0.001)   (0.001)   (0.0004)  (0.0004) 
+                                                                        
+czy_16_02                       -0.057*** -0.058***  0.003***  0.004*** 
+                                 (0.001)   (0.001)   (0.0004)  (0.0004) 
+                                                                        
+distance:trip_time_mins                   0.002***  -0.004***           
+                                          (0.00001) (0.00001)           
+                                                                        
+hour_gr17-21:czy_weekendWeekend -0.025*** -0.015*** -0.096***  -0.098***
+                                (0.0005)  (0.0005)   (0.0002)  (0.0002) 
+                                                                        
+hour_gr21-23:czy_weekendWeekend -0.074*** -0.063***  0.012***  0.008*** 
+                                 (0.001)   (0.001)   (0.0003)  (0.0003) 
+                                                                        
+hour_gr23-6:czy_weekendWeekend  0.099***  0.106***   0.015***  0.014*** 
+                                 (0.001)   (0.001)   (0.0003)  (0.0003) 
+                                                                        
+hour_gr7-9:czy_weekendWeekend   -0.051*** -0.044***  0.016***  0.016*** 
+                                 (0.001)   (0.001)   (0.001)    (0.001) 
+                                                                        
+Constant                        2.548***  2.323***   2.263***  2.418*** 
+                                (0.0005)  (0.0005)   (0.0002)  (0.0002) 
+                                                                        
+========================================================================
+========================================================================
+Note:                                        *p<0.1; **p<0.05; ***p<0.01
+
 
 BIBLIOGRAFIA
 https://www.nyc.gov/html/media/totweb/taxioftomorrow_history_earlyyears.html
@@ -703,6 +924,8 @@ https://www.ebsco.com/research-starters/business-and-management/uber-company
 https://abovethecrowd.com/2014/03/11/a-deeper-look-at-ubers-dynamic-pricing-model/
 https://www.uber.com/en-GH/blog/uber-dynamic-pricing/
 https://www.ca2.uscourts.gov/clerk/calendars/federal_holidays.html
+ https://www.fastcompany.com/3040863/stop-saying-uber-is-part-of-the-sharing-economy
+
 Chen, Le, Alan Mislove, and Christo Wilson. “Peeking Beneath the Hood of Uber.” Proceedings of the 	2015 Internet Measurement Conference, October 28, 2015, 495–508. 	https://doi.org/10.1145/2815675.2815681.
 Hall, Jonathan, Cory Kendrick, and Chris Nosko. The Effects of Uber’s Surge Pricing: A Case Study. 	n.d. https://www.uber.com/blog/research/the-effects-of-ubers-surge-pricing-a-case-study/
 Binns, Reuben, Jake Stein, Siddhartha Datta, Max Van Kleek, and Nigel Shadbolt. “Not Even Nice 	Work If You Can Get It; A Longitudinal Study of Uber’s Algorithmic Pay and Pricing.” 	arXiv:2506.15278. Preprint, arXiv, June 18, 2025. https://doi.org/10.48550/arXiv.2506.15278.
@@ -740,6 +963,8 @@ Armstrong, Mark. “Competition in Two-Sided Markets.” The RAND Journal of Eco
 
 Rochet, Jean-Charles, and Jean Tirole. “Two-Sided Markets: A Progress Report.” The RAND 	Journal of Economics 37, no. 3 (2006): 645–67. https://doi.org/10.1111/j.1756-	2171.2006.tb00036.x.
 
+Christodoulou-Volos, Christos, and Dikaios Tserkezos. “Time Aggregation and the RESET 	Test: Implications for Exchange Rate Modeling.” Theoretical and Practical Research 	in Economic Fields 17, no. 1 (2026): 166. https://doi.org/10.14505/tpref.v17.1(37).12.
+
 G.G. Parker, M.W. Van Alstyne, S.P. Choudary, Platform Revolution. How Networked 	Markets Are Transforming the Economy And How to Make Them Work for You, W.W. 	Norton & Company, New York 2016. 
 D.S. Evans, R. Schmalensee, Matchmakers: The New Economics of Multisided Platforms, 	Harvard Business Review Press, Boston 2016 
 
@@ -764,5 +989,3 @@ Garg, 2022 ,,Driver surge pricing’’  https://arxiv.org/pdf/1905.07544
 Pepić, Lana. “The Sharing Economy: Uber and Its Effect on Taxi Companies.” ACTA 	ECONOMICA 16, no. 28 (2018). https://doi.org/10.7251/ACE1828123P.
 
 Abraham, Katherrine... ,,Driving the Gig Economy. 2024.  DOI 10.3386/w32766 
-
- 

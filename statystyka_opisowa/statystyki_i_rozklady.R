@@ -145,7 +145,6 @@ wszystkie_obciete %>%
     cor_price_time = cor(total_amount, trip_time_mins, method = "spearman"),
     cor_dist_time  = cor(distance, trip_time_mins, method = "spearman"))
 
-
 # Natężenie przejazdów
 
 # Heatmapy liczby przejazdów w dniach i godzinach

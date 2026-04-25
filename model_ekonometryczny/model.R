@@ -110,6 +110,14 @@ cor(uber[, c("total_amount", "distance", "trip_time_mins")],
 cor(taxi[, c("total_amount", "distance", "trip_time_mins")],
     method = "spearman")
 
+cor.test(uber$total_amount, uber$distance, method = "spearman")
+cor.test(uber$total_amount, uber$trip_time_mins, method = "spearman")
+cor.test(uber$distance, uber$trip_time_mins, method = "spearman")
+
+cor.test(taxi$total_amount, taxi$distance, method = "spearman")
+cor.test(taxi$total_amount, taxi$trip_time_mins, method = "spearman")
+cor.test(taxi$distance, taxi$trip_time_mins, method = "spearman")
+
 # Współczynnik VIF
 
 vif(uber_m, type = "predictor")
