@@ -172,9 +172,9 @@ vif(taxi_m2, type = "predictor")
 # Modele bazowe i rozszerzone
 stargazer(uber_m, uber_m2, taxi_m2, taxi_m,
           type = "text", align = TRUE, style = "default", df = FALSE)
-
-# Usuwamy niepotrzebne już modele bazowe
-rm(uber_m, taxi_m)
+stargazer(uber_m, uber_m2, taxi_m2, taxi_m,
+          type = "html",
+          out = "tabela_regresji.html")
 
 # Reszty
 
